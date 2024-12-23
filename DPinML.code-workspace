@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/10k_synthea_covid19_csv"
+		}
+	],
+	"settings": {}
+}

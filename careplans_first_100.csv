@@ -1,0 +1,1001 @@
+Id,START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+fea43343-7312-423f-bb82-b2f5ae71a260,2020-03-01,2020-03-01,f0f3bc8d-ef38-49ce-a2bd-dfdda982b271,681c380b-3c84-4c55-80a6-db3d9ea12fee,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+51dd78df-2b01-486a-8b33-1fbcd9cec211,2020-02-12,2020-02-26,067318a4-db8f-447f-8b6e-f2f61e9baaa5,adedca64-700b-4fb9-82f1-9cbb658abb73,91251008,Physical therapy procedure,44465007.0,Sprain of ankle
+b7f24b6d-1907-4154-9d78-b608bc958d96,2010-08-24,,ae9efba3-ddc4-43f9-a781-f72019388548,07a2f747-fb8c-46b2-9b17-9e79c9ec153f,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+178a36f5-eb58-4fe2-8448-717e4af045c2,2020-03-01,2020-03-02,199c586f-af16-4091-9998-ee4cfc02ee7a,8333efdf-f7bf-43bb-b73f-2b663d14c1ad,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+55b8c126-4bc9-4523-b5de-a739dd927354,2020-03-02,2020-03-02,353016ea-a0ff-4154-85bb-1cf8b6cedf20,8d502eec-afc0-4639-b298-a152a16d492a,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ce19566e-3da0-4ab0-a74b-c92e2252f359,2020-02-18,2020-03-05,f58bf921-cba1-475a-b4f8-dc6fa3b8f89c,e3143bce-4a59-40aa-a198-7a9e54077fd8,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c632d794-2c56-4b22-9477-96fbcea4e8ea,2020-02-25,2020-02-25,b9fd2dd8-181b-494b-ab15-e9f286d668d9,d99ee74b-4464-4bc7-b84f-9c7821c1285a,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c5a5c0e0-9e4f-4e5e-9c46-0cac2cbe4e86,2014-08-28,,d22592ac-552f-4ecd-a63d-7663d77ce9ba,82479cbe-a96d-4206-8f73-ffbd4bec6388,698360004,Diabetes self management plan,15777000.0,Prediabetes
+7fd0b0d6-1096-4ec5-a25d-56bd83193cbe,2019-12-03,,28658715-b770-4576-9a81-fbb2282a98ea,f403e6e6-4814-4a9d-950a-331e54d88352,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+01b7a806-8c4c-4ea4-9d98-a5eeb80ee0c1,2020-03-02,2020-03-02,055ae6fc-7e18-4a39-8058-64082ca6d515,df9831c9-3984-4626-9fbe-ae6e437425b2,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+eb4d8170-637b-4edd-b557-22cf75fb4984,1996-08-17,,478a4846-0ae6-4ec8-8155-019708911526,81b9e34f-64bb-427c-9107-965d7d81846a,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+568a6cfe-f63c-490d-804b-24229860100b,2012-06-23,,58cac9ec-4baa-46c1-b919-0ed13572b51d,6c79dab5-dd11-4239-a8a5-670d40320f87,698360004,Diabetes self management plan,15777000.0,Prediabetes
+701d3d07-e409-4460-a263-9f53264c5007,2011-09-07,2012-04-11,f73d6f41-0091-4485-8b43-9d38eb98fb36,c22d5977-5fe1-48c5-9dd9-6d18c36194ed,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+0b159a3f-87e5-40d7-9abd-1269773ca2d7,1983-01-22,,df6b563d-1ff4-4833-9af8-84431e641e9c,d68c19fe-e9ad-4fad-a047-33b55d5e9ff3,384758001,Self-care interventions (procedure),,
+8644ae11-5aac-4b28-91d1-ec837c851719,2020-03-07,2020-03-28,f39d31c4-9ba8-4468-9f48-065a8dc13e0f,f15a8e69-4998-4c23-ac9f-9d3309be1758,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+90467846-cb41-4e5e-848c-b0ef1ba4f21e,2002-02-12,,ff7b040b-aa96-4003-8926-3dac8ca8eb05,d5f92234-24bb-46c5-ae2d-5fd50b254ea9,384758001,Self-care interventions (procedure),,
+c27f2c39-e093-4200-b831-26464f4767b0,2020-03-06,2020-03-06,3e7c92d1-3c0d-485d-8289-154750bd5770,862f43f4-10a8-4bb6-a5f4-a199a6fc2c9f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+2fa27578-fdd5-4461-aae0-e04c4f7ee56f,2003-09-08,,007228b1-99a1-4865-b790-785cec20bd84,0291bb4c-cef9-4f6d-8b87-141b522de201,734163000,Care plan (record artifact),55680006.0,Drug overdose
+e0cc2a79-78e4-43a5-bdc2-cca06416016f,2002-06-16,2002-08-07,1610c8a8-9db2-42f1-84d4-a9c49204e644,8dbbf148-6687-4bb7-8e9c-a2713ef3c1ab,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+1f4c353e-dc4b-4a47-82d6-eb7b879d79ef,1971-04-09,,0bccccae-0961-4ee0-896a-d80729b22e6c,f03961ff-97c7-4107-816d-75a270ccd73f,384758001,Self-care interventions (procedure),,
+fa579f33-bba7-461f-9869-2c2bf4166c77,2018-08-15,,034d0449-81a4-498c-88f6-74822b92c7ce,2728866c-e15c-47bc-b067-6ee6ce6b678d,384758001,Self-care interventions (procedure),,
+d150ee76-fc1b-46c3-8af1-acde0744f3db,2006-06-11,,da0334da-83d5-443c-9f80-185654a0c534,059b9c90-b083-48ed-a97b-350752f1233d,408869004,Musculoskeletal care,239872002.0,Osteoarthritis of hip
+e1d61d8b-3113-458c-bb91-a873d5aed663,1976-07-02,,b837f045-b9b5-486a-ad32-94b9f519737f,1d70a3a0-4731-4c45-b7bf-ec4bd9da4563,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+cb2ff71f-2e98-4274-a3c4-0f331a812cb7,2004-04-20,,2a6c0184-35a7-424f-96ce-0c977fa667f5,d8e9dff0-54c3-4e57-b193-2601ad2edf80,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+811fb267-6998-4f5e-8214-01eb020a34f1,2020-03-05,2020-03-05,76b3f20a-a5ba-4287-a43b-1262e133d882,a95b38a1-4572-48f1-bad8-aef72a8d6c1d,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+4de31fc8-59be-49b8-8aff-d5ff40fe1280,2005-05-29,,0a6c6f5a-797e-42f4-8693-13c8f13cbfab,796165bf-762b-40a0-b260-1c70afc9bcb6,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+5fc919a3-bd53-4b34-9a71-0ea39c722b84,1975-01-25,,b4d135ad-4f02-4bfe-a5a3-41ab695c6f66,74b053a9-ca18-43be-ad38-db10239e06af,699728000,Asthma self management,233678006.0,Childhood asthma
+76786ef0-81d6-4697-a939-4af6fe29af24,2019-06-25,2020-01-28,33b1ecad-c4cf-46ca-a825-e8bedec0cbff,8bb13616-e689-48b3-a739-3a9b2490f1e7,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+6702b808-5013-4602-83e0-f9ddac4c3357,2009-09-15,,55c70d2a-03ad-4f4d-8599-c967121434f1,1737d469-2773-41b2-a6bf-ff2355ac202c,711282006,Skin condition care,24079001.0,Atopic dermatitis
+db92ff80-01fc-40b4-9985-8162f50ad7fa,1988-10-24,,5b61f0fa-a3c4-4e70-a322-ad85c47aca12,d944c95e-31c6-4fbe-91b3-63e0b557d171,384758001,Self-care interventions (procedure),,
+cc5dda09-8640-4f21-85a9-c2c63415bdab,2020-02-24,2020-02-24,8bf20e2d-103e-4d48-8e16-82fb37ef6b5c,c03e0b3f-3741-4078-b84d-b07e44e399b4,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a71f75c7-8687-4ebd-8ec2-2668880ebced,2015-08-05,,854f2a52-9d7d-416d-8308-7fb34a8e9e72,d6c834f6-20fe-49cf-91e6-618225ef3315,698360004,Diabetes self management plan,15777000.0,Prediabetes
+c6813aea-eeb5-4f6d-a3cd-fcaeda6f1c64,1973-12-25,,f1a653f5-23ca-43c6-83b6-62e14b724846,c42f64ac-89d3-4e57-b9c2-9c2a807e6a67,384758001,Self-care interventions (procedure),,
+b320eb21-013a-45c8-8400-ec8505ee9be2,1984-01-05,,8f9539f2-e6ad-4e00-ad45-4abc2bff2214,96b4fb1b-1d24-4267-8d98-607107348be1,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+744e2bb3-7de7-42aa-8038-b5558b00b8dd,2001-11-19,2002-06-25,bb0609fd-42d4-4e2f-b2f2-1efffd299977,8c6a0667-eb66-4114-a49f-6c79baf692f1,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+8c7f2afe-3591-46b3-94e4-0a1bcecb06de,1985-09-04,,4088279b-94cc-42f7-8cab-8ce880997553,53c1d3c0-753d-4077-b732-d8edf090d1ff,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+98d90165-85de-406b-9af2-cc7a5480937f,2020-03-02,2020-03-20,d5dd13c4-c31e-419c-8c02-47e4ca1ac5e2,b4bcafd8-46cf-4deb-8418-bb3a20a390ea,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c5412d7c-77af-415a-8e06-ab9fb544ec5c,2014-12-22,,fcdb5a33-d5eb-4a65-b1a1-05b8ff69783a,9f21c14d-211e-45ef-b227-0f657720d179,384758001,Self-care interventions (procedure),,
+81455428-9d3e-478b-b227-f6a4c468224d,2020-03-17,2020-03-18,c1751563-21b8-4c7a-88d3-c41f55f12103,a3da2787-1936-4edf-910e-f3594315ac8d,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+9aae6ba1-f040-4245-bd22-4e0a1d0badef,2002-08-22,,9a991e45-bb2e-4eae-b835-e97f28798b7c,03d51839-24cd-40d4-bfe5-25c1d1a1af6b,384758001,Self-care interventions (procedure),,
+838542c1-0be4-49d6-93f0-c8874cde3a81,1994-11-25,,91369e11-b944-4132-be0f-af46e880936b,51eeb0ce-5446-4db1-8c21-1461af71c72d,698360004,Diabetes self management plan,15777000.0,Prediabetes
+1b737562-40fa-4afc-a64c-e3b56375494d,1997-08-06,,820d4ac8-c108-43a3-966b-0a655620713d,37bf0247-5428-4456-9d91-01ea4671adec,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+93fe2d0f-4145-401e-99fe-cf91497d8ab1,1977-08-10,,c70992c9-ff13-467b-9032-1901506edeef,8ae7de56-ba2e-4b5e-90cc-ec88612f3f7b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d71ceed6-bfd9-4f1b-a46e-de5de6a79535,2020-02-28,2020-02-28,2d874b8e-8d49-43fe-8302-f3618ac74936,25d21d5b-6fd5-497e-b2a5-37d8ff6133fe,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d2f68228-a1d2-4f7f-b245-de626377e6e2,1995-04-11,,9ec7d743-96e7-47c8-b2ee-6336633beb39,89dbd180-204f-45e5-bb0b-b4f87bea20b9,384758001,Self-care interventions (procedure),,
+c2e3ec45-b6c1-44aa-8a5a-07aa588b42df,2008-04-09,,bebeadaa-3237-49a6-89b5-ec687ad2ea0e,5e34b43b-1505-4cac-9729-f23eae730d38,734163000,Care plan (record artifact),55680006.0,Drug overdose
+da796ffd-288d-4e5e-b4b8-8f4d1fd9ee0f,2020-03-05,2020-03-05,afa7ef78-5396-4e32-9208-7aa7b1bf4b8e,23e796e9-7452-4fd8-82ce-58f896c4f0f6,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+278d6d72-657f-41d1-ae8a-0ef9b4f89b6e,2015-12-04,,dfc908b9-ca94-417c-8235-2e357380910e,0e8c21d3-0c60-4b24-a0b0-5fbec9732328,698360004,Diabetes self management plan,15777000.0,Prediabetes
+1273a241-c0cb-471f-8b5b-cdd03c5c7484,1997-01-20,,a527bcf0-3746-476c-90f2-dbab8868385e,243f81a0-72cf-48dc-ab8f-1974e373441b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+aafa0846-b407-4b4f-9afe-a188ef15332c,2018-12-20,,f272974b-7707-4780-a6b9-f11393a4173e,c082a4e4-6861-4465-b219-5e5984919d3f,734163000,Care plan (record artifact),55680006.0,Drug overdose
+ee0584ba-3553-46c3-9337-cb7f162ac8b3,2020-03-17,2020-03-17,fe252ca4-0448-4547-beac-689839fc1700,55264502-971f-4c27-8660-b23e07159fc8,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+cff7c11d-0898-42ac-b24e-43f04e8881e5,2020-03-17,2020-03-17,19c26213-a2a2-4cff-a1aa-0137b92df1e4,dcc034e0-e888-4403-b10c-a84bee836179,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+72195834-9138-4dd8-8efe-6cdd175aa91b,1969-08-17,1969-09-07,30052b62-200e-48c9-b671-aa3ede1fef1c,5d362f1a-24a7-4021-8cea-4c24b91f6452,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+b29730ed-66dd-447b-9371-9f802727d049,2020-02-07,2020-02-07,9fe4a306-af13-41d6-9936-cc2727aff831,52bb035e-8ab5-41b1-a5eb-90843bcf4458,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+cf7d8f22-e528-4466-b0e1-d5444bf00bf4,2020-03-16,2020-03-16,564fb8af-2ede-4c51-a6f9-cbc32e36ae4d,5199655e-6db3-447d-a84d-d617e39d3cca,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+869eda0e-f179-47a3-8e6a-7def3016fb5e,2020-02-25,2020-02-25,0f319739-cdfb-4e9c-9703-325c5065d374,0f5b567d-a9a9-496f-bfa7-e64f6912cbde,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+006bd8ca-9a92-47a5-ab58-72e2d84b6afd,1999-10-28,,fe74a8af-bb02-4ee8-89e2-14bb30a0bb41,3052ca77-3171-44a5-8773-6dceb37e683c,384758001,Self-care interventions (procedure),,
+4a830c33-9c0d-43e3-85e3-c939054af4d5,2020-02-24,2020-02-25,02909b24-92b2-40cf-b1dd-1d58fbf6683b,5fc9b7d1-07f4-4d30-8c60-a9d7b97d319e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a903480b-c423-4179-b9a8-8b1269cafffa,1963-04-26,,4a53d8e3-6ce9-414d-9b96-1d44427ad595,7ea59bba-28f5-4488-99e0-0fbec91d94c9,384758001,Self-care interventions (procedure),,
+00a230e9-ec05-4869-ade1-9a63ac7e74a1,1974-07-09,,7f4ef129-1511-47a9-a9b7-8b0b2d02ad50,1b08a516-ba52-4fec-a4d9-27628547ac3e,698360004,Diabetes self management plan,15777000.0,Prediabetes
+7d079b7c-de1d-4dbf-8100-9144a37ecfb0,1992-12-16,,cad87ce8-51e1-4214-aae6-e928eb14466c,48f4abca-7f5d-4c9e-94b9-7f4b229570e3,384758001,Self-care interventions (procedure),,
+a76443e4-e918-4639-8ef7-cb735651a049,1965-07-09,,cd7cdbef-ef08-48da-9302-19bf4b2dffa3,4b5c6237-f63c-4fb0-92cd-f0b5cbe2e472,698360004,Diabetes self management plan,44054006.0,Diabetes
+45599775-e0c4-4b6f-9340-40c7e88aeb04,1986-06-20,,7078ae9a-4c79-4b30-b127-f76aabb6763e,e037945e-a441-45bd-9569-c6d26cc5d34f,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+0b4cbce9-9aa5-444b-b0c8-4601901aaacf,1994-08-10,,8e558a6a-c25f-4c78-a615-457d5f09506b,d11ca2b5-14d5-4688-985b-d8bba074c2b9,384758001,Self-care interventions (procedure),,
+c3f30946-0313-40dc-b866-befc33632d7d,2020-02-28,2020-02-28,46de6788-690e-41a2-9165-dba9e0edda5f,f3aa327c-1bbd-4ac7-831a-841fdad8127c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+8cf9d54b-6ba0-4842-869a-0ade0e9fbcfd,2020-03-11,2020-03-11,145924d4-1ea6-4b74-ae12-0447184ab7fe,0cb86ebb-f5e9-4bb7-b8a1-2f06427bb933,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+bf912de3-2c88-4d67-9249-b9ec016ba73e,2011-07-14,,d48f2976-fe6e-490a-a642-1f974e344d32,96cb30aa-c45b-4054-b2c7-fe2a41868ac5,698360004,Diabetes self management plan,15777000.0,Prediabetes
+72eddd98-511d-45f5-b8aa-4ee236e66726,2020-02-21,2020-02-21,5fcddb28-7b9d-472a-8765-29d559e3d2f8,cad946a2-e572-4a9c-99ef-8606d41fb04c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+352bd70e-cb4f-42a1-b9ea-ec298be5f74c,1987-11-10,1987-11-24,ac530537-ea40-44e1-932e-655f9d9eb8f2,3ecee28d-4f05-4d59-a479-f6d94241bbfa,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+4117cbcb-0a0f-41c4-8a7f-bf1474349cd0,1996-09-04,,7d009685-4357-485c-9164-1a27681f14dc,c41c1d21-cdf7-42f7-aedc-c28990d96742,698360004,Diabetes self management plan,15777000.0,Prediabetes
+9fbf53ab-4dd3-406b-955b-db33617cc1ad,2020-03-03,2020-03-03,bc668670-c85e-48f9-a4fd-0ee6b13e878d,413a23ab-bc64-49a5-9963-8fdbdb47c1e2,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d5abab44-30ea-4de6-8086-b0423a900ae6,1958-03-04,,a5c39700-6bf3-4984-af46-31344695e21b,ded91299-92d7-440c-bd2c-4d31157794de,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+a61d5994-6258-4f88-af0f-51e694774028,1959-06-16,,5fbe3d87-3b6b-4549-8615-bd175d5d6bbb,5a630d24-a511-498e-b999-70590e634405,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+8845ae62-d7da-45d7-b446-fed304705583,1986-02-16,,ddb2d5e2-643e-4374-ac19-f6ca3c0d16f5,1f7f9a10-7173-4764-b3b1-5e5eaddb8f0b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+7474c81f-1b47-4c99-a119-c32463ca6d63,1976-03-17,,81643c1d-b2e3-45f1-8622-71ad10305b8d,6941c954-79f8-426a-8eb9-c6faab28f17f,384758001,Self-care interventions (procedure),,
+13e0af6f-768d-4f12-a035-cc9db256c8a7,1992-05-15,,21505aac-f219-43a8-ab3c-f57c6d8f1d1f,61b58e25-874a-4ba8-ad68-a5d84486175f,698360004,Diabetes self management plan,15777000.0,Prediabetes
+989f1699-421f-4aa2-b348-827626f42e08,2020-03-10,2020-03-10,4365ba17-4f02-49fc-9d71-a7535f19e7fa,6f9829c0-7285-40a4-a23f-d08df6797819,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e74ef52e-5648-4d07-8ea7-4e00e527564f,1984-07-30,1984-09-10,8049d282-cb78-4a77-8163-1083ca0a3a09,c8de0b21-15de-4ba5-b06f-8699ad38523e,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+ef27a143-12a8-4658-816a-a0ab4d552ca4,2003-06-11,,9ca47cee-bc6c-4ae8-a9fa-27ba2a94888d,8861d713-10cf-4aab-a4b9-ac588cd216ed,698360004,Diabetes self management plan,15777000.0,Prediabetes
+0c7ded97-5090-4618-82f3-af294ce2bd25,1999-04-06,1999-05-11,419c213d-8d35-440c-bf47-a536f95df517,f17548ac-c758-403a-b199-e436206f0d6d,91251008,Physical therapy procedure,44465007.0,Sprain of ankle
+fc1b837c-a905-49b0-b08e-0587b9cbf1d3,2020-03-02,2020-03-16,7992bf94-feee-4728-9187-2c911df2819b,9a31e2ab-ccf3-4e55-8c16-61763e1a2cb3,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ed903b44-6f9b-47a8-accb-36c718881cd1,1985-12-15,,7ea83894-5507-48ff-86ae-f246840067f1,5400e2d6-8b63-4b16-abba-333d8cf0d359,384758001,Self-care interventions (procedure),,
+ada39ed2-7f0c-42ee-954b-25bfe2346c9f,1990-09-24,,075095e6-c821-436e-92e3-9e5323ed81e5,bd20dc96-15cd-4539-92aa-3db2b05ccbf4,698360004,Diabetes self management plan,15777000.0,Prediabetes
+8b6336e6-aed9-448b-8799-f99e86e450d7,2014-08-20,,d2f6d528-39db-4b7e-8389-abd27af9a710,0c4ca267-0e3f-48eb-82eb-846b24a93999,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+4749cc76-c3fa-4c57-9006-9377d5b7e265,1996-07-26,1997-03-07,e07c83c4-19ae-423e-ae8d-616c69f76482,794e3e99-b9b0-4a66-b644-185afea4cb1e,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+9db7b041-6f34-4d42-8f52-377524883b62,2020-03-08,2020-03-08,0934bb3d-8592-405f-a568-747ab0634a48,2fa437fa-62d4-48e0-b9c9-4e23d23cf9c7,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c4d0958d-bb28-4ec1-9426-2886f1de9637,2009-12-16,,fa0b58e6-6817-4d49-8211-1dd34abf0c15,de3410a2-17d3-4e9a-a3d3-b92463bff682,384758001,Self-care interventions (procedure),,
+1c3e7732-8753-4aa3-b458-66985113a6fc,2002-11-03,,1ee9a3db-fd36-4571-b705-7e46a97e4792,14ddc206-819c-4e3d-bb63-68b6fff29b17,384758001,Self-care interventions (procedure),,
+7fbe5366-b22a-4382-95e0-4cf3b2f235eb,1966-01-29,,b5fbb0b5-6b9f-45b2-bab0-3630dc3555a3,411c0248-c530-484d-887e-94a5f6b94c32,384758001,Self-care interventions (procedure),,
+17eca98e-b017-4484-93fa-d1516e431e30,2013-09-14,,b83237f3-9ff5-491e-aab4-d63ccff85f85,4c72ec25-71eb-46c6-bb11-cf130754e1fa,384758001,Self-care interventions (procedure),,
+c44a5e9b-0b37-438b-8000-55c07ec0b1cf,1985-05-22,,46988a9c-9c86-429a-bc4a-b3d14ff321b0,cb66e2fa-c5d5-4a11-8df4-4ed19b0a5b43,698360004,Diabetes self management plan,44054006.0,Diabetes
+ed5bcdc0-9296-4998-8df0-8379c82e6548,1943-04-21,,785b484d-7060-4d17-bf18-ef8bbafc6f04,0f24c520-35e2-4ace-b30b-e215c34de83e,384758001,Self-care interventions (procedure),,
+1c46765b-e00e-48f8-a402-fd5ad3c675bc,1941-01-03,,edad31f3-5a08-4678-8d31-271a41a2aad5,358e5505-6842-427a-a5e3-3ec1550a7a44,384758001,Self-care interventions (procedure),,
+2e530a95-6eb0-4e7b-9da1-2c8afb8d79fa,1996-12-02,,4607a669-4a97-4f0a-9661-856569905047,8da7f0e6-cc58-4e42-b1ac-e95baa8534a2,699728000,Asthma self management,233678006.0,Childhood asthma
+7cb15372-2915-43f9-8574-6c804b20caa2,2020-03-01,2020-03-01,eac67567-51d8-44bd-905e-b9ffecff5491,5654ab1a-62ba-4689-89a9-66d121b8adeb,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+41e9c08e-2eb1-4f3a-8897-f96e16532bdd,2019-06-15,,c1800ba1-7cba-45d7-bdc4-0e0b583932e4,1867da4d-d511-4c33-ac82-1c09d4fa0b12,384758001,Self-care interventions (procedure),,
+8f2dfd17-14ec-4067-aeef-71e94e604d2f,2020-03-04,2020-03-29,d2718050-2e9c-4d5b-842e-52d910c1563f,51e49a1c-bebc-45cf-96d7-3a50e505712d,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+fcefb1af-0de9-4a38-b276-2cfd6c21a0fc,1964-11-02,,506d8f60-3658-428d-8a32-d15677b74a9d,4e7f6e80-49a2-4898-b80c-2d0dfe708229,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+8a88e562-40de-4b9c-b747-746391f1d178,1986-10-25,,f7d6bf0e-7762-486a-b927-63198bfaa659,a3c3805e-450c-4a97-836a-449b6d0892a8,384758001,Self-care interventions (procedure),,
+641bbd76-11ea-4e2b-b2a2-f0f7c8ec3e62,1982-10-31,,82d818e5-4202-4032-b7bf-899911ed9c2a,23c13a28-18e6-43e6-8d8e-feb1eb4e9f53,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+b87d4c52-9e23-4d8c-92fb-837aeaf3be7a,2020-03-08,2020-03-20,818566cb-c89b-42d8-a6af-1a1ef13ed7cf,2f0ad4c1-6b4f-40a7-baf2-ae3025286b2c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+162cd870-24e0-4bdd-b682-0b52fcc06009,2020-03-07,2020-03-07,b6c316b4-ab39-4b7d-8fc2-e8db1ea0e15a,43b74666-7998-473e-86da-e02c7b91e7ae,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+39472567-bd37-4610-9627-e077ea2527b5,1956-07-21,,f550948b-a309-431c-a5eb-d5812e83df83,533dd63a-4042-4879-8b0f-f09f54290104,384758001,Self-care interventions (procedure),,
+a763e619-29f7-4571-8915-7eda8c640ea3,1992-04-01,,199f6cf3-a337-4b0d-860f-2f4641455591,12071543-f23a-40e9-98e8-82e0d6cc8a3f,384758001,Self-care interventions (procedure),,
+a585a309-42b5-4105-9993-4c53977e9bae,2020-03-06,2020-03-07,fe3a814c-3040-429a-b64b-6747a00063cc,3deb6bab-fa9c-4679-a98c-99d442dd2bbf,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c20fe735-b432-429c-8e16-0f28fffe6d2b,1969-03-28,,059b0e22-b52b-408d-b8b5-cdeb6ad9ce76,159e0d91-2513-46f2-b12d-c5e13970df4b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+bec059ed-bf14-4a9d-8017-080d988f4884,2020-03-11,2020-03-11,030e6a7b-82fc-436c-8a0c-d6f3c99eb593,7e210df9-c1b3-49a2-bea8-896027b0c712,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ff268b0f-a05c-4aed-a5d1-d298847a8c97,2007-10-13,2008-12-06,f5ad6c28-6a01-448d-b0a2-9276aa648685,d87fb3fe-72ba-4a8c-b403-09311e753cbe,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+5e662b97-eabc-47e9-ba03-1b474e0b3105,1975-12-31,,55e7f019-029a-4e3c-95d3-71e030e22792,b9de4652-f665-430a-8243-c8b97fa1fd4d,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+a372019e-d603-4dc4-aa5f-3fd3eaf97cd2,2020-03-15,2020-03-15,b10ea31b-7b74-4bcc-a491-4cc278e25e78,564b3d7a-d61f-4b66-bbe4-1f9c5280426f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+2d97c8e5-2575-4446-9b60-905dc34cde91,1978-07-27,,9463d6fb-ec05-4965-a833-09d84092af07,ff701964-2c96-4136-8a46-f2f1730cd84e,698360004,Diabetes self management plan,15777000.0,Prediabetes
+6da2d193-b8e6-4518-9708-81195dc0fb5c,2016-01-31,,3ae725ea-9748-45cb-90e0-eef4502421f4,757e783e-6dea-453d-8d4f-23a4c26a86af,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009.0,Chronic obstructive bronchitis (disorder)
+71fbe808-74d4-4ec5-8550-61587e934d7a,1977-02-26,,000e7adf-cbaa-4fad-ab2f-658c32f7d4d3,d128f735-14ac-4f79-b1ea-9b659e1f9afd,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+415cf7a0-1b88-408a-a318-49c0f59bbbb8,2004-10-12,,414e6c74-f341-45a0-af6a-f1819a39e720,dcd29518-d089-4b17-ad11-5dd295599f4c,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001.0,Pulmonary emphysema (disorder)
+e89be423-5b85-4454-b57f-c702d388f56c,1985-10-10,,e4f2ee93-89f0-4339-b079-5b174190e18e,360dd8cf-3e42-4b71-8abb-c36905e4fa7d,698360004,Diabetes self management plan,15777000.0,Prediabetes
+646c506d-d7bf-4063-8142-7470d7ebb266,2020-03-06,2020-03-06,22828b0d-f53c-41f2-825f-00d19a499e1b,bcd6e9c2-90b8-4782-a3ec-dda60741e23c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c29a92c5-c9c6-404b-8907-da87d44f55c5,2019-06-19,2020-01-15,c5f2714c-6886-4a2c-bb54-6147b94ca407,01b599ba-533c-4868-a3c5-1647192a9de1,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+d9e9f31d-8b4c-41f3-ae60-7bfef2d914a6,2020-02-06,2020-02-06,c7fb9bf3-ab33-448a-9b6d-0a2c7384b773,3d00ee6f-3ef5-4251-aded-684b73310c6a,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+1622d665-750f-4ca2-853d-5c08b649640a,1964-12-13,,261c8bd7-2e46-4d57-81e1-f2ea0c01d882,33668825-c3d6-4336-a86d-f66ad844a96b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+13537061-d7e5-4704-9524-55e46caac6ea,1974-05-26,,5a2f02ce-0286-45ae-b992-05331cb88379,84217aef-9590-41ca-b565-360ba24126c9,384758001,Self-care interventions (procedure),,
+613db3e3-e7d4-4096-bbd7-06d6243d3486,1958-03-04,,0a515b4b-c3c7-4a98-a5fe-a6feffae4ad1,32bd7068-d1f0-426c-9fe4-935c50b114f3,698360004,Diabetes self management plan,15777000.0,Prediabetes
+502b09b0-036a-487f-9cf3-1a264256a567,1999-01-09,,d27c2429-25f1-4658-8e67-6a269b7737ff,d516a290-c421-43ff-9bd8-8acf09f22858,698360004,Diabetes self management plan,15777000.0,Prediabetes
+09839e3b-f90c-43d1-97ba-eba59c303d2c,2010-11-03,,09a1908f-33f7-4be6-8e90-1e9b3a4d2f33,358a24e3-6096-4952-87da-7abe987badff,698360004,Diabetes self management plan,15777000.0,Prediabetes
+d7e8c4ee-617d-4c62-b5f9-4ec2159ed71a,2016-09-24,,6568af88-5e48-4989-bd31-84daa2170f2d,3662e522-4eb6-4213-81fc-75839e809002,386257007,Demential management,230265002.0,Familial Alzheimer's disease of early onset (disorder)
+394aa38a-f040-4969-9999-bdbfb8d6d09b,2020-03-01,2020-03-01,cba9edd6-c19f-4447-b281-7aedd19561d8,db40ccab-40ef-41dd-85d5-2b2a8701742c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a39b8c81-5309-4dbb-8588-c0e899e77837,1997-05-01,,5f31b84e-2a14-48b3-b73b-2a66b0b45572,13048bbd-820e-4ee5-a066-b4cb0a36610b,698360004,Diabetes self management plan,15777000.0,Prediabetes
+95c0489c-9ba0-41ad-a276-a435c36b35ee,2013-09-28,,e25f1f6f-cc46-4a1d-8a7d-88289443413b,22902fd0-62b9-42fe-9700-302f8bb68f5c,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+6fc64058-726f-4ab7-b2b0-9df3ad1e364b,2020-03-02,2020-03-03,3c6c2dad-4403-4482-8b26-fc383ad24c27,c9c3778b-34ac-4170-be5b-30ca5c03b28a,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+bbf49545-0e89-4b4b-8d0f-899d42999e08,1998-06-06,2000-01-17,63bf9d34-4a37-4e0c-bd88-44ffad83bf6b,940a2886-beef-400b-afc1-d9a30f5f0e56,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+7ec0ea88-56a1-47ee-a3ff-0b6c35e2b9f9,2020-03-08,2020-03-08,48cc4856-d05a-4868-ad36-48d8bdce0abd,af70a6e5-53af-4113-8d00-970806bbadc8,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+244c9d6a-d2c7-4aba-9047-e6a7a63f0223,2019-08-06,2019-12-02,256aed27-8a36-464a-b9d2-233c49e08345,2756f73b-d30f-4225-88ed-dce559de25be,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+3a0b894f-a191-46a6-a893-3868033b37fb,2020-03-08,2020-03-08,fef3fc9d-dbe3-49d7-9236-2a91fa8f3e24,e175b8ee-c47e-4e13-8db1-dc026dc7291b,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ddfa034e-85b7-4125-a4c1-84f3b9c98a2c,2014-03-26,2014-04-02,1ad1d462-589d-459e-a05c-7d24a6fe5e39,0953eb92-31f2-4a3b-8786-77ee08b918de,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+e2c17f01-2f99-4ca5-b1f4-7d47162e6f9d,2020-03-10,2020-03-10,2dacf328-4854-46ca-ace3-7f95ed33230a,70a4d15f-f2ae-4566-8e98-ca6421ee1ccd,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d687a97c-3688-48ef-9079-dc845ac32e8b,1999-10-09,,9503ede9-5dcd-4578-9ec8-4b7df1915c01,f053af72-f417-4b1c-8556-a19a6000af0d,698360004,Diabetes self management plan,15777000.0,Prediabetes
+3308da16-80b0-4f37-8614-1c864665e7ce,1994-10-29,,255384fc-4d66-4b33-b0ef-6a4563081fd8,690a40bc-eec9-4e55-a261-01218e669d23,698360004,Diabetes self management plan,15777000.0,Prediabetes
+8374ab0f-393a-4fb0-a8d3-72065c88e8c6,1984-04-09,,043f2a4b-3e91-45ae-a575-648882a779c5,2eeaacdb-b55a-46bf-9f23-56b43547e4d4,698360004,Diabetes self management plan,44054006.0,Diabetes
+3e83923d-751d-4a67-aab7-c3cd50dba689,1958-03-04,,9a1be78b-9a37-4e41-884f-2478f9b05784,f1f5dddb-5ed4-4d49-91de-9b5b27d576e1,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+5ee01b43-9b9a-4bea-8303-e10b13220766,2019-08-06,2019-08-27,d3fadde8-d36b-4310-b9e2-41dd0ddb1619,dff0be46-329a-47f4-bbc9-b2b9159c4466,225358003,Wound care,284551006.0,Laceration of foot
+7ab8881f-8212-44c4-a779-224f13a6ea0d,1983-02-16,,548d5a62-d62f-4c9d-b8b6-00a29b59c026,a4a5d656-bc5d-4d9f-99c9-9d52c2f187d1,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+4b89ba99-5b5f-4c6b-a014-e3de77cd59db,1984-05-21,,08cef08f-3d65-4fd2-92be-955681536533,1c008cb7-e36b-4afd-b2ed-ab3cf363f9d0,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e5c8edb0-7424-4753-b2a0-9e90643d5c92,1991-02-20,,d4d2c680-a2ce-4e93-911f-ff4edb68908a,a9696001-e274-4636-9832-c6a2913738f5,384758001,Self-care interventions (procedure),,
+fc502170-91ae-49bb-b5bd-50f7ee19d403,2012-08-02,,d99ef82b-7a45-4a08-b2f7-d352c1ea186b,a7ed2145-673d-45c2-9919-697b4fca52e5,698360004,Diabetes self management plan,15777000.0,Prediabetes
+7c77a21e-126c-4398-bcbf-83a7724fbea6,2019-01-07,,e68ecf85-f499-4027-aa20-5820e8611626,cf40deaf-8339-42b0-9df5-fd4a0b9791dd,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+60ad8b0d-309f-4aa2-a6c5-039a4bff366f,2002-08-22,,5ec541c4-0c72-46ad-bf7e-a7803abb9927,4d58e1d1-cfac-49c4-bbfc-55af89d76424,699728000,Asthma self management,233678006.0,Childhood asthma
+46193753-cb76-469c-b542-e22d6772181a,2020-03-09,2020-03-09,f5403aa6-03be-43fd-9955-72d01979269d,5dde867b-1389-4097-bde1-2a8b9db153df,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+73032b59-1539-436a-9601-53921fd54f80,2003-10-19,,2edcfa2e-ed51-40f0-8fc9-13cba4a463ba,2dfa6533-62c0-4ef0-8eed-e3f6398dc915,698360004,Diabetes self management plan,44054006.0,Diabetes
+a99dbd74-23d4-4323-83c3-843bb9be70f8,1992-08-22,,9a5ef4a1-94ba-41c9-aeb3-9711926638a8,95d1ae9e-7bdb-45eb-9b26-20549c03458c,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+3778fc56-ceb2-423c-a859-1b119c5cb119,2020-03-10,2020-03-10,5d59902c-1e2a-4c41-977a-2997b42c03a5,71118863-959d-4f4a-94be-2b7e73a3b667,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+2d373ba1-9c68-4087-be00-cc3351ee0029,2003-09-18,,7c95e75f-4965-4bf3-96a0-d6b3fecd1a92,0549282d-36d9-474e-9cc9-4f22e82493a7,384758001,Self-care interventions (procedure),,
+25be12eb-0877-4193-af91-806cd5210d87,2020-03-13,2020-03-13,06a889ff-c131-4e7a-b533-d7db5f3c7cce,cb4ffff6-a9c4-4578-bde9-32da4c5e958f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+baca5a2e-c012-471d-b28d-e6d7711a853b,2011-04-06,,c137af10-5479-4973-8ae6-e5acdc924640,91f3bcb9-0801-442f-aede-fbbd88eb649e,699728000,Asthma self management,233678006.0,Childhood asthma
+0fb591f0-debb-4dab-a763-02acef2a362d,2020-02-28,2020-02-28,dd52950f-5047-4084-9e53-e63dfb52e3a6,bec64f66-cce9-4e17-8d8b-4f9e8c807180,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f191391a-61ac-46dc-a82a-a30fdbc4b9fd,2020-03-07,2020-03-07,c5cf97f7-382f-49af-96f4-954abee0dcba,f7fd9164-d1a0-46ad-8ce6-8d5c67201baf,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+6c1a7592-cb6e-4318-b0e9-9fc1bd1fd460,2019-11-27,2020-01-26,8ed0f8d7-d0e8-4a33-8939-048027b0c257,61d49382-b135-4e31-aeb3-1be5578bad3a,385691007,Fracture care,263102004.0,Fracture subluxation of wrist
+0e9b4bb5-4b4c-4862-9af2-d22a312bf35e,2019-06-25,2020-01-22,a5daabd8-493a-485c-b6ff-7b4d72fbf5ad,4780bc8d-8429-4f0e-bd18-a2184c3b3424,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+1f69b2dc-fe22-441f-b2f7-8e1ce3339087,1993-10-16,,d8a960da-c3eb-4f12-b4cf-1d73e5072efe,e0ef94d9-c78d-4bbc-8270-500dbe9cd487,698360004,Diabetes self management plan,15777000.0,Prediabetes
+bad83d33-4b3f-4c11-9a70-ae171ae89338,1985-08-16,1985-09-06,98aa97d3-4c11-43f4-974f-0d4b4096cc62,20049066-84c1-4ba4-b821-ed7abf82d6da,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+90b2f1d1-85fa-493a-99f1-e88e3fae5589,2020-03-11,2020-03-11,47c4d403-eb5a-4e34-acd3-3a7b7138e4d1,90f523bc-09ac-45ef-bef5-0dea81b5ef91,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+369bbb10-dc9b-4717-9288-6cbacda2689d,2020-03-13,2020-03-13,67ec4eb7-aa0f-4f5f-9c41-7c814d979b44,b58a589d-3ee2-482f-82ab-513cf55b77a6,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e695e670-a0e3-40d1-8582-2235e65bf258,2020-03-09,2020-03-30,f7a99be0-56f8-49ce-b28c-cd2e5c5f5542,09a75c54-e0eb-4e11-80c5-b785501a4c00,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+0afdaa49-88ff-4b16-97ac-f836c85fe2a3,2010-05-22,,0f7c5440-cd19-47ff-a9dd-6e6521cd410f,3ee0e406-0d74-4e9f-b1a9-c6d0ff7f350c,384758001,Self-care interventions (procedure),,
+1d1b1339-92da-45ee-8b21-199fc451035d,1996-12-12,,7b7d2280-354f-4bfa-b1b5-ebe85da184dd,af02a15a-12d0-4eec-a236-f11817c5dacc,182964004,Terminal care,424132000.0,Non-small cell carcinoma of lung  TNM stage 1 (disorder)
+25a65ea9-00ba-4261-a31c-f86fcae4368b,1977-03-24,,801fcd85-4293-4e08-845a-a687eca0f6ad,fab942a4-1087-4f66-a3ed-d931511c1b7e,384758001,Self-care interventions (procedure),,
+9b398536-1e1e-44c0-9754-b76c3112172a,1989-09-06,,e7694eb1-b4e2-41b2-9a62-b508a5b7567e,3a10b5d7-277e-4eef-9d1b-5d4061d3aa91,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+7a3a5a9c-7f6c-4e3d-9a7b-d2c2261525a9,1969-06-10,,3773faaa-fbf6-450d-9d5f-a6790d80c34b,8d001350-f5b2-42f3-add1-155b46b41a4f,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+f022ff41-215c-4a30-9fcd-9108cbdd312b,1984-02-16,,0d4397f8-661b-4c70-b8ae-235053021fa4,2cd6c449-44dd-4b8a-80cc-7dde5b2efbfd,384758001,Self-care interventions (procedure),,
+63a36fef-1fc9-4c5a-8c47-917c5e7e14b0,2020-03-02,2020-03-02,e9ea0aae-80f9-485f-b3e6-8d956a49ecb3,e5aab5fd-05c5-4e04-a874-e53697c82587,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+713eca88-cf9f-4247-9862-88e58787b35f,2020-02-16,2020-02-16,3cb16a62-8692-42e2-ba41-f9d086d29706,78c42ab9-d8dd-4000-a83e-bdd2e12027e4,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a713b095-28ff-4b5f-b593-b38d2e0d739d,1992-05-16,,2584a8d4-b742-4ab8-8cdb-02ecb864d4f3,35c414d2-2913-407c-aee5-26482e03b6de,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+2270c08c-8614-4c4f-a381-f32a7803b91c,2009-11-20,,35d98e0f-5ffb-49bd-8438-f6f8b26535f7,e27c1b0e-9692-4c87-b894-2c060836be84,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+3de70d7b-56af-4141-9adf-e13346d73f8f,1968-06-06,,9070aaac-003f-45f3-8748-16e4c2360d65,8dd8fbc9-9439-4ba3-8fb4-8eda75c62c62,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+67b08535-5be0-4373-8570-fc4dfc5896d6,2019-05-16,2019-11-05,37a3e880-5f09-42d4-8e54-3fd64b4957ba,fa9df761-5b01-4899-97fd-5227750caf20,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+9fc8d05d-d88f-42aa-ac92-98286261dc79,2003-03-20,,318d3a05-b5ec-4911-a1ba-e4c4cd35d74a,ce1141c7-f30e-429b-8390-c93b167658a2,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+8a15d381-48d4-47ff-9f3d-afbbe16ab56e,1924-05-15,,4f78c555-7e1f-43d8-8700-646ae81c39f0,9b350f31-c329-424a-87af-3a31104fbb26,384758001,Self-care interventions (procedure),,
+513ff3c3-68bc-4e34-b858-5b438376b524,1971-10-24,,37e88a41-6205-40ca-9c62-6bc71719162e,f7637d27-f4b9-4edc-8193-ce2e03987987,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+635161d3-2fb2-4f48-b02a-e25b9b4678df,2020-03-06,2020-03-06,53b51e7d-8179-4d03-a350-034475c68a0f,926656e6-2a43-481b-8799-e4bb0dac804b,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+8546cdc8-bf78-493e-a930-c88b0ab6db17,2020-03-06,2020-03-06,6345a9cc-1f7d-4c96-a31a-14c6eebf020f,da2cca46-390b-4c95-8b09-df79d233916d,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+3ce47f8b-482d-49d7-bb24-cc4be239f941,2000-10-28,,dce5ef54-42ed-4aff-aed1-b1eeea67557b,1098e201-e2bb-4642-9afc-00198bd081c7,408869004,Musculoskeletal care,239872002.0,Osteoarthritis of hip
+a68621ea-1d54-4cb5-976b-ab5a15ccbcd5,2005-01-01,,7aca9f67-8511-4f89-922e-4590f914c00e,84ac9f5f-6b4e-4c33-bc2a-ee7b2c158a92,384758001,Self-care interventions (procedure),,
+6f079306-7e7c-429c-9fd4-d889a0715580,2016-08-20,,c72557d9-9de0-4e5d-a83a-77478a2f765b,730b7e0f-dd04-4f68-8f68-52a7bfb07ed5,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+081a87c4-1761-4dd6-9ad4-61ffdd2360e1,1992-06-15,,64854f53-17af-415f-a5a1-f29551b8e273,41bf1f23-4e43-4e40-9280-c901c93e2533,698360004,Diabetes self management plan,15777000.0,Prediabetes
+81dfc66a-5f73-4e6a-a6ce-3232c8b325fb,2019-09-23,2019-10-21,08c437e9-b655-4649-a602-cfda66b9291f,ffa533fc-8b51-4b39-9e7f-c3adc63dfa34,91251008,Physical therapy procedure,70704007.0,Sprain of wrist
+a4574206-367a-49f3-a8d7-a117212c821d,2012-09-16,,19ce0309-1db5-4fab-a4e0-f9a59a21bf76,46d88f9b-d066-4cd2-8306-5a035fd2e5b6,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+0b69c9a9-c998-43fd-b067-6630eb6b26b5,1996-01-06,,0d296193-0e28-449b-af70-ea775da5a57b,127a5288-7d52-47a2-8cd7-2ec4fb673737,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c6cf2347-f4bf-4334-8536-f702dda93ff6,2020-03-09,2020-03-09,26ceb17a-ec80-4688-8728-6b9c62ac6e58,0be2a5bf-996e-41f1-84c9-abaf4cf216ed,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+99189f30-8bdd-454e-8f0d-86d4cd3e87dc,2019-07-02,2019-07-09,6e0d79f9-497a-4c9e-b3d3-53dd41d34af8,3a160253-78c0-44de-96e3-452bed53c881,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+343803ed-9865-4b0d-a148-e8392832d014,1981-10-11,,7b554330-75a6-414c-89b0-f92735c7c6e7,712df69a-4b6b-4680-a455-0b3b47d85698,698360004,Diabetes self management plan,15777000.0,Prediabetes
+3375f65b-3980-42da-b8df-dcf66ddd882b,2019-11-20,2019-11-27,6fb779e8-50b5-4e49-b38f-98f935d57393,1ec1873e-3e3c-4a43-bbc7-b372a39498ee,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+a40c55c8-43b9-45c9-a6df-0c765c8ecc02,2009-01-04,,6fce0e81-8447-4848-a811-57fa69303478,ef3c07bc-9d63-48d9-8cef-7362fcd8ddce,698360004,Diabetes self management plan,15777000.0,Prediabetes
+f27dc61f-32ba-41be-a67a-b0e70ceafc09,2020-03-03,2020-03-03,b4c25ec7-1b48-4ec9-83d4-c928d2c2f023,92b8dac2-4fee-4c55-86a6-6f14c17b53ed,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+68dff096-6b09-4a3f-9b69-d98011174250,2019-12-15,2020-01-19,355c953f-214d-4e40-868e-6358fed6927e,fec7e5e1-56f9-430a-93fc-bdc10dc1d67d,91251008,Physical therapy procedure,44465007.0,Sprain of ankle
+f9cd9108-21c5-49a5-8800-d182005085cd,1941-09-12,,fc45bb1f-5031-485a-8590-691d94cfe25c,8a341803-9d3b-44cb-803b-6bdf5405da23,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c3b4eded-f25e-48bf-b183-ccaf7db55c51,1971-04-29,,10f76834-730a-4076-96fe-d24202c059fe,e550834c-e006-4485-a5ce-6bfe0f8f37bf,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+5e276974-1810-46db-b1a6-7c07fb8bd569,2012-03-10,,b5737eaa-cfd6-4cc6-bbb4-0a1aaf369e78,9c1909d5-c764-4588-890e-68221d439096,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+00c5ba76-b9c5-40c1-b757-db20c116065d,2018-04-11,,d447df0c-002d-42e9-9e86-cc33062c9292,74619201-897e-43cf-80ba-effcd73a0d82,384758001,Self-care interventions (procedure),,
+23c03e21-5aef-4098-b107-154b18972bdf,2019-10-26,2020-01-04,6ab488c1-a646-40b3-b2f7-cab92db8960d,4c89ac82-00c2-4e2d-937c-96a2a46391b9,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+6e5bfc00-7e60-416f-8182-ed623f01fa72,1995-06-25,,472e249b-1ada-4ae0-9333-3490ae5a2501,3a2690be-b7c9-4038-bac3-9d11a10943cb,384758001,Self-care interventions (procedure),,
+30e63968-aa21-4ad0-abf4-dfb5c11c049e,2020-03-03,2020-03-04,3affb0e3-fa0e-47e0-9446-f866930d2b1b,82589468-2afe-4ea8-95be-266a9be8451f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+3dedb548-e12c-4ac0-b0c2-fa802b9696e5,1964-09-24,,b88c0627-e039-48e9-b49d-6d95c221e2a1,3c0ba86c-0465-4221-9d82-6eb751dbcffa,698360004,Diabetes self management plan,15777000.0,Prediabetes
+075e16e6-8452-4b14-9924-fcc3890500ac,1990-08-11,,c2972df1-9046-4f4b-b90d-f419d09d0436,e7677cf4-d9fc-4a65-9c3c-2ea9001b98d3,698360004,Diabetes self management plan,15777000.0,Prediabetes
+ca103035-d071-46a3-b05b-6af44e99625a,2020-02-26,2020-02-26,0893594c-02a5-4719-afae-800ff46bfa81,ce47b67c-1192-4502-a97f-e3784c9ac4e3,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+accbf3fb-3509-41b5-964b-c4cf4b77b710,1992-12-31,,42c5b49f-6a7a-4d39-92e7-7c26a39c613a,b827e312-b924-40ae-9c42-d4a2a825794f,734163000,Care plan (record artifact),55680006.0,Drug overdose
+82aed26b-87cf-4eeb-9316-bdcabed4d16c,2015-04-23,,cafdeb06-eea9-49cb-a22a-a6776904364d,b298e821-fd71-4e71-8f16-6978ca41d730,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+e63d5af1-736b-48fb-a0d8-07fc8a04db47,2014-05-11,,9cc8e54d-b1f7-42fe-839e-dbfe56ff60e9,6c8f6d00-e776-4d15-8c36-330c38b520ef,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+678029fa-3679-4bfc-ba91-1e5b4659c683,1969-08-08,,00bd3b67-5ec1-4c31-aff4-7c110eda570b,1a057383-05aa-4297-920d-36cf6d314ab2,698360004,Diabetes self management plan,15777000.0,Prediabetes
+db09cd50-0b76-4c7a-b8d1-327a50378ca0,2000-01-01,,ba60788e-a4db-4c5b-8a40-c3296cb29a54,3f973cba-f48b-471a-8576-275125844e5e,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+06368008-e78a-4964-8fca-b45c6b8a6ce3,2020-03-12,2020-03-12,5d1914ca-54a3-42ea-8c34-92261b9936e7,17f1d0fd-b5ba-491e-801f-f5347293c053,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a3286451-e381-45af-bf72-a16320d78101,1982-03-05,,9c82a282-243f-4b70-9d3f-c189b67675b4,28e9c22a-eeb1-4c7d-9aa9-6920219cbfc9,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+2853e421-7c36-48b1-b041-d4b6f0d19e13,1995-07-21,,b0e522bd-011e-4949-935a-94f58ca3c4a0,62296e3d-e795-453d-aeb6-6ade19c00d59,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+e8c018e4-d13a-4117-8e50-e63071c65c9a,2020-03-15,2020-03-15,6b7da794-cbb3-45f7-bcdf-394dd761595d,915ce3f2-0062-4b38-81cd-c9fcfa8c4b13,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+188c832e-2eec-4fc4-bea8-bf9966f80b45,1971-04-29,,b01f32d2-8538-4b96-ac6e-6b1ac9ab2b35,e1bb80b0-4593-4529-88b6-8d2ee36ae7f9,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+ed488f17-fb78-4d53-bba2-a0733f62cc47,2020-02-10,2020-02-10,22afabc3-d09d-41d7-b6af-2bfb556e3e30,c4ebfd06-282d-4b0a-be77-504047eb8782,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+99bae93e-83a9-41bb-8d9c-0b14e7b8b0bc,2019-10-18,2020-05-22,0191ec1f-a047-4188-b2b1-9c954373715c,4cbcac27-97f5-4a3d-bd3a-d79a9fa22063,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+efb296cd-6a70-4ff9-9e12-005bee1a3692,2020-03-15,2020-03-15,0244e0db-981d-4663-8d09-381a7157069f,f8db7c31-efce-4fe4-a8b6-d162ad0675ba,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+21f41b62-5cb9-4a62-b11d-df4ded5147d1,2018-02-26,,44875dfe-5ebc-47fe-b7e2-304cb4ab4bc2,03ad32fb-9b8d-4573-85a0-bbc3ff32f5d3,734163000,Care plan (record artifact),55680006.0,Drug overdose
+c87caaf4-ce3f-448f-bcd9-8a090e3ec1bb,1980-02-03,,33520eea-ab94-4024-aac8-fabd9e3361ea,1ddfcf49-773f-4502-8c49-75ea161b09be,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+031d1448-2a0a-4ad7-8fc9-9c185088c64c,2013-04-08,,262ff550-d97f-43f8-ad65-58dfa0657583,3bf442b3-6439-4e13-9962-9f5652d38261,698360004,Diabetes self management plan,15777000.0,Prediabetes
+352519c5-9aa1-4fda-adc1-8a015c50fa0c,2005-09-14,,f76470f9-f8bb-409c-8d7d-80c10c25a423,b369f19c-b92a-4993-9be7-32ce0cf73465,384758001,Self-care interventions (procedure),,
+a03414ef-7362-46da-9d51-7143ac5fd075,1993-04-14,,55f094c1-402c-4d74-bbb4-3b0fee21fac7,f3ef3809-4f2d-4562-91f2-c873833a1b94,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e46fa1c1-d09d-4ff9-bafc-0284cb23b14b,1970-12-23,,0b330870-5a8e-442c-b9c4-cb060a53ac82,c9be4c4b-5d0f-4fab-bedb-40b2fdad8a05,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+ea51827c-2456-49ff-a3d0-7d2f6a544493,1998-06-19,,95d04f57-a087-414a-899e-03394ecd653b,fec70f04-2898-4a6e-b963-11a34e295e5c,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+1aa1b490-98fd-4623-9f0e-31512ca206a1,1927-08-17,,6b67fc1a-23b5-472e-bf2f-9c3919b7f84d,5e2f1239-9edb-4fba-80b7-24c247e30ebc,384758001,Self-care interventions (procedure),,
+d58896aa-ff6e-42e9-b828-ab6725429bbf,1956-03-10,,b2ae34a4-359e-4065-a8b3-86ba825927d6,46f91a8a-a335-4b80-82f4-aff6290a1283,699728000,Asthma self management,233678006.0,Childhood asthma
+ffffb8c1-075b-4cab-b2e3-13acc6af0e1d,1988-02-26,,72ee7748-bc1e-4e8a-9c26-3aee16bb93f7,b8c32eb4-c5d1-410d-bea4-8501ea6c2e4b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+ede103f8-7734-424b-81a8-7c828c29cc87,1991-03-10,,f26eaced-f2fc-43b4-b6cb-1fd44b4bacd9,0e810684-d442-4672-9696-ffc91e01ffbd,698360004,Diabetes self management plan,15777000.0,Prediabetes
+2a18c126-0444-483d-bfc2-3fed3cc07655,1976-01-10,,1ad59b27-bf37-4db7-9af0-fe41bc7fea5b,89c37b3a-ea50-49a8-ac64-21e6a0cbce55,384758001,Self-care interventions (procedure),,
+2c70b1b5-7254-4335-b472-4de5384d5c07,2009-05-23,2009-07-22,2348bca2-cbf7-4eb4-a65f-3949920dd75d,bc095943-06e0-4a74-9a26-f4121e3a0e91,385691007,Fracture care,58150001.0,Fracture of clavicle
+5a4b792e-8cfd-42b0-a63f-1303178decd3,2004-07-15,,43d989cf-0b48-47a1-97d4-e6d022aa6d72,eca1811a-1934-458c-a371-7ef68bcae70d,384758001,Self-care interventions (procedure),,
+08df73ea-f91c-4629-9d64-6c0c52a7fee8,1978-11-17,,b3f516a0-0337-4beb-b67c-fca05c23c4cc,1ee957c4-89ef-4673-bc82-e9393a5cc3d4,384758001,Self-care interventions (procedure),,
+88512533-d5eb-429d-b8e4-6cfbf6fc335b,1984-10-27,,cb056a49-de3f-42c8-80a9-3a2f4dbb9024,093c5811-bf3d-464e-a181-b73a837c8f17,698360004,Diabetes self management plan,15777000.0,Prediabetes
+44916039-df96-49d5-a52b-12143f0ce371,2017-09-10,,cc0541bf-e517-4ba3-a3c5-b08a4b0dac62,7866f9b6-5669-4b2e-bac5-5e86263299b2,386257007,Demential management,26929004.0,Alzheimer's disease (disorder)
+75ede606-1104-46f0-afc2-7a246abb0ac7,2019-10-24,2019-11-23,087ed37c-c912-45d4-b0e2-c75545864f9f,faf6904e-4121-4b8b-a283-fcb639afad3a,385691007,Fracture care,65966004.0,Fracture of forearm
+46560b4b-64fd-49e6-8153-04e074aa08fc,1990-06-23,,963c5ddc-275d-4883-96a8-998b0d94a30c,9cd8767f-a27e-4701-be9e-6d472b9b66c7,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001.0,Pulmonary emphysema (disorder)
+d48147f4-a4d3-4c70-b466-cb0f619a9c8d,2017-11-02,,68d37bdc-d7b8-4f71-a277-e02b98a0cc14,fcd99098-f5e6-4a66-b7ae-c6a36f91d4ea,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+9f5d3364-c5da-4896-a392-042d8fb9fe8d,2008-12-18,,adc50e1c-7181-446a-be8a-99e1d8028f6a,bc684ffb-b625-4842-9574-ace68108a34f,711282006,Skin condition care,24079001.0,Atopic dermatitis
+76ef9c68-9b3e-4cf4-b230-ad827cc60757,2011-05-03,,8f7e3bcb-663f-42da-800a-5918329f67dd,33286794-5001-4951-99eb-b356f0703761,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+7a7f500f-8c68-4cd2-9e66-260f2bcabbde,2020-02-27,2020-02-27,ac3c1d38-e3e8-48f2-a243-610f717a4e01,23c1236a-9e16-49a2-99dc-9eff479f0b49,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+272bfe43-98c8-4ed0-9df6-96cee7039a90,1977-01-27,,01fe8b87-30b6-49c1-a18c-033e7df0e213,b78c73e1-3e63-44d6-b884-9fa033c97949,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+ce373c4f-25d8-4161-9920-bd49926e17f8,1969-08-08,,b6974083-7df3-4cea-8280-c9c0b8de69ec,ba99a41e-623b-40d6-ae83-66a3a78519e4,698360004,Diabetes self management plan,15777000.0,Prediabetes
+8eafaf1c-d4df-4795-beed-22960cd3fd8f,2009-03-22,,e49a89c2-eae5-4264-ab19-c5241e1ebe39,0fcf8bd2-49e5-472c-8b1f-cefc664e2a8d,384758001,Self-care interventions (procedure),,
+4ccfee74-f8ae-4e6a-97e3-aa6309ef5c88,1941-08-05,,415f8140-08ed-41a8-8c69-6d886deff2a9,ea2baa76-0b1f-4b25-a411-5f605fa29cf3,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+849bffef-d8ec-4ae0-8460-fa82182fd2f2,1990-09-17,,3a475f25-ee3e-40b4-8979-a9c00ee0bc68,6e6f7908-f774-4281-a4f7-5aedaaf5f9dc,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+625a1ea9-fbc3-4955-8759-7421d195abdd,2019-03-27,2019-05-30,1792b011-2a48-46db-a748-bc3574f5363e,5d607946-c983-46b0-b817-3c6faa70f066,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+b9922f91-4b28-4b88-9352-1d4726fe5322,1967-05-28,,c5db36b9-cd80-44e5-8d48-c9bb19f94be5,a88cb2a5-de66-440b-a80e-a84154019659,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001.0,Pulmonary emphysema (disorder)
+1c5cefdb-b0b2-442b-af70-9f83fc2f2a1c,1966-04-03,1966-05-01,b0ca57ab-cc33-422c-93ae-d88cb6197bba,85a14dc6-f3bf-4672-91d0-145bf8172392,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+58220f14-0b5b-45ad-a801-31fed10a5f7d,1958-04-29,,dc61c21a-3218-49b4-ac41-07c0ea0ba690,b101fd57-995c-48bf-8067-bfc2455f7632,384758001,Self-care interventions (procedure),,
+c796dfdf-4336-4b21-9713-5491afccb6dd,1994-03-26,,3fb9a63a-dae1-42ba-9255-f328acc3b4a7,ad0423b7-0fee-408b-bf22-5e497d0419fe,384758001,Self-care interventions (procedure),,
+00985cd5-7657-477a-9a80-a33fb7bd37e8,2020-03-12,2020-03-12,64a0f4ee-adfb-4296-ad4a-09ba4c20782a,86df5d72-f470-43e8-8845-da31ce55b558,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+b35d0739-006f-4dae-b4b0-26bd08303dc6,1951-09-28,,6040bb1e-f025-499f-b353-3d7e91049fb8,c9fbc67b-ca9a-4ba4-999a-c15378da26ec,698360004,Diabetes self management plan,15777000.0,Prediabetes
+2f8c5f51-c9f2-4e20-abc0-7a799dc207c7,1993-09-21,,5a260470-1374-46e8-b2d9-c757c5117e96,a2795641-4226-4a92-8488-c6a7266c4ec5,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+4e443005-9dc7-4366-9088-d30754471f98,1991-03-14,,9ea0cd92-b381-4edd-834b-5bfb0feaaee1,b969fbcd-f10d-4b47-bd7b-bb786d7310de,408869004,Musculoskeletal care,239872002.0,Osteoarthritis of hip
+1aed08ef-7867-4172-b634-4e2a51540153,1983-09-05,,853a3b43-baa9-4e86-9027-58e1630d9d2d,65cafe74-8eef-44e3-9c89-166e9ca51f9f,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+b74e9c62-4800-41b1-a896-8419417ad4e0,1979-04-17,,c036bfb9-9814-46f7-917b-ddae4eb9fd7d,d373065c-3d45-4e54-8437-7dbf5e5a6b6f,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e67ea7de-640d-4617-912c-a90d02d6fb5c,2012-11-06,,d9d1254c-61c6-4716-91fe-6c58d446b74b,e9c5488b-5345-46bc-bd25-d57d11fa7fbb,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+bf0ff913-481f-4c7e-bd9d-c36ecd3c47f8,1989-03-05,,afca8044-b4f8-4f61-b25e-c712869f0234,138acc83-e12e-42a2-848b-fd0ff445d5ba,384758001,Self-care interventions (procedure),,
+113e1697-1f04-41e4-b1f6-f0980517f23f,1996-11-24,,e722a59b-3907-46d4-b3d8-261e931c3f87,65f4a9e0-de82-4016-b15d-da2992022e15,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+79d6e1b7-d10b-428a-abf2-310921ac0498,1945-07-15,,6e9966aa-7912-4bf0-919f-e1eb174114a1,744db02b-7531-408b-b022-faa9c2fefb8d,698360004,Diabetes self management plan,15777000.0,Prediabetes
+56424df4-9f44-41a3-8db9-804b51102ab4,2017-04-29,2017-11-11,3c4781ae-c940-485d-9239-9363222aa4ac,7308263b-1c7d-44f8-9f5b-58b8f77929b1,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+0cbf473d-94cd-43c1-8206-947506206a52,1988-12-06,,102f3ab2-e290-4b60-8e7f-82137077fc85,3869b6e9-25f2-4706-b1d4-b3e5164eeb61,698360004,Diabetes self management plan,15777000.0,Prediabetes
+627c8eab-d847-4963-ba7a-4af51551aa5c,1944-07-04,1945-02-06,16a9aa74-37da-44ad-83c8-b54eaccdc1d4,7d4d9d37-b573-49c0-a39d-f4806349dcd0,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+06efbe17-2a35-4ce4-b209-420d00ef618b,1992-07-25,,623a76bd-5687-41ec-ad07-b9ccc67d971f,f07e36c1-8b64-42ee-be94-2fbfd17d922f,698360004,Diabetes self management plan,15777000.0,Prediabetes
+306b02f7-f260-4ae2-8942-d3bf465ffee0,1976-07-28,,c51f420b-688e-4af5-87a9-dadca46fd5de,01474b07-8f14-4140-ae75-4a67548604f5,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+acdb0b43-1c97-4a9a-8776-d7d7d2604fb8,1976-08-27,,f54ff4b1-d9e6-4206-8110-99bfea3749e1,a4417ab0-7719-4149-aa19-a95bbfa99529,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+199c0f2d-5e67-49f0-8be2-581c7610f612,1998-06-05,,c6d5b07e-9d37-4ec6-bf0e-0a43737e98bb,20ae37d2-997b-40a1-90a9-268bed9fec18,698360004,Diabetes self management plan,44054006.0,Diabetes
+f32a57dd-071e-4f54-878f-80c192afe4ef,1997-07-13,,f95e52b7-7e8f-4401-889a-0fbd59b08767,f4a95fa3-f63f-47ac-bb8e-fbec504bdd2c,384758001,Self-care interventions (procedure),,
+a7f62e3e-80ae-4692-940e-4a36e84844ce,2020-03-03,2020-03-03,a06640f3-6f11-4814-b3aa-3ef8b427ae82,6613566c-38c9-477a-9926-565eb06e668b,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+db28b98b-179d-46ba-b45e-b234e0b49f4d,2020-02-14,2020-02-14,edf0be45-5ef5-4208-a3d1-8cfd02b860fd,beb39203-f042-441c-b953-7db563ac65e0,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+1baaad3b-a3cd-4962-9812-4ce93ea9bb9e,2008-07-20,,86ad75db-c897-47f6-b60b-13ebb7b4e6f1,2d52613f-291a-49f8-9edb-84646d1552b6,384758001,Self-care interventions (procedure),,
+3f4b9a21-4824-4098-9a58-36f957b6f8fa,1989-03-16,,26d2533f-041f-4909-bdaa-a1557279896d,bd349099-5208-4d91-827e-363f86ab9c81,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+0aacff94-3cb3-4dfc-9a3d-29d1d7a1d147,2020-02-27,2020-03-10,835aac27-cd10-4f0f-b43c-5acb87ce7f71,9152ae9d-71f5-4d83-ae98-2adcec7e85e9,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e7e1f90a-bc9b-414c-b4a1-c7927b56e75c,2020-03-02,2020-03-02,571e28d1-a770-49cd-aa48-f1a0418a7088,26b07c67-30ff-47cf-86df-6119c8004bc4,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+821a9ec5-b9b3-4cf3-9967-c57f692aec0a,2020-03-06,2020-03-06,0752f162-156a-4a7d-9501-edf92e31cd34,5bf46dd2-c4b7-4fdb-ba38-80c8490679c4,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+4228caa3-911f-4c97-b4d3-7cb3b5f577c9,1976-12-08,,adeb7b5d-fc2b-47a8-84ab-3e2f225fefba,1ebf356b-303a-412f-bd41-b38b4bc7ecb7,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+40ad4d9d-3642-4962-bd21-e6fb0e8974cf,2020-03-16,2020-03-16,f3fe7200-32ba-4340-8b6e-d7b07e49d8e5,ba33ee14-d1a3-4b38-8ee3-09ff169ca695,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+6dcbaba5-8cb7-453d-9aef-e4d9c02f8f6f,1928-10-13,,c4d14a4c-397a-46bb-9808-1fc9e7239a42,415d214a-dff2-4dad-a05c-c671c6561ec2,384758001,Self-care interventions (procedure),,
+7ce0bf2a-1ac0-4d7d-9193-dbf1fc3fd976,1972-09-22,,1a95faf7-5e5f-4e36-a28d-e24b8b790823,12a13d32-64f0-464a-a68a-71564c9f1529,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+7ac6d154-5e10-4053-8c47-00f528e6c69c,1986-12-25,,f815174f-db10-4983-9331-f1d78335f9ef,d8b68743-5cd2-49bd-9a75-d521d2738986,384758001,Self-care interventions (procedure),,
+f3253c31-9b32-4661-adad-6148d786a8f1,1990-03-15,,7f530899-4ab4-441d-9513-4a4382959eaf,05605062-d654-499c-a6e5-e3c42c6f337e,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+815bc1a4-73c4-4b7d-8389-28899f57f63a,2019-09-19,2019-10-13,216d0424-89d8-4ecf-9326-c2e93efd8c2e,fa6abc4d-410c-49c6-9334-6acc7878af73,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+d9f0bdfe-5048-4ffd-8c16-b97eac7be75a,1998-08-22,,59667c3a-9f7f-44d4-96b9-b109cae394a6,32e85d27-f5f0-453e-9c45-37a53460679b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+0623a7af-25fc-43cd-9522-b15937ec5fce,1951-09-28,,dc041a17-77ab-4f31-9af6-5b475794611d,463891c9-ce4b-437e-8d44-0abb61e27ace,734163000,Care Plan,,
+08f0f631-c984-486c-a85c-61821b661055,2020-03-09,2020-03-09,c803cce9-063b-4ed1-a7d2-fc80afdab448,14a67972-ae99-427a-9e35-43981632aafc,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+7c1f8b09-fb66-45e9-91c8-354b5e45543a,2020-03-11,2020-03-11,5455448c-2aae-490a-b45b-c5b92c0d8a6e,54d4608f-7583-4cf3-9d0c-a956055e6210,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+45882ff2-29b5-45a5-9471-b79be93e8e3a,2020-03-08,2020-03-08,0b886b1e-ac6a-4943-9cda-4f2405197174,f7d96e72-ba5d-41bf-a548-c37de3b63b15,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+3782b09a-fbfa-4628-b5c1-bb1f19a5998e,2020-03-02,2020-03-02,fc1a47d2-efa3-42e0-8d4c-d795e5fa5217,e5447254-c9b7-4e85-b927-fc97903b8294,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+aa30b44e-8b5e-4b59-955a-7d956704fd12,2019-05-21,2019-06-20,65fc4a93-f1da-45dc-a332-1ff0ff47d6f9,3714ca04-5772-4878-83d4-b9924da86271,385691007,Fracture care,263102004.0,Fracture subluxation of wrist
+71b11727-2c92-4d27-894c-756915117b96,2011-05-19,,a396e62e-6ca4-41b4-91f6-038818374fb6,f7c39005-b480-41a9-8c91-f14423aeaf2b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+27648baa-9e97-4184-b579-24939fd9461b,2001-01-10,,ffdbbb1b-745e-4e38-ade2-a19d6e778fee,72467e69-2b8f-4ab7-820e-eb16fda1fe84,698360004,Diabetes self management plan,44054006.0,Diabetes
+aae74d69-4619-4c69-ba91-1f5305447a6e,1959-02-06,,68fe6ad2-b04c-4041-8a60-5d132491f935,b9104482-dc16-4513-ad32-082aaa815075,698360004,Diabetes self management plan,15777000.0,Prediabetes
+d8c82153-b616-43e7-b210-7afa2f6a35ba,1991-03-11,,a8436481-2929-44b4-ac45-298d0bf6a1f6,bad88802-883c-41b2-92cd-39c57ff4e1f6,386522008,Overactivity/inattention behavior management,192127007.0,Child attention deficit disorder
+d90e804b-280f-4ab6-92ff-3ef24ab991a1,1968-10-08,,56c0cc01-a9b4-4422-876d-418b5c6dc68f,b0730c05-0435-4071-950e-a7eb9c14e600,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+b9a4c62a-db11-4fe6-8eef-d8c71d0d9c57,2000-06-28,,ca886ec8-aece-4572-9f37-f4fad92a6917,143245f9-7173-455e-b4b9-e9dd717f1538,698360004,Diabetes self management plan,15777000.0,Prediabetes
+561cd9d8-2f83-49b0-9592-b96e782a8a71,2017-07-12,,c54dca65-c053-4145-a33f-5cf478905cd8,75fff84b-906f-4e5b-91cf-ab4b95770068,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+8d73e4cc-01e6-497d-bf98-dac0669f7192,2020-03-09,2020-03-09,d791b7ca-2e48-4f38-992c-ffbb583a59ae,ab4d688a-6589-498f-a0f3-9da5b78154a1,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+946bab00-e92b-4088-a7b0-ceaaae23d3f6,1965-08-20,,62a6025a-371d-422b-b417-f72de73268df,dc57b5a2-9174-4f41-8407-470040d3cd46,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+6011bd11-cb84-4499-9326-ec4cccee4d48,2010-04-14,,53b2db95-6097-4329-90d2-eedc35506ef5,49ea865d-c7dd-41fe-b8d4-432ffa611d48,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+9282aebe-9b0b-4157-a09e-caece8338272,2020-03-08,2020-03-08,1f9b73f7-9a7c-40f1-9541-1bb260183912,2854a9b2-bd20-4dda-826e-93d1e7877085,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+2c0d09da-ac25-4b58-b278-9265bcfc4d96,1981-10-03,,b1285fde-2e53-4c5c-8d25-2f822c27f8bc,1a252d23-cf0a-4f14-ad70-587c8ac5c720,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+635a88e1-679b-48ba-acd5-831981683adf,2011-05-26,,6a93bf0d-c783-4568-87f6-5d93d38c5d5b,3f874234-2391-48ba-ba55-967040e9df5e,698360004,Diabetes self management plan,15777000.0,Prediabetes
+2a0654c4-2dd6-4d2f-b882-9c9213d2db72,1929-06-17,,fd16fd10-9a8c-49bc-b268-1c2c5deba2c3,f42965ae-4129-419b-a92b-9657d5a7fbca,384758001,Self-care interventions (procedure),,
+9dcc0b99-fb34-4952-916b-24dbe8830ff6,1992-02-08,,4b703d47-c639-4bb5-8df0-8c32541ded3a,e1802435-5bcc-4975-ad4b-318b9ac1bd52,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+404af822-dd20-45a7-a8b6-e07f589302ad,2019-10-03,2019-12-02,0c985960-ebcc-4992-94ad-1800c7ca5d17,67716765-5709-48f3-977f-1fda93cc8eb5,91251008,Physical therapy procedure,307731004.0,Injury of tendon of the rotator cuff of shoulder
+ea35d5f7-f0ba-47b6-8222-0d5403ec5118,2020-03-04,2020-03-04,fb3c76db-3d6e-48f0-b2d1-ab7e9207e3ac,ec470438-5146-45a9-886b-2d42c4919b55,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+83d0b556-74c5-4785-a6d1-04aca2d4dacd,2020-03-11,2020-03-11,c033a8a0-3c8d-4a08-a6c5-8596c20a6f07,db39e069-4e8a-4c5b-b0ee-0647bc152eb3,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+772e56a7-3f8c-4b20-a353-36044ac89bc7,1995-12-15,1996-04-10,fbb813e6-947a-45fc-ac20-4bec20757a72,c31300a2-e9ea-44f8-92b0-3bdaf3575ba5,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+284bf2fe-d905-48fc-b656-cca44439b2b9,2000-09-18,,9ff91ed5-06d8-48eb-baec-da829ec996ed,91984ee9-74b2-4b25-99be-8abed7957bfe,384758001,Self-care interventions (procedure),,
+6098cb10-c4b3-4e46-8b6c-91e25a310751,2020-02-25,2020-03-17,88b0e75d-e328-4a26-a526-dec596a9e836,42bd87b3-8de3-4026-a96b-4d7b77ee55f9,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+98219818-6dfb-4759-a6e2-1505c7ec6266,2015-10-26,,5ff252af-cd22-4f57-a820-41eef42f67e8,f8067085-135c-4452-ab08-27673db0ce6f,698360004,Diabetes self management plan,15777000.0,Prediabetes
+a538cf88-15f4-47ae-abc5-41bf35428639,2016-05-13,,15ab3cd2-a983-429a-a9a0-882c83a494fe,27d807fd-b574-4c09-845d-76241855a7e3,384758001,Self-care interventions (procedure),,
+c6857d64-fddb-4c7c-a002-54c445d3c98e,2010-09-18,,9d5445ee-333b-4487-9c30-cbaf1d02fd19,7127ea67-0f31-46c1-8958-7ef18e1f6d40,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+b970bfea-eb6c-4747-8f7d-dac4c95371ca,2020-02-29,2020-02-29,d3ac33a4-f3f5-459f-986f-d0787df3f6f7,9b0a3512-10ff-4002-ad78-e8f1b7b5ac08,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+94d851be-43be-4681-b219-8bd2c0ba0b0c,1966-03-07,,b878e3c4-076d-49ce-9f5f-b65f2a096814,ba872aee-dc4c-4aed-b9b4-ce889841eec6,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001.0,Pulmonary emphysema (disorder)
+912f1dd3-202d-43d1-831a-2b47e812a41a,2004-06-01,,41ce429b-f2fe-4f1e-8ff8-02d728552489,6aa5f6a5-334c-4f39-9c3b-332b0e9dd00d,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+2b90ad90-6a05-4241-858f-90b5bce1ba99,1977-04-11,,d39ca079-38a7-4698-86fe-9130bd697c18,c682d49e-385a-438a-b07f-13bd4888aaa3,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+e9440e84-c190-4a27-af01-5ff941956a2e,1984-01-10,,376a7d5d-38be-490c-9833-33a631656840,5f1ae164-c045-4e0b-a479-d7ca7f389798,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+e94ceba7-ba5a-4fa4-9b56-43ebdc0c371f,1947-01-17,,d068efd3-feab-49dd-b337-add9195ef2ed,06914bed-840b-4c0a-9afc-1a8eb1dddbc1,384758001,Self-care interventions (procedure),,
+32408b64-f1fa-47b9-958b-4e4446997b7c,2017-01-04,,03a0d001-96be-4dac-ac06-53c46557865d,928ccdc9-b008-44be-a763-dcd80907f5a5,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d8852af2-c8f8-41fb-8abb-16ac0d40d23e,1991-05-21,,93e995ff-cdd7-4c23-b87a-89c3d0fcdd4a,3ccc23de-c430-40ff-a2db-f409a5b47119,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+f74103e9-620f-42e7-b801-8a378e668e8a,1995-06-14,,7d2075a1-cb2e-48fe-ad03-442d038c06ed,32d6e959-0411-4e0e-9cb8-eff00a4f850e,734163000,Care plan (record artifact),55680006.0,Drug overdose
+63e55a0c-142a-411f-8e0d-a137838a4cbe,1998-09-03,1998-10-01,75e76fb8-98de-44f5-ba05-94526fbbe7ac,9a708634-5ce6-4469-b292-5433ea17b3a9,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+92190004-828a-4245-bde1-055023067385,2020-03-09,2020-03-09,e7cc51d0-14e6-4630-8247-795fcb955b9e,14ac44d6-f5ab-4419-a788-23a7d136d6aa,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+653427be-beec-46dd-9ed8-ad7970e585c4,1928-04-16,,069dda20-c917-4abc-b5d3-489261eda346,dde26f8b-84f8-40b0-9fe2-3487eeedf8ac,384758001,Self-care interventions (procedure),,
+18b660be-19e5-4c56-8c82-bce43e8d703e,2004-04-12,,bb99ebbf-0249-441c-91f0-2db81dfb2d81,ecb14bef-97fd-4c7f-b3b4-a89488f16df1,386257007,Demential management,26929004.0,Alzheimer's disease (disorder)
+8e2ae51f-b08b-4c7b-8873-756603cae44e,1957-09-01,,05c9c8d4-5f51-4f6a-908c-140372a975af,ffdf3fd2-a215-4945-b643-910843117c47,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+1d972c28-1823-4c7a-b873-b0788d75b894,2003-01-07,,470816bf-a2c1-4cbe-aee8-2b7ec3c810c1,cb927f66-8985-4340-93e5-ba525711d3b2,384758001,Self-care interventions (procedure),,
+9d02f53e-91fd-4833-a6d3-dec3b761a2d8,2016-06-02,,fda0a794-55b0-4e65-b25a-0327a614986b,14cebe55-c3b3-4d3c-be88-68d6c5f3db5d,384758001,Self-care interventions (procedure),,
+69be6512-ec41-4229-9f23-bdf6ef8f57da,1993-09-30,,1c61b225-4199-4d7b-be5b-5576993bf42d,0d3da926-432b-4bf4-aafc-e55007452f6a,384758001,Self-care interventions (procedure),,
+88635392-0855-4ff0-8c17-469aff38a375,1928-02-20,,76065512-805c-46e5-a663-b50084b031b6,ec31678f-c08a-40be-bc34-87806b1f5d54,384758001,Self-care interventions (procedure),,
+78f6d7c5-a26b-486c-a51b-0dd5c98eefa8,2020-03-08,2020-03-08,1077f7ed-7287-4f90-b9d3-b941d2302ca2,f22857f8-c7cf-49d5-916d-a72bb9c24cbd,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e96ad65d-7885-4dfd-958d-82c51fc9e2ff,2020-02-29,2020-02-29,d9cdf240-f84b-4471-8fcf-47ec72565ef7,9bdc0d3c-05eb-4499-a41e-3c6a212d3f32,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+19c247ea-c8e5-41fc-bbb6-a4e8311df48d,1968-12-03,,22797616-31cc-4bea-9d56-6b3258b91618,3996f8ee-13f3-476f-9188-a347758de3c4,384758001,Self-care interventions (procedure),,
+41db3f06-f0af-45af-9f6a-0093a795ffbf,2019-10-18,2019-11-22,476a868b-1862-407d-8677-f4dececb7b75,797c39c7-23b7-4b33-a9ae-fcb39471c276,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+ebfb4e97-df8e-4ed3-a5e2-0622f46a5565,2008-04-07,,af13f62e-97ba-4d3b-9776-57c6d61c9c36,e20475d4-5be9-42ad-bb45-a18665243ca3,384758001,Self-care interventions (procedure),,
+41efd88c-69e7-494a-888b-6e6b18adc49b,2019-12-02,,13a8587d-ee2a-424a-874e-e6040ddd1a20,25a55556-4821-464f-9c91-01a8d4313746,699728000,Asthma self management,233678006.0,Childhood asthma
+b2d18a8c-418f-4c24-9682-f1509a225212,1981-11-12,1981-12-03,cf6b1b41-cf5e-4c6f-9492-104b1e03b125,b8f40992-20bb-4c55-8a7a-b1c4cb0f046a,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+9abc3757-93ab-4465-bbd5-55f28b20b1ac,1963-03-04,,2e7e45f1-07c0-4dfd-b103-f57593d10c60,20ac6d81-149f-47d5-b94a-d09301c26719,698360004,Diabetes self management plan,15777000.0,Prediabetes
+6055b8a9-4e59-4843-a920-1a95d7340e88,1994-07-23,,971f0b8d-ef09-4395-a1b0-33ffb0956bf5,c4cf3bda-ffcc-49e9-a94e-6902a69fbcb9,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+5890b828-0170-4aaa-a936-b31145175385,2015-12-19,,1738b4d9-9bd3-425f-b10c-64a17c688d8c,898bf35d-6048-4226-b113-6cfe97e41bc4,698360004,Diabetes self management plan,15777000.0,Prediabetes
+505f0e44-9c15-46a6-a053-283f32a68528,2020-03-06,2020-03-06,ff1327c9-e618-40f2-b125-166fe79ea4ab,6725f39a-9f52-4f23-adbe-7427d86d7949,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+55aea5b5-1f35-489e-a672-ec34d272761d,2020-03-02,2020-03-02,383f22ba-9682-49e4-b30d-30233dfe3a9f,e7351382-cc0b-4e06-b8b4-d5ac2b3b48f5,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e33e0ac2-6a0c-4565-bed9-f65f28154e0a,1992-12-15,,e507b133-dc82-41bd-b19f-8ced8d2ed06d,1475c360-9c54-435d-8ccd-d2136dd092c0,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+f0f79f1f-21ff-4d3f-b755-e4860f4e6b38,2009-10-30,,46838c60-6d63-4384-9200-ee9c26f039cb,706d6b97-1cc1-427b-8483-b8724570734a,384758001,Self-care interventions (procedure),,
+ccd6539b-6a65-41ba-9b90-b653bc1edc7d,2020-03-10,2020-03-10,09d5f1e2-033e-42e7-a8a7-53afa72e1955,04c98a2f-993c-46a7-b8db-eb019da40a10,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+8a62e2fb-9d4a-478a-b6d6-d22977f927ae,2020-03-07,2020-03-07,2567e441-7add-413c-b40c-318fd2867946,6cea7afd-9b08-466b-a0f0-8ff6ba3d4198,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+b806f43d-f23d-4553-a01d-befba32ba3ac,2013-09-18,,1d3c3190-932d-4311-98ae-687c923190ae,c1cc2db6-0c14-4730-bb99-aceb3aadc8e1,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+08f197c0-9d6d-4d5b-977a-a22ecc930ad3,2020-03-13,2020-03-13,df53ada1-9414-40b1-9a61-03e3e61cdd55,ce63b173-bb73-4548-85d2-2ba3b820e67f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+5cbc3839-4cf0-4f41-9c61-9e5c2d317f76,1993-04-07,,7fe6ebca-303f-429a-bb47-eb82f0beaf5e,1c9e25aa-ff69-4e06-b604-70041a4851de,734163000,Care plan (record artifact),55680006.0,Drug overdose
+15546076-c336-408b-b632-c8377b057451,2019-04-29,2019-11-22,4c81605c-862b-4063-822a-f000aeb72549,e810c825-0c07-48cd-8fe2-577ddb01e538,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+7a32c9e8-cd82-4a59-91c7-f0cae2d7892d,1989-08-18,,bf58d463-a098-4324-a565-69cf4bda5990,56f9f0a5-9fc2-48d9-9c3b-4b380343f218,698360004,Diabetes self management plan,15777000.0,Prediabetes
+c895d593-4062-4740-94d2-45a46ad69a09,2005-10-20,,bfeb0165-1cb6-4f5b-9dc2-d48153bade07,5ca32b32-6383-4c00-96d6-181631f00b23,384758001,Self-care interventions (procedure),,
+e4f25ff6-41ca-4d8f-97da-54b7f5dc50ec,2018-11-29,2019-07-04,51b1d14a-7d60-4ab7-a970-2ae6447e481a,bcaff802-c137-4820-8656-1778b70aa7f1,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+5b4f9cfb-19df-4fd1-acb8-45a35ebb0b7a,2019-04-10,2019-07-09,8a758dea-5e77-4bce-80a9-87c03312931f,3d57ec81-5f9e-4158-be14-11df2ba2ea11,385691007,Fracture care,58150001.0,Fracture of clavicle
+072aafd8-c0d9-464a-98e1-d89982867c2b,1945-07-15,,7da8ba12-f296-46c0-8c34-70b2c841ec7e,39db3e44-7c32-44bc-8651-a057e8e3a637,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+e6cde1bf-484f-40e0-a4b6-34ded0cf4914,2001-02-08,,bfa33eb7-0434-47d9-8b41-7d85341065e8,50ca6207-34f2-4e96-8454-f4d3ce1a6a95,698360004,Diabetes self management plan,15777000.0,Prediabetes
+b2270e3c-c7cd-4335-9a09-08e9f232b6f9,2020-03-14,2020-03-14,90aee3fe-276f-467b-b7ad-adaf9993c5f3,f7576220-14f7-4efa-bf63-b85789a26efc,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f9ed5649-f974-4c27-ac00-41f7ca7befe0,1943-04-24,1943-11-27,d9909bb3-31da-41cc-87c2-fcec81c6848a,8161f52c-9364-422a-b2b1-cb7d1ca79b4d,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+7d3e4fdc-a9fc-43f6-ba11-c98917a4e0dc,2004-09-30,,d8f5f7a4-8c4f-4847-8368-0d5f2edba52c,07a7360b-64ba-4031-9d6b-5caab10599ac,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+10572097-9df6-4973-aa16-4bc5b986c98a,1986-01-20,,2fe2d1b8-ec2b-4d2b-b25a-2b2d4ce3f062,935c9acb-0e81-483c-be1b-feee2a03171f,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+cd15c429-d3f0-4c59-a279-dff384eb81c5,1987-12-29,,ce718268-3e91-4d5d-98d0-508286f0eeb2,bfa22461-3f62-4a80-af00-bf9270431cf9,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+7e333cef-59cc-43ea-8d7d-18fe41380fc5,2018-10-29,2020-05-19,e5abdbfb-6e6c-4ecd-a270-acee6be3bbd8,6226687e-944d-419a-98ac-d1836520214a,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+97fd9ae8-5923-4267-9a32-9e3be10d37f2,2004-02-18,,d1b2924f-77bb-4735-a899-cbfae8368bfd,a4bfdf39-fa78-4941-be06-af24813da2ba,384758001,Self-care interventions (procedure),,
+0ff7e020-0fd2-421a-8103-0b326f51357d,2018-04-01,,c6cbfe0a-d2e0-4e4e-9603-f2189ac0a644,a4a091d5-c898-406b-9a62-65a27f8575f5,384758001,Self-care interventions (procedure),,
+cf58e37f-3de1-47e4-9200-8be796e5b9c4,1969-01-18,,34916863-676d-4224-9356-c28e78526641,b5117f85-8cb1-49b9-a100-2c0a859d947f,384758001,Self-care interventions (procedure),,
+85706dcd-34aa-41d3-8629-5dc135a6cbc1,1964-05-12,,f2fbcf5f-f21d-421b-9656-32cde503afd6,1be3bb54-564a-4038-aa31-5ecc3cf7b164,384758001,Self-care interventions (procedure),,
+101153a2-ef74-4b59-9efb-cc99a11ca1e6,1959-10-15,,1d79fe70-7537-4493-b07a-09cdf58db028,eff81069-4c07-4b44-bf28-3aea397ee684,384758001,Self-care interventions (procedure),,
+23e9447f-662d-4224-8391-4ccd7de34abe,1987-12-29,,5532d7f4-2817-4f3f-a5f0-fdad834c921c,287ea47a-f4b9-49cd-9226-68d8567e3144,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+431a96b7-3aef-430c-b00e-e0594c86f1ef,2016-12-09,,d5fd9bc5-30e9-48c8-b2a1-86f8879245d2,c7282773-e30d-4f55-b547-4dc729b5a91f,698360004,Diabetes self management plan,15777000.0,Prediabetes
+b4294a31-1250-46d7-9ab0-4d901e3b5c95,2007-10-13,,1352cdb8-4e97-49bc-a4ef-6630a208d999,c3342616-2520-4416-8f93-27039234fb3b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+352de178-7dd4-4cbc-be92-a478f525825b,1981-12-18,,cf46f9c6-e3b4-446b-8fab-af634d5457d5,b5084f07-9b81-444e-a5ba-c1d86721c4d0,718347000,Mental health care plan,36923009.0,Major depression  single episode
+cf66b730-868a-4c39-ab70-6fdef0718946,1992-08-02,,484e2aea-ede7-451d-a302-91c12ce05779,f9d5a3ef-b5f8-43a2-8e57-6c13ce0686e2,734163000,Care plan (record artifact),55680006.0,Drug overdose
+5d8a753e-3117-4879-a28d-b0b0c789f479,1994-11-13,,7757d575-1d48-4d8e-b54a-ad9c500c0e70,7f2bd199-876e-4ec6-9c69-f5960d88cbdf,408869004,Musculoskeletal care,239872002.0,Osteoarthritis of hip
+ec20482a-e479-421c-837d-348290224dc2,2013-07-17,,6629e74d-7d30-45dc-99fc-fd9a0de47b90,33a18579-13de-4f2b-9cd7-1b13e8fed96b,698360004,Diabetes self management plan,15777000.0,Prediabetes
+d49e15a8-52ca-4528-a911-6dd70453acf6,1999-07-12,,f16e3fa9-4324-47be-92f8-7aacc3b5a373,6d05d07c-b9f6-47d3-8d7f-3d8f3075826e,734163000,Care plan (record artifact),55680006.0,Drug overdose
+a9074003-2ee7-46d1-a653-0c66a0dd9f61,1978-04-11,,cef6aadd-3e03-4441-8db7-c77e38329b27,19883a4e-be75-430b-abd3-64b75a7ade07,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d8af9c6f-8d0f-45f1-9b98-05ab8c90782d,1988-09-17,,867a31e1-c6e0-40fb-8c94-c59f8d45788d,7301058d-27e5-4c17-8fc5-9e076d37b330,698360004,Diabetes self management plan,15777000.0,Prediabetes
+9236c151-27d8-40fb-ad33-fd90f24d711c,1967-06-06,,201a2b13-5653-4ea1-8276-6566477908b2,5735ce62-6032-4431-b680-a7b85ca53d15,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+a72fbc6c-0d23-4e3e-a1ed-df1ae31eaadc,2000-02-02,,d7051074-4f76-4edb-9e9d-401cab7ab38a,4346f98b-a6e6-4e0a-920e-6be61972b806,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+811d4900-ee2f-46ee-a649-0ed41adc79c2,1994-08-06,,53262ddc-4db3-4ff8-a318-7c6f3b365b6d,4f3a7c18-a6b8-4636-9443-fbb83001fc1e,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+bbfcf052-2525-41d0-afe2-5c10ec547c4d,2013-03-13,,f1f9bf7f-b2c5-44f4-935d-7250097a0ba5,8262e8b1-4b24-4f60-9592-b6449333e48d,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e3f3ffa5-04e3-4171-88bc-1fa6e5670a0b,1959-01-20,,26b3b171-7e3e-44b5-b2a0-59046e6538f8,070a2878-4410-4165-bb28-018c0a1fc39b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+1cd0c638-2d67-4813-a10c-91af6e93c64b,1990-06-01,,cea8d685-a7e9-4113-be54-f4f74dd68bc6,28e5cb44-7ee4-41fa-b361-eb404eddf5b9,718347000,Mental health care plan,36923009.0,Major depression  single episode
+3ce6d15f-cefd-4115-9072-fd12fe8e3515,2015-07-09,,747d7985-366e-4b22-83fb-e0fd2cc11c48,34ebcf04-d8b4-4406-a0f6-e617b577307f,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001.0,Pulmonary emphysema (disorder)
+72ccd191-0b5b-46f1-9248-a2b7eadd6015,2017-11-23,,5b50adf7-3833-4972-918a-c2f7ff488e90,958d94dd-f54e-4c19-a1d3-48c42fc4d6a0,698360004,Diabetes self management plan,15777000.0,Prediabetes
+143994fe-f9da-4cba-aedc-8cd2fedadf75,1978-04-11,,bb41ee79-0fc3-4d5d-aac1-f1798960b085,df67339c-06fe-4083-9d85-fce2bf1b7960,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+a0803b51-cb89-4cf4-85bc-806e2264cfe9,1980-12-23,,47932ff4-9948-4da1-8f2e-5da32408099c,07368b20-bf7c-4073-bec1-a626cf43ecae,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+2c18b121-4177-45a9-9252-2fa495758836,1973-05-25,,a5f99297-db1a-46c2-89d8-163621894d04,046b5b5e-d0db-48eb-b1b2-32239aafb145,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+90fe81b1-379d-4537-9085-577ccc433b0b,1943-11-12,,e9459c0e-d717-412f-b4b9-b39933e3726f,2da3ff89-d9ab-4590-ada5-25c1d0fe64e1,384758001,Self-care interventions (procedure),,
+cac30496-b09f-4ad8-8b93-dfc4761ffdc6,1985-08-16,,b6d539a2-abe0-47a1-96de-7c06523646d8,6b9302fe-76b1-47c8-b23a-85110efaf5fc,698360004,Diabetes self management plan,44054006.0,Diabetes
+7f3331ce-3146-40fe-b0b6-64790689a9a8,2018-07-26,,d44d845f-2623-4697-a7de-c6f37d95ac91,3c619dc7-b61d-44ed-962a-523304082b31,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+a71c922e-a149-45c3-818d-4fdf623751c5,1967-05-24,,4cca1356-2aa6-46de-9510-362dcc5fb077,f663b970-b78b-4e6b-9070-deb97c760a10,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+978cdd23-6b0b-416d-ae14-e0389f1bd560,2020-02-29,2020-02-29,c7f309a2-c83b-44bb-b9c5-5b860d29d898,e4e55822-ff91-465b-9561-8a851a5cfa60,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+306a92db-fc5a-419b-8423-abe1be90dceb,1985-01-01,,9530b168-fede-4488-860e-7e6dfa711ea0,e88a761d-46f1-4191-9b0d-588abedeea1c,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+36afbfaa-321e-4148-9f67-a2e21525a7e1,1992-02-06,,036fc254-ce9d-48a8-81a5-0d6c551ad8f1,49702df8-dd3e-49ab-bfb9-32865142d4e7,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+96878bce-6b5d-4f60-b003-42122b001b38,1952-06-06,,63cc2b70-bc7c-40f1-8a1f-7101a934a4c9,66eae99f-b21e-4c0f-85d9-904ff146bbf6,384758001,Self-care interventions (procedure),,
+355ad34e-eb7c-4743-8e71-84f4f4ce33d0,1990-09-16,1990-10-07,d391c40e-f80a-4400-8af1-402f1b7ec342,e578893a-572f-4247-aeed-49b37d36893a,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+1a24c7bc-5933-4ef1-8c47-5ca59d261c95,1960-08-13,,203abecd-74fb-4ea0-a721-4cf17c9f70d8,d7e16e7c-61ac-40b4-b339-3e69970f634b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+13989bb1-3a2f-47e8-bdf9-5dbc42c403bc,2020-03-16,2020-03-16,946dbe62-6ac9-4e61-8625-12a388b79e0b,f051e441-b8f2-4777-8d9e-466c39382cb8,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+58f4810d-d9bb-4063-8386-4d7527ef7ba4,1956-04-07,,737a2e56-aea6-433f-9309-4b5e616493f0,b6fc9a1e-9283-45e2-adc4-f383109bfcd0,384758001,Self-care interventions (procedure),,
+e168cbe4-a561-4a33-92ec-a2cc8f95e74a,2020-02-19,2020-02-19,e16f9e6d-67c5-465a-abbe-598f60e10c72,89e931ac-e4dc-4557-b138-0cb1f6fecac9,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a0134b1b-62b9-47b4-8a2d-a99cb08e27de,2020-03-02,2020-03-02,38057025-e091-4f86-a3b5-1332a1dad8be,881e9950-e4f5-4452-be97-0b004790b343,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+8396a196-dc91-4260-8023-05b44d7dfe04,2020-03-03,2020-03-03,ea2bd57c-1d06-4ac7-ac42-113a9e22ae3e,7c631048-19c8-4c89-862a-a8de65854ea4,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+fc53ac1a-91c5-412c-89e4-579d389f12cb,2014-05-11,,d7209743-5bb5-4c82-974c-6533393eda42,ed442f15-ba73-4a6b-a462-5f3322c4b971,384758001,Self-care interventions (procedure),,
+c2d4804b-aa67-4a57-88e6-57205b2d7144,2020-02-29,2020-03-18,07eb39b7-11b7-480f-83f1-8f870cb53fb7,68c33b10-bec0-4d67-9d77-7254e1fea63a,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e4eb612a-1641-4f4d-9294-2b3ecd29d5ac,1996-07-16,,70ac541a-ff4f-4d98-a52a-282577c298b4,a14728f6-5c75-4889-9516-05a655b60f54,735984001,Heart failure self management plan,88805009.0,Chronic congestive heart failure (disorder)
+81579b48-c886-434a-9e36-83986937ea5e,2020-03-02,2020-03-27,56d6909b-e097-4ccb-919d-1000d199afd2,38eed4ac-7494-4658-892a-342369336ef5,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+af57382d-43e5-4fc9-a26b-fb7dc960bb1a,2013-07-01,,9a5fd0c7-175e-42d2-b16b-cb4722440272,501cb43e-2f88-4cdf-8774-cfbeefbe40c5,734163000,Care plan (record artifact),55680006.0,Drug overdose
+2368ba3e-38f8-4558-a9de-3ac8f3b2948b,2020-01-05,,94bb5efa-8bf1-47ff-8c61-cfd7d0728c59,97ee5f52-baa1-4b81-adbf-28ab4ab84902,384758001,Self-care interventions (procedure),,
+9056b806-fca5-4655-bed6-862bfd1ccd26,1958-08-05,,c16e1174-233b-4efd-8f47-aa12b35aef8a,d850521a-393f-41b8-9742-e0c4e025a7e8,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+8d310125-488e-4763-b505-fdfdf3ac715a,1995-10-20,,eb628440-80ef-41c9-bba5-e76f9a3199c6,369c4c27-4336-47c5-b947-bca8caa05874,734163000,Care plan (record artifact),55680006.0,Drug overdose
+acb43a94-db1a-4291-bc4f-9543c8d61ecb,2020-02-29,2020-02-29,3f1b7eb0-0dc0-4555-ae2f-23dda4ab6712,f1bf24d7-76e4-4a55-b0bd-4495bef737bc,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+52ee826d-8411-43cb-9b2a-8031df64f555,2020-03-07,2020-03-07,0139ab5c-f8da-47ae-a74a-2339b4efa766,ca62a154-7869-455f-b198-aea66eddf0b1,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+5340de9c-53ea-42e4-b20c-ff539d30d699,2020-03-04,2020-03-04,1ba68f58-f102-46ea-ac17-7187f0849268,2d7bdb13-bfff-42a7-b718-27d281bbaccf,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+8c7b6a3f-2b37-4c6c-8855-35f10c9ea54f,1991-02-04,,fbd232fc-c183-4e0f-83c1-e2a029749d8e,0167c249-2440-4652-8346-df9d14616a6d,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c45809d5-bf33-4584-af3f-b9ec4cbe765e,1931-08-21,,a016930d-9590-45a9-aac7-ebd89db7ea54,5697ebc5-05ce-4c95-9244-39c26f36e080,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+fe667686-c3a7-4d40-8656-9b92480e4e01,1987-01-09,,35b3c63e-b7e9-4783-9c6d-3d6c97ead79f,53b3e26f-0d97-4dc3-9bea-1db4e1a3df2b,698360004,Diabetes self management plan,15777000.0,Prediabetes
+6c9bf575-90ca-4681-a8a7-346150ee19b6,1953-04-20,,aa2e62ae-3b08-4340-b593-646d1c9e35af,79a91c36-8947-4d82-ad3e-c03990c84a12,384758001,Self-care interventions (procedure),,
+0128ca2d-a684-4e3b-84c1-67abf690b30c,2010-03-26,,3ec0ceeb-ebbc-484d-8da6-66ee91c355a4,6319b280-4753-4a0d-812c-17b98c0bd84a,698360004,Diabetes self management plan,15777000.0,Prediabetes
+decb2c5e-a48a-4920-b8ee-b936c5df81dd,1994-07-02,,5ba22348-8ce3-413f-8b0b-12a86f7ba642,02f628c1-8e0e-4b77-976e-c53d16cd0366,698360004,Diabetes self management plan,15777000.0,Prediabetes
+9403eae6-b3ae-471f-b80f-5538e0359f9d,2001-03-22,,4de5c03b-4661-464c-a3ae-2bcc08090630,66d1efe7-92af-4f1a-b820-9fc5c5b428a1,734163000,Care plan (record artifact),55680006.0,Drug overdose
+6dce21f8-5c78-4619-a8a2-b286db8565e9,2020-02-29,2020-02-29,52638112-d4c6-4687-89d5-e36b1464b906,72c724df-c577-41f3-b3e5-02a0307da6cd,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+8f550a62-894e-4a50-8163-22ab72894525,1988-04-20,,8067687d-5327-40bf-93b6-646c48df5832,2a8cd985-9a26-4f79-a1cf-02a94259b0c1,384758001,Self-care interventions (procedure),,
+0f3ca019-14f7-45d2-8bc0-6893301f6559,2014-06-26,,bc3fe378-7285-425a-b9b6-2edaf3ea8246,ce274cfd-d44b-424f-9173-26da30a1a601,735984001,Heart failure self management plan,88805009.0,Chronic congestive heart failure (disorder)
+172586fc-970c-4d9a-b153-8659410b330a,2007-07-22,,8df111e0-0ce3-4365-ad3c-17610a40cf23,cb20bdfc-7eec-4a2a-81eb-4a1093443703,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+699a6705-0087-4318-a70c-78eea173dd88,1996-01-22,,9cf732b0-b57b-42a7-b2b5-f759ef731790,774d939f-7227-4e9c-9047-5383542d21be,698360004,Diabetes self management plan,15777000.0,Prediabetes
+80af7b98-eecf-4811-9cf0-d4589aba04db,2006-10-25,2006-11-01,baa4b071-5ad0-462f-bae3-581bca21ad38,e708f23f-1ccc-4325-868d-babc33d3eaae,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+83356e18-2c7b-47ce-b043-2437e4cd4fde,2011-04-02,,94fce669-2e24-43a4-b8de-036a0a273570,f5be7f82-c26f-44ec-aed2-c39ce7e1159a,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+1d533288-ff8b-406f-859e-b85019c06402,2014-04-10,,60da72e9-8233-4dcc-a06a-a71fda9b1602,595c607d-646f-4710-a8be-0e3f53570e28,384758001,Self-care interventions (procedure),,
+8c7973ac-e3f5-44ee-83e0-ddb2ae27b5d2,2008-12-22,,2b99a3b6-ac57-43a8-bf5e-a274f2d832d2,02e64be8-0d9b-4006-9a2e-f3c437cccce2,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+a83ac89f-5d49-4b87-913f-9bb452d64a12,2010-03-08,,c74b6d2e-6e6c-4b4c-bd53-cdc152d92576,32932212-6f0c-4406-a411-64e4f3b4fac2,384758001,Self-care interventions (procedure),,
+771afa39-849d-48be-b464-25ffee8ad2a5,1974-01-24,,1061d414-ad32-433f-a788-32bb019f3130,a88227e4-d78e-4454-9885-9f71385adb41,384758001,Self-care interventions (procedure),,
+5c1d7a21-0d72-4825-9276-28a96ef5af41,2002-11-13,,df3c7fcd-282d-42c9-a49a-71897ec0198b,5898c2b7-0962-402f-a28e-8996ec39db0b,384758001,Self-care interventions (procedure),,
+4bedefa6-68eb-4993-a95e-9f3c7e8ed714,1983-02-21,,8b81d361-6ae5-4237-bd6b-7215b9c7059c,67b6ec64-5545-4e9b-a73d-47cd68a60c8f,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+2d72ff53-2765-40bb-9df2-672891ae7c90,1997-11-09,,d213e220-d3ec-49f9-ab37-d8dcabeeb33f,e10e1db3-c24b-4c89-b53a-6fa48571a2fd,698360004,Diabetes self management plan,15777000.0,Prediabetes
+572b0e31-febd-4d76-9b8e-7bfa354e3787,2020-03-01,2020-03-01,a8fa70a3-59c5-466a-ace9-71486d5ce4fb,5f9ef060-d1ea-41a0-8f31-188391d98d4c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+5bc446fc-a65b-4457-b097-9e41320b0b45,2020-01-20,2020-02-03,1d0e1cd8-94d9-4352-bd17-011dad602394,52dd1a40-6613-4928-84ae-c4bb36c0aa37,737471002,Minor surgery care management (procedure),,
+40aee16e-5b37-429a-b89f-984918e8bbde,2008-03-18,,30ed644c-1791-4670-99ff-3ba544406857,65aba9eb-01fa-4272-8da0-52baf4e4b09a,384758001,Self-care interventions (procedure),,
+a1d844b1-94a4-4f54-9816-c042e16e05ae,1970-05-23,,350665e3-5806-4ff4-b531-7da320c0b11f,cd445714-d352-46ce-bf96-3271c88784ef,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+a848cd4a-d819-477e-bfdc-54c29f543e84,1979-08-16,,b6bb6d8c-cb87-4d06-bdc8-a0247b7174a1,c8e1953e-0990-46e9-8b32-8464067e11f9,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+938a9397-5e1b-4c77-975d-f112439fe5ce,1958-08-05,,42a32c04-1d6f-448f-92eb-5b2592703110,aee5b956-7078-4914-ba5a-e22392956599,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+519e28fb-9aae-4832-a185-3e2dd4ccfc46,2020-02-29,2020-03-01,b858248e-d8b5-48ff-a8b0-fd07c92026f8,9bf5e42b-2e9a-444e-8357-f13cbd225859,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c338b5de-7817-43ca-81a6-00367411af8d,1959-01-20,,e396584a-3b3a-44e2-838f-be05097ef6bb,702f26be-2565-4925-9802-98c5d54a0fa5,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+ecefa174-b646-4207-b953-47dacd63b374,2020-03-04,2020-03-04,788df9d9-f815-4dda-847b-b978a7da9614,449e9164-84e5-4196-8ed2-12efd32145d8,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+92fdbe18-0908-4851-8d74-be4a17943663,1976-11-30,,fdae35ce-5952-4913-8356-15b5052c68ce,b1c59450-e7dc-417f-8bc9-130c183f2967,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+335d2daa-18ce-45fa-b454-1334fea4147d,1981-01-04,,2f950e0c-ca60-417e-bfb6-d521cfb4c4db,f510e716-5bf6-4330-b838-053b6f5df7c1,699728000,Asthma self management,233678006.0,Childhood asthma
+f16eb6b7-272c-4b6a-8ff5-48d5c8030f7f,1931-08-21,,dd5a1f10-b8e6-4141-8e0a-26f34f4ce412,4778d025-a66e-4557-a812-741db214b1f6,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d7dc4f14-2aae-430c-a942-0264c18a8729,1971-11-05,,a82db511-9291-419a-b504-8ab1f097279d,0d6af85c-1ee6-4690-87fb-ff43bbd975df,384758001,Self-care interventions (procedure),,
+af6f0c88-f6ff-43e6-8377-6c0ad72f0d2f,1970-05-23,,d72c1e9c-bcb0-4502-88d9-b0c56566b86f,436b1fda-2956-40d4-951e-c2a5fc0840d7,698360004,Diabetes self management plan,15777000.0,Prediabetes
+d40e364e-a4c2-4daa-88a1-ca17f29ccc5e,2012-03-01,,ae748f8e-188c-40b0-a4ee-ce04ae58c078,7a8d1845-b7de-4590-8836-3410846857e5,698360004,Diabetes self management plan,44054006.0,Diabetes
+df4c59d6-af88-4254-81b6-6bf46c0b59bd,1993-04-25,,b6161ebe-9d30-4558-9e76-ec25e3ce88cf,dcaec1d9-e4c7-4657-be6b-65fd88e94937,408869004,Musculoskeletal care,201834006.0,Localized  primary osteoarthritis of the hand
+472bee05-2ce9-41ce-a33c-e687dfaac17f,2001-12-20,2001-12-27,2886f351-b517-47b0-b3d8-ddd099b157dc,510e0732-7bc7-4e32-83f7-780726166ba6,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+b5f76283-c76b-4c2a-8b5b-c20cbd463a29,2020-03-05,2020-03-05,772f3a8a-456a-4ae1-8795-75bdaee86a3f,5b98b88a-94d7-4b4b-bbb1-7347f7e19021,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+cf75002a-2419-43af-83cc-1b239de1392b,1991-04-10,,f0e54ae5-a1e8-49cb-bd24-dbbfce7034a7,0aba60f2-3de2-40f6-b540-ac730d9a49ed,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+e8d9c3a6-9d96-4b04-a81c-dd219a3b5153,2020-03-08,2020-03-08,6f07c643-4349-44fc-a348-ae1645ac4803,b6664eb8-4f93-49cd-9939-8e7b7fb048a5,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a9d7fb85-53ac-4406-93eb-82abd2ede1b1,2020-03-06,2020-03-22,76bfd32a-b22c-4469-90ea-2ae1a8b2ebfc,92ea2ca5-24f1-489b-aa14-ce27b725ecdd,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+132773f4-7e5d-473f-a09e-7462b2e36cec,2010-02-19,,7f601884-8f36-4be6-9a50-fe17fa05527c,c0aeaece-4624-462a-a806-8158f3e5e6fc,384758001,Self-care interventions (procedure),,
+02693b77-38cb-4e6b-96c3-bf20b2196f6a,2020-03-03,2020-03-03,7efacbac-86d1-4d41-bc79-bfddd5c450b9,3d2284ab-3d63-4009-a6e0-b14eee8f4ec6,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+99056834-12f6-4451-ba51-5429d282f982,2020-03-05,2020-03-05,138883f8-9ac3-4868-b6c4-3205dedacaab,91dde4c3-4435-4bbf-a2ac-8709912f439e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d2ad7de3-8f0d-4737-af58-32b15f44fcc3,2011-05-28,,df49c357-3867-4488-91ab-80e6b432baf3,8da21882-d07f-4fff-821e-20ba0c627753,711282006,Skin condition care,24079001.0,Atopic dermatitis
+e7e6878d-3345-4f03-a59e-fee13dd841ad,1954-01-17,,ba068187-8649-4311-866b-d415f4ef28b7,d1fa1d51-c950-4859-a980-0bd1db578985,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+84396e55-6f96-40d4-88e1-d2d3c459da0a,2013-12-05,,f1636646-4265-4628-b756-5fa137ef030d,7d09760e-ce1e-4dd9-9891-9d747e6fee91,736252007,Cancer care plan,126906006.0,Neoplasm of prostate
+83ae899a-6279-4f28-95b6-6f5acba67998,2020-03-03,2020-03-03,5d07a924-cd35-4f3e-9d70-d7857a2574b2,784c9826-e543-4191-9b17-0d91a6813fc0,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+6ecf0f1a-7679-4a9c-a187-f85e81fc2bcd,2016-05-08,,8804a769-6f11-45f8-950f-a78aea15350b,ce07cf8d-4339-42f6-8d24-f87717313c82,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+5c7b4a01-265c-415d-a904-a7cd605ca3d6,2020-03-08,2020-03-08,82d75561-0ef4-47ed-9e5a-6dd49869448d,38e294d5-1f7a-41e0-95e8-e048a0b8a04d,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d2a99112-33f1-4b45-ad0c-870afd174fb2,2020-03-01,2020-03-01,e4b62eda-9955-42fd-9131-c73a6d295a7c,6938074b-b9ed-41d8-8b30-9bca18350a9b,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+abba4355-aa3e-4f73-80d3-a2a9c498cc3f,2020-03-10,2020-03-26,f080e8a6-ebc9-4d40-ac4d-9e062244ab7f,f2eab82f-8e1d-415e-b04c-31c2bd7425a2,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+51f72f2a-566e-49d0-a60d-81c92cd6b758,1973-05-26,,e5acb7c5-5730-4b0f-8a8c-68e93c6a27fe,e493c44c-772c-4ca3-b67d-1602035f9c7b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+0ce00209-e566-493b-9f6b-816fef5a747a,1985-09-08,,15245ae4-f736-48f1-80b9-285b641adb14,a74bf56b-c4c7-4324-a4b8-0cf38c3481da,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001.0,Pulmonary emphysema (disorder)
+addfb6a9-366c-4957-bdec-ac52dc6149d2,1931-08-21,,1617da9f-ca76-424f-b020-5f339f06260e,b54b261c-34df-4cbd-bd58-9667f4ed13c7,698360004,Diabetes self management plan,15777000.0,Prediabetes
+b9c48af5-3a03-4a26-8ed7-00979391d09d,2004-05-22,,db497357-16f1-45bd-8606-bdf1b8639e0a,073a970f-59b8-4243-abeb-a3ed93d0da41,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+bec10af6-664e-4251-9cd3-034d2ce69383,1956-04-05,,ab01753f-a816-4483-9e87-09ad11953198,545aed22-6295-45b5-b78b-aa716e98ca53,384758001,Self-care interventions (procedure),,
+41538a6b-447d-4095-9a72-313fd647d12f,1993-04-11,,3c404698-904b-4ec7-aca4-f7e555193eb7,7e28b053-7567-4847-9d91-835f0dd5fa58,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+08373fb8-6fd5-4ef4-8497-d2b8bc3a3dee,1966-03-02,,91a413b8-e90c-4eb2-90a0-425a2cc4d623,056091fb-c18a-44a0-954f-5be9b1d56160,384758001,Self-care interventions (procedure),,
+4ff30e71-2119-479f-b2c8-004316facd89,2009-04-18,,8f821e30-6781-4ab4-883b-c17f7d65b934,0396cc6a-8d7e-4d6a-8722-b49deab24a7e,384758001,Self-care interventions (procedure),,
+4102e1f9-4dea-4549-9efd-98c64f6461db,2011-09-28,,f52f060d-0aa4-4c1a-9681-99ba6b4f43d4,86cc6c3d-0d84-47ac-bd62-3eada953db3c,698360004,Diabetes self management plan,15777000.0,Prediabetes
+015ae153-f6e4-4599-a7f1-ed3c3b157447,1989-09-04,,cb9293b7-7838-450a-a8b7-56571d9d4419,54692a57-1675-4d91-864c-18c0461dc6e8,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d7934122-097b-4eb7-a667-49f5170e3879,2020-03-05,2020-03-05,641d796b-7f79-4ad5-9e17-4efe14ab90f0,965172cf-a6b0-4d50-9244-b84f27760c47,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c325fc6b-9a78-4d7a-ae0a-1d677afdb64d,2020-03-17,2020-03-17,e9124d1c-eded-4fd6-bc0e-c70d065b644c,c95a51d9-e1f3-4fdc-a8c2-15260c423b8e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+7c06cba3-5e14-496e-b26f-814262351f82,2020-01-21,2020-02-04,9c399f32-5184-4e6d-8286-758b82919249,2aa9eb35-e19a-4176-8e45-60c232c35ef3,225358003,Wound care,284551006.0,Laceration of foot
+df7a9cd9-543c-4a79-9379-f421bb354e1d,2020-03-01,2020-03-02,3ace4ae5-d953-48a0-8462-f7b513977b97,36c395d5-ce40-4060-a49c-556e384d400b,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ad6c297c-3b8c-4e3b-881c-5186cd39ae6d,2020-03-04,2020-03-04,5a4b442d-b339-4ae9-960d-673c6eeb049c,f66669c4-afca-459d-9a66-062f6efb6355,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e66ddc50-d13b-4b80-aa5b-c0bd827a4a3f,2009-03-19,,37538636-02bb-4c26-bed6-b14af8346ba1,9fd66138-14de-4878-89bb-b152b4c99cac,408869004,Musculoskeletal care,239872002.0,Osteoarthritis of hip
+96480a42-95b2-45ac-a022-a828a021b420,2013-06-04,,97af9927-b109-4483-a161-f355464d4fbd,0f021d56-b875-4f5a-b0fc-fd9788143a54,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+1041d750-358f-4559-afc9-0a864dad651a,1954-11-10,,77075af2-448e-41d2-9d30-facb23f4fd50,195b8224-c662-48cb-8e08-2e8a25ac55d8,734163000,Care Plan,,
+450cf43a-0a36-4077-bd95-5c1e8bd73483,2005-09-26,,15485813-8868-4d70-8bc5-6eb1dc8b46aa,a4908313-69d0-4754-94f7-e25f36952ff0,698360004,Diabetes self management plan,15777000.0,Prediabetes
+54e5d03c-9a06-4f25-922c-76ac0f6636b4,2014-02-16,,b1acc087-78de-40b2-90a2-eb832bbca319,6376468c-07e9-4640-bc75-cff6f1292fdd,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e8955414-fbd9-430f-acc3-d26af7f48c66,2019-02-09,,b12b8413-b656-42a1-8a42-a9e843751189,bdca772b-e073-4b04-8975-f2a4f5293ee8,384758001,Self-care interventions (procedure),,
+f3879940-255d-48e2-add1-3133211575a9,1967-06-29,,fba21f3f-08ea-4a44-903d-2bdf4884d908,de1e43de-0785-4d2a-9eb5-3d31fe169237,384758001,Self-care interventions (procedure),,
+0068d236-dee1-4995-ba3a-f02becc4f27e,1975-05-14,,1fb459cb-56d1-4d21-8fd3-ca6d55446872,2b5edd11-3952-46e7-90a5-ee9c48aa85f8,384758001,Self-care interventions (procedure),,
+45f9c4c2-8c08-4737-a0b0-00055cf6a565,2017-09-28,,f8c8e2c8-a0d7-4ee6-8b63-4952a00b0afb,be7ac8cb-49da-4794-af86-998894e50c43,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+acf90531-2b67-4467-8b57-927960c9c572,1971-12-24,,ca36a4f2-a012-4be9-bbf8-1289b34572a2,81cd0862-b8c6-477d-a20f-e78755393803,698360004,Diabetes self management plan,15777000.0,Prediabetes
+90849392-0f43-4de8-937d-1cdab38f41d2,1961-07-22,,933be934-1729-4d0d-8d41-9bd11aa8e432,2e6f1fc7-b2fa-42f7-b7fc-a81816448813,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+64d1c4b7-3814-4e8c-96fe-cb19f75236f9,2020-02-28,2020-02-28,dc611d45-0344-4e01-bccf-433d5bf675cb,8516a482-b504-41a2-b3e0-676bb6981817,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d5eb3d96-4f47-483a-890a-263da20d2938,2020-01-12,2020-01-26,87966d8f-daf0-4038-9403-e4814581070a,f109f5fd-4a6d-4665-9c53-7473b7b7ec6c,225358003,Wound care,284549007.0,Laceration of hand
+46aca5b0-ae9b-4c44-b2e5-ba75c7b11322,2002-11-05,2002-11-12,419712a0-e314-4253-a21a-ca442c4f6248,3373feeb-11af-4ccc-8cb5-723ddf45777b,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+400879d9-4b4c-41e5-b03d-f0539bb4d429,1987-10-12,,aaf80f6e-ec6e-439a-91f0-0b84b0a57882,f5f09a71-4538-4252-8bb4-a6907287e13c,384758001,Self-care interventions (procedure),,
+ab4e32e2-5398-4ce4-b74d-627022689a10,2020-02-23,2020-03-29,384d959c-446b-4fd2-bc36-9ec7174351f3,96f2d73e-9e90-473e-8c38-15c669663ffa,91251008,Physical therapy procedure,70704007.0,Sprain of wrist
+b42b04f4-7be0-459b-a8a5-b9118b27e013,1977-01-23,,36ca7541-51fa-430a-86cf-476a29b98299,77ca04a7-e12e-4e09-8658-9752036a020e,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d85d7845-0ca2-486a-a9dd-9ad27f2af61d,2020-03-07,2020-03-07,af4ad5cf-cea1-4a4d-90bb-fdc0e2cad37d,8bc27db6-995d-4110-84b4-9f7eb769b55c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+4b80ffc5-7696-4d16-ba9b-e5fe7bf12df4,1931-08-21,,20b019e8-b12e-42f3-8915-21bfc83afaa1,5155d48b-edfd-410a-80c2-5da6d855f074,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+188f8fbe-7dfc-446c-b5e0-93d907f1c34c,1990-08-01,,aa7862af-9674-4498-af92-dbc9ea83fe27,c5953ac8-135c-42c3-811f-97a34b27fe73,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+29bbc675-cdf0-445c-a565-2cf77225b599,2020-03-08,2020-03-08,778036ca-8d0d-4d20-925f-658df175bb26,f78ea7e0-426a-4016-89b2-d96df41f6cca,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f208f2d1-a9dd-435b-8703-8daa75f33b80,1980-05-06,,a89dc3b1-830a-460a-9ba5-20f8a6cdf2e3,7fa3381e-9cfc-4b1f-b1f8-9d0460824603,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+8183015c-cda4-425b-bb29-3df5fa4195e0,1991-06-19,,9718334c-3289-4b1c-a017-72f3df283ab3,682ac69f-dd0e-4d8b-ada1-160893b5ecfb,698360004,Diabetes self management plan,15777000.0,Prediabetes
+d1e4c072-6c7a-474a-84a2-e2776c0ae653,1979-09-26,,0e7eb959-eb65-4882-9dac-7e5b8beb5560,14a06c2b-3287-4338-9a95-a2326c3e032b,698360004,Diabetes self management plan,15777000.0,Prediabetes
+383362e9-2fc4-4d04-ab83-8d9c847618dd,1945-09-08,,516b7da7-5598-49fb-8696-3083179352bd,0b053b32-3c8e-460c-a6a3-c08c093774b3,386522008,Overactivity/inattention behavior management,192127007.0,Child attention deficit disorder
+49d1a774-35c9-4ecd-b18d-a3dccef76e31,2003-09-20,,04a7ea2b-1cc1-4a51-86e7-34e6670b5f72,8ecb4237-8064-4191-bd8f-d453b698f510,698360004,Diabetes self management plan,44054006.0,Diabetes
+12a81aca-88d0-4f34-9c98-7f58ec727bc3,2020-03-07,2020-03-07,7cdf035a-26f5-43b7-9bc8-83317eca0214,34eb1a8f-a566-4356-8b12-9adc4725bb17,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+cfd310f5-4d53-4551-a0f1-9e8fa36c1c86,2017-01-15,,5c346ec3-3ff8-45af-96d5-0990e0cac458,8c080446-4070-4c19-af28-1c17283874df,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001.0,Pulmonary emphysema (disorder)
+7a529869-5f43-4a3a-983b-721b9e99301c,2020-03-08,2020-03-08,85f36b48-3140-4700-8f56-898bcb93e744,42339fab-4b21-4e13-ad0e-a618d2146226,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f02bf222-9d4f-4e0e-a6a5-a318a268a7fe,1990-08-18,,d09d4ebb-8475-401e-9a71-afe379e04e42,24c9007f-9376-4f1c-9196-1667ebc0def8,384758001,Self-care interventions (procedure),,
+59afebfa-8a5d-4e38-a559-e58821bc6cf5,2002-11-28,,2c98b4b5-50fd-4c4e-b833-9b8882fdc8b9,525ba601-9c6a-4869-b085-e1f2090fde06,698360004,Diabetes self management plan,15777000.0,Prediabetes
+98df37ae-7d83-4a9a-81f5-a91dc4ead25d,1991-01-26,,c1f37b81-5142-4872-82d3-349802c187b4,326e1327-9166-4c25-82ce-1bcfa23f3de3,698360004,Diabetes self management plan,15777000.0,Prediabetes
+3bf2b55d-44e0-479d-9268-905300664491,2003-05-07,,3c2548b4-25eb-48a4-bd93-7576124e9f01,ea386a15-b786-4591-91a4-dac54beb41a5,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+b717a9d4-9c1e-4e9f-992d-17168b484bf8,2020-03-12,2020-03-12,55eccd93-cbcb-46b0-b0d4-be8ceb67e04d,bbb24b55-2470-40a1-8006-6589d504cdfa,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+034754c8-e10a-4ce2-869d-de82a6fad9f3,1976-04-10,,c2e1d5c0-c7f1-45c6-9837-4490558614f0,4bd4d874-812e-4e0a-8ae8-f0fbf48a28dd,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+98b60319-5784-41f4-a994-8ed9a7b4eb53,1935-08-30,,a97479ad-8584-454e-a125-2bfee1296c27,e0e20207-85f4-48e1-ba11-7bf6565c1982,698360004,Diabetes self management plan,15777000.0,Prediabetes
+99c7ace2-695f-41a8-8153-982ce8ff5183,2011-01-07,,ef5ea744-4ab9-41ee-949e-34c5a51204ad,b71b3840-7fdc-4bd6-b3ee-8e81604b6005,698360004,Diabetes self management plan,15777000.0,Prediabetes
+3fffc070-ed58-4da2-a149-6071e65345c7,2016-07-21,,dbe6dbb1-726b-45c1-bfda-6b46cc2848ce,55ec419a-0e96-43e7-98ae-926f8c501fdb,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001.0,Pulmonary emphysema (disorder)
+b2106d29-a989-43ee-9259-91f2972aeb1d,1972-03-07,,8872f821-f8d8-47aa-a605-8f91b27dac7c,b8c9c661-bef6-4bb6-9a49-626f94a401a9,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009.0,Chronic obstructive bronchitis (disorder)
+801213d7-099e-4c06-b718-fb72fd10f305,2002-06-16,,8380eb21-e5e7-49a4-99e1-5aad1829598c,e54bb5f9-1e74-4e16-ad6f-dc916f75c199,384758001,Self-care interventions (procedure),,
+b096a15a-aa3e-4aa2-aecd-ed36a23e51b4,2020-03-18,2020-03-18,0fd60668-26e0-4fbc-861e-f67c94f89ad6,2f1d8c58-a860-45e7-9af7-2dd7b63a4339,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+b01e34c0-d166-488e-ae24-89d1cdd985e4,2018-01-01,2018-08-13,78e14d39-c5a4-43da-8e60-0acca2523319,b69ce6cd-6248-4eff-8b61-f5eba8b15fd3,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+53afb72e-4af6-48e4-870f-df24e6765863,2019-05-26,,933d7f42-af33-436a-b51c-04e72ef1b55d,521d9e63-6d04-411f-9c49-be4766decfff,384758001,Self-care interventions (procedure),,
+2d900c26-f03f-4dcf-9893-a9cb5399cba0,2020-03-04,2020-03-04,c8342210-15cf-4465-b41e-52cbb0860860,7e757000-55c8-4075-a2b7-a58d5adac46f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+583149c8-352c-4fc7-bcc6-73413e52a583,2010-11-20,,2197b4a6-4b19-451c-aaee-e5614a735925,e4c80392-7083-4c7f-9294-ab1fa99fb3f8,698360004,Diabetes self management plan,15777000.0,Prediabetes
+97e587ea-20dc-41af-ae6a-30d35917586e,1938-07-10,,33601a0e-375f-427f-94fa-db9d203c06fd,ca605d85-2845-440d-aec5-e5c7c5b61b47,384758001,Self-care interventions (procedure),,
+1f7081d7-482e-49fe-8aa3-075c1a613c98,2017-12-21,,7dcf6c4c-f407-4b6b-9fd1-73606b4de11b,bbccbd99-881f-4786-9d60-07f54b88a7a2,698360004,Diabetes self management plan,44054006.0,Diabetes
+1446d49d-571d-42d1-addb-729c86237106,1991-12-27,,8e264606-246f-45f1-b119-6fbb99718926,ee28b144-bcb8-4d97-8358-f553900373a6,699728000,Asthma self management,233678006.0,Childhood asthma
+3513a537-ce27-46aa-bd04-0c3b855bc5c3,1987-08-12,,28ab8ca6-bcc4-4d57-a3ee-207fa71e2bdd,ab3bff31-2c79-43bb-8d83-ed6e05a689a4,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+fdc58081-34c4-47f4-a9e7-aba7029501ae,1953-11-04,,e8786c0e-ab24-404b-ac9a-c41172ae71d9,836f36e4-db9a-43b4-9258-7a553c7e19e5,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+5f03f6cf-0029-4dbe-be0a-2a2669297717,1977-02-06,,75685037-acd8-41b4-8ecc-6abbd905c442,a49e51d1-ba74-43fa-a88a-edd4ef574251,384758001,Self-care interventions (procedure),,
+2980fb76-403c-42c2-aa25-c3384cd53b3d,1987-05-05,,6ef1728a-28e0-4dbd-989f-d91ebeffbac4,59efa1e2-8d25-40ca-8a9d-5995d71bee13,698360004,Diabetes self management plan,15777000.0,Prediabetes
+7c2c5c83-6db6-457f-bbb2-8b5adeb8a319,1965-02-22,,f998ba1a-66a9-4dc6-8815-235f50ee258a,97ba5f3c-6eea-4102-81ba-fb30ac5ded68,384758001,Self-care interventions (procedure),,
+f1a8d1e4-e878-40af-b3f8-9cc20164a819,1967-11-26,,213a81c2-fce0-4c93-b167-5ac9edd94a4f,efe38b67-710a-43ad-a815-8bfa974fb138,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+4278c21b-f47b-4b98-baaf-82a5c0e5c2a8,2020-02-24,2020-02-24,a329edae-85e2-461c-bc2c-39d9a1059976,1ef8761c-1829-484d-ad06-5209fa00a30e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a201831e-b030-4868-bec4-ee651bf72928,2007-01-06,,56e1b82e-0907-4ee6-8bc5-f7223c0606d8,217b7668-124a-47a6-80f1-1ba5d292f89e,384758001,Self-care interventions (procedure),,
+8510029d-b570-4d95-81c3-c262f5051358,1980-03-16,,ed0faf88-64ba-4a58-b92f-13c48beed74f,958fa3b9-ac05-4141-9ce2-523d85b2887a,384758001,Self-care interventions (procedure),,
+a33c6750-7882-46b0-954a-b472c181bebf,2020-03-04,2020-03-04,6aec5f5b-e52d-401b-b6b7-4717a33c7803,f1c21a0f-db0d-4009-905a-02b457325a1c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+1536c3fd-5336-4de6-ba09-2b7cf5a25786,1949-03-30,,184884dc-7300-427b-ad7d-cb6102a5480f,89f66346-96c2-4b62-bfac-a199ca82f5bc,698360004,Diabetes self management plan,15777000.0,Prediabetes
+25b2a933-2786-4e79-9931-440cc134b5a3,1959-07-17,,57dd428a-d5c7-44e2-9ddc-994e1eb4c058,aa8c66f2-7801-459a-b33c-014189faa9c3,698360004,Diabetes self management plan,44054006.0,Diabetes
+13fecef2-da26-45d9-967b-e5111d5ade58,1979-03-20,,1c070aee-b945-4436-9fdf-00a584dd8252,54f0c468-e089-4275-9aec-38e8b00cd2e3,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c4d91223-0057-4405-a5dd-4d64538d7950,2019-05-10,2019-06-14,665d8ce3-6d13-4611-bd66-b07c3165c969,b50abf67-e0be-46e8-9da8-65adbf12e364,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+cf7625d3-2a76-4763-a067-5f4628e9924c,2006-03-28,,cdade986-61ba-4f65-8b65-10df50c82ea8,a69fbf65-698d-4261-97c9-c35a63d61be5,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+8bf9d852-00be-4930-9974-b64f343709b4,1972-07-02,1972-12-04,882cfe13-b0e2-48c1-8751-165b620cf73f,a7f71620-c264-429e-9fe5-e6fbb6f730a6,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+0456c033-753c-4983-be36-8b7b98259a9e,2000-12-27,,20960245-0cbb-484c-9be4-581a00278650,b9e70828-2399-41f9-a31d-849d67839efb,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+06912961-6efd-4039-8269-a5d0b111f438,2019-04-08,,367a36ad-8cce-4bb6-9bbe-8f196893b118,0f34f88f-c957-4819-9a30-d086f83a5549,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e6cf30bd-944a-4b88-a725-c136d143b759,1968-03-27,,ddf1c1ad-cec2-47b3-89ec-ae6ffc4ad0a0,f09a116f-18db-40dd-9803-cd1f381dee70,384758001,Self-care interventions (procedure),,
+40593e34-10c2-4587-9674-3bf9476614f8,1966-07-24,,6b5a4663-fec1-4159-9d2e-bb66b732a0df,fe401c6e-3731-4c09-8688-95d7cf2f133c,735984001,Heart failure self management plan,88805009.0,Chronic congestive heart failure (disorder)
+8c666bcc-ad6b-4d87-90d8-e08fcf646328,2018-03-14,,ff0cac9f-1df0-4e47-96b7-cdacd56fcf9a,4dec159c-b1f6-4419-aa3a-1405c259717c,386257007,Demential management,26929004.0,Alzheimer's disease (disorder)
+bd0c9453-459c-415a-b9b4-b0b1dbd6122f,2003-03-17,,c9eee6a3-ad03-4a77-a2c5-945071ba6921,cbef080e-f47b-47b2-b613-b4f7fe6e1263,698360004,Diabetes self management plan,15777000.0,Prediabetes
+c099d81e-f787-4cee-a99a-2f90cb018d0e,1960-10-13,,a4d7e581-bd28-47d1-ae95-1f401ee84c26,b46dbc9e-9b53-4dae-bc33-85ad7d5dc98a,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+edfc87a1-b365-4955-8c0b-611ab1518911,2020-03-08,2020-03-08,626fac82-b5fb-44ac-80ef-9dc90a52f024,e07226fc-a927-46c7-acb8-122269c908be,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+851f319b-edfd-4127-988c-ba7d00bc260a,2003-01-27,,5238f2e0-6522-4d05-9915-63c8acd11680,75dcf2f8-b2b9-4973-a53a-a254dd93fc0d,698360004,Diabetes self management plan,15777000.0,Prediabetes
+ad617e03-55ba-4a2b-b4da-b53d7075a7a1,2010-08-06,,257ec05a-d525-4781-a582-5fc1a6766405,6c3d0b1b-bdf9-4288-a743-acbc221a3d61,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+08e7134a-8a1a-47c1-84d6-de867b360944,1982-03-14,,0fb4fc6d-fd27-4ad4-bb04-3d5c22e81491,1094363d-7bab-45d6-9942-4e33484378b6,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+b12d9bd4-06c3-4718-acb9-9f87546c0809,2020-02-24,2020-02-24,7aba4278-4108-4540-9456-473dad0256f7,e8f047d5-83a9-4a84-b38c-041c0cbe90be,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f3894593-92a8-40cb-8554-0d5e0bbbafe9,2020-02-23,2020-02-23,b67af7e7-8734-43fa-bdd3-13acfc3612d9,9a47d9ac-cfc5-4cf5-9c66-ea3932e6b500,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+6e24cf1d-da61-4335-8166-d2e7dc56cf0a,2018-07-16,,f1fb0f58-329d-43a3-9915-a8482d5fbfc2,c0c1a668-0305-400a-b0e4-602301832dc9,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+73861b84-8742-4b3f-ac8d-90e88417fdd9,1959-10-12,,e9278893-71d9-4e7f-99e1-4deda01645cc,df479080-857a-486f-a2cb-f07f6da1b7ea,384758001,Self-care interventions (procedure),,
+405b30f7-0d63-4b96-bbb3-570c452cb7a7,2020-02-27,2020-02-27,972c05cf-65ca-4a82-8c75-553106e47f2b,c5b6f7f2-1a8c-4092-9963-9d0a517ef814,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+b79e8dba-c8c5-4874-b0dc-bd735f4d7942,2020-03-09,2020-03-09,a5c3ad1b-2d99-492b-8610-e8a74834b766,f3630dcc-bed4-4065-94db-99dae5e7c5e9,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d30ae8e6-acfb-4170-afd0-28babd4b1e96,2020-03-07,2020-03-07,6e0515b4-f821-45a3-ba0a-749adda92964,991738ae-6777-4848-ba59-849df27f7bbc,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+2deb29bd-0b13-47e1-9362-0db337ec96a0,2001-09-10,,9ea8f7b1-5028-48b6-bf30-74146c462990,1868e402-2d51-4953-8b52-eeb8217b878a,384758001,Self-care interventions (procedure),,
+ed140675-fce0-463d-bd87-d18c6a644988,2017-07-18,,7a634040-04b3-4530-be16-ab033394ebd3,5f21e454-19cd-4b62-8cd8-392eec5aab94,699728000,Asthma self management,233678006.0,Childhood asthma
+957f03b5-bfab-4bc6-a2b9-c74397a8686b,2020-03-11,2020-03-11,c9de633c-8ada-411d-95b1-509849ffc824,bc1f3320-f8c4-45e9-aa37-38c948b4f3b8,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+90385bcb-1db2-404d-818c-74d2bdbfafcd,1958-06-16,,d67a80d3-95f4-4676-aad9-365bdb61ae57,e72c0768-7b7b-45fd-9fff-60c3b35b4279,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+8faad3aa-5ffc-4413-b1b2-3615e191af91,1991-04-25,,525eb6eb-544f-455d-8659-713f53063da9,7c952b68-caca-45bd-ac98-2e17ae86d89b,384758001,Self-care interventions (procedure),,
+48875dee-aa15-4823-8d08-e5ef55cfd542,2000-11-05,2001-01-11,763ff6e6-229d-4837-800c-acc7c0b7a541,b986d2fa-d430-4a92-8685-e175cca95598,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+649120f0-bfb9-424b-b17f-bcbb43ba2b09,2001-11-06,2002-06-30,6d332da4-89cc-45ee-9b06-a82a40961046,42670b18-712e-4a18-8298-1be5c00e4280,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+c7a73559-b8ae-4d3d-8fe6-4843b28d5716,2015-10-09,,17fbb39e-b264-49d3-b0ff-7cf9ad88d1bb,6fab23f4-1c4c-40cc-87c3-950bbc2fae3c,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+250e17af-97ab-4c49-82f4-af2c919d1d9a,2008-08-14,,6f16ca03-17e4-4d2c-97fa-60a8def42f89,b5db95ed-892c-4b05-b21b-745689ea9d88,698360004,Diabetes self management plan,15777000.0,Prediabetes
+2d8384f5-fef7-4302-8e92-c9468914590e,2012-05-22,,1a1bf83f-ac11-44c1-8035-237d30b63e4e,02a5ffbf-2d7e-4a8e-a5ab-3e3430bad6c6,698360004,Diabetes self management plan,15777000.0,Prediabetes
+f4294327-d5a2-4147-990b-4b9b41ca8a98,1995-08-23,,e917322d-cbe5-473a-984d-7cb8023a23a6,bc19de8e-0465-4dfa-a2ca-4a3f61720f77,698360004,Diabetes self management plan,15777000.0,Prediabetes
+86aefad4-bcba-4e91-ab97-341847c695ef,1981-03-31,,9f906378-909d-4661-8fd1-87a089ab6619,2b5894f0-ec47-46b6-8323-7b88ce95e4e4,384758001,Self-care interventions (procedure),,
+3d41df74-c2a2-4cf2-8bea-fb1f529f3457,1961-12-10,,f758b411-dc96-4966-82dd-0615b8d9d020,4086a853-2cd8-4ec5-bcd3-62e3197d2073,698360004,Diabetes self management plan,15777000.0,Prediabetes
+4dd0753b-8f30-4d61-8162-80855912a847,1985-05-15,1986-02-11,51a5f63e-d4a2-47b9-b5c4-b308c60a4aed,13da53a4-deb6-4f07-afbd-3826d552e5c0,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+620ca252-bbf7-4bcd-8691-cba0d80a01eb,1975-08-06,,8cf1a3a7-6ee7-4675-9b03-e1a8e2ec2902,2904fd2d-9c30-44ad-9f54-68906b9f9157,384758001,Self-care interventions (procedure),,
+dd0141e0-0538-4872-aedd-4e786d6a7ae2,2020-03-06,2020-03-20,b6f280d7-d911-4735-b94d-e6cdc682a9fc,2894d14b-5ae8-4f09-b260-ec9ea2c49c7e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a0b0b762-50ef-4a21-bb88-44e2969bf316,1998-06-06,,3c5e23f0-ed4c-4199-bfd7-65fc7c43af57,3ecbf373-b19f-426c-9fc5-cdff108227f8,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c51ff624-4dbf-4078-af50-cdd4d3d1ddb9,2017-06-16,,f4f3255c-187f-4be9-a5c0-d3ceef3d22cf,0f5ff2ac-1e80-4171-b1bf-380f72bf5167,698360004,Diabetes self management plan,44054006.0,Diabetes
+7a5b9c12-133a-4b06-ab04-a21a97b8a8e7,1959-07-17,,41baa008-c202-4a6a-8607-861b3a914e94,daf231cb-1241-4443-82c9-f7021510f5af,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e8132c09-d444-4772-b2fc-fcf25210f7a6,1993-04-17,,9f50c2e0-7be9-4627-904f-75adf17ace08,732884c6-928c-4764-878b-8ebc87b2a6b1,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+805745ed-c3f3-47cb-ad82-792ea64d98da,2009-05-21,,e63700a5-5234-484e-8069-6870322199ce,5f8bb3c7-5c9c-4111-9074-d106d8d51a2b,698360004,Diabetes self management plan,15777000.0,Prediabetes
+078e7286-e8b4-4441-b5a4-5e16d3491732,1993-05-25,,77613ec8-fd61-44e0-bfea-c8428ea0c742,c6912023-d968-4dc7-ae47-e7b598b01489,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+cbfe238a-c851-4500-aac5-7e8b19147d78,1992-04-04,,ebc9fd6f-6a89-4db5-9748-935876cfe7ed,2fe57f34-9619-4bd7-9097-09a102d938af,384758001,Self-care interventions (procedure),,
+ca2cbb0f-85c6-49f8-aba9-2d5994a93132,1957-04-17,,e4103192-d04b-4d39-b90d-c2f93e9b1f49,2a11ee0c-1a3b-40d5-8840-43b88fa71d39,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c45bdfee-32ff-43cc-a395-04d7f75c7a08,2020-03-10,2020-03-10,e8c285e9-4c9e-4443-80f2-9d64f9b95276,5943a4c5-1902-4494-96e1-16c6b0e45c46,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+7dbdc72d-dd9c-4063-8521-57bac8de1585,1964-01-10,1964-02-09,7693e0af-d029-4c1b-816e-9965e6fc1717,5efff29c-9246-4d1b-9854-3383cf126ff6,385691007,Fracture care,33737001.0,Fracture of rib
+450f03f5-dca1-4d1d-9a34-2797c8a6d70f,2018-10-28,,f7826a23-a526-4e7a-bdf0-075c387fc91d,34af022b-a003-41a3-9f82-27e029e9518d,384758001,Self-care interventions (procedure),,
+838d120f-3603-4703-836a-2509dd3a865a,2014-06-17,,387f4ba1-e2f5-46fd-b856-5d4047f1f8a6,ce7ef925-9d76-4ae9-bdb2-d0d2e93c0e41,384758001,Self-care interventions (procedure),,
+4f48bc3c-71cb-42da-b845-9831ebe0a611,2020-03-04,2020-03-04,fa8f4500-0be2-4c07-9988-ba16fcb472f4,f83280a0-eab8-46d1-85c0-b661a511d666,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ccfd293e-461f-48ee-bd43-7ff1ca4c6c87,2020-02-19,2020-02-26,284cd049-10ab-4309-948b-115fd410cb47,c31c3ee5-0ad1-4d65-b84e-b500c72d3aec,869761000000107,Urinary tract infection care,301011002.0,Escherichia coli urinary tract infection
+dfa10dce-1c86-4349-b2f3-d035588338cf,2020-02-27,2020-02-27,d730b248-3857-4569-acf1-4aa163a6888f,f0b4855c-37f0-4f33-a970-4df5fbb70a33,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+aaace0d6-22ed-4604-89d1-62c36d6cdf6b,1967-05-03,,3bc2d92c-4b36-47fb-8790-c6b3f52cc575,bacab9ff-313c-4591-a4c9-8fc03b914bcc,698360004,Diabetes self management plan,15777000.0,Prediabetes
+fba7aa8d-c2f7-4558-9f9e-e8a8c6b6f076,2016-10-03,,64b78dfb-3d96-4988-b59f-a61c8eea2e0c,c333cec8-749a-4789-baee-b74389729f50,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+a05d961a-01ad-4494-8847-6905ed736e85,2020-03-06,2020-03-06,d60f6a3b-d476-4688-b6d6-99c54d1deed6,a3fb457c-7c72-422b-9a6f-66847125b465,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+15ef740f-f93d-45ca-a38b-a6bfd6153120,1973-06-21,,d0d7f4d0-7e78-4154-b2e5-985a48efbada,162798ee-0334-4655-bb4e-3b0302d607bf,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+10747cbd-e95e-4880-bcd1-c7ea46df6be4,2020-03-07,2020-03-07,5100b6d5-0d13-4dcc-ba8d-9209b1bcde41,f81f2a45-3843-405e-93c6-8598692f643d,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+0948124c-0409-488e-9a5f-d334cbac7b47,2020-03-11,2020-03-11,9adb2a57-f121-4ee7-bfc1-03a85ba9ba4b,3631a886-002a-4226-82d3-ed75b48abaf9,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+7c688c49-b67a-4d5a-b5d9-b284738fd0ec,1997-06-21,,05200c56-565c-41d0-ab36-cc0b72ca8763,72ab4982-6a95-42e5-b2d5-d608f88e52d8,698360004,Diabetes self management plan,15777000.0,Prediabetes
+b8a8c198-21d0-477d-9add-2a9f3225de52,2014-07-09,,00b36d84-a502-48b0-9c84-bb674f53cf92,b05aed1e-e118-40a6-9b97-3e6710dcb362,698360004,Diabetes self management plan,15777000.0,Prediabetes
+1aa17a56-fac7-4ff8-ba55-8f2177a3dfb2,2010-01-16,,015b638b-1dc5-47e7-bb6a-2f7727337e2d,8b8930d3-6c3a-4b18-bd96-d79418c35a8a,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+aa459645-bfab-4c7c-8ad2-b69c3614137f,1989-10-11,,42aa34d7-2ef2-4abf-91d5-5604ad3ffbd4,67a2ca61-63cb-4fc8-b5a6-755d8d629847,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+199ea680-167f-4695-81a6-5451b8e84961,2020-03-09,2020-03-10,11b5a482-ee72-447f-8809-005d7b03cb4a,b8afa50d-ec55-40f9-8a9d-4aa13724da48,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+343b71eb-3b94-47a1-8697-f591e08fda1e,1992-01-04,,9ea5fa04-39dd-4321-a330-b4e53511c5a3,cff9cf16-1e8d-4034-952f-aef0983abcbd,698360004,Diabetes self management plan,15777000.0,Prediabetes
+d756706b-c355-4969-9c2b-8d650ef1300c,1972-03-14,,1344b13c-6149-40ea-af26-2a6f5f7229df,ebbfd314-880d-454c-bfa0-40627ce24a01,698360004,Diabetes self management plan,15777000.0,Prediabetes
+d3bce4b4-f452-4f70-bbd0-36362c9d9ea2,2020-02-29,2020-02-29,b002c86e-d43c-416c-93a2-a283077a8aeb,4c7a4efc-0dad-4bb4-807d-c1497c462aad,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a96350ba-f3da-44c6-a9a7-0ce991685ddc,1998-06-28,,e997968a-cf62-4b05-bfcd-422ee86a093d,adc39bc3-d533-4e46-9255-b063b9147c34,698360004,Diabetes self management plan,15777000.0,Prediabetes
+51816933-6c26-4336-9b60-32dd563ea1b8,1987-03-18,,69b2c5b4-ec5d-4467-a32b-a99d39852bce,dec5a98c-95f6-435c-83f5-fac1d7d396c8,734163000,Care Plan,449868002.0,Smokes tobacco daily
+fdfc7cf9-9c7d-4841-ba32-3c1334d60f74,1960-06-23,,5fd0a827-5736-4559-bd98-a077bca76235,30766cd6-d99b-4969-83f7-32e60748dcb7,699728000,Asthma self management,233678006.0,Childhood asthma
+9d4db5d8-a78a-436b-83f2-ca2604e1d3bc,2020-03-11,2020-03-11,55ee8915-775c-41b0-96a9-59618a4ea0a6,f6c4b900-789b-4720-960c-0c3f53dce5a3,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+7f1898e5-82e4-45a4-897b-2085c548af04,2020-03-02,2020-03-02,288ccf63-e4ff-428b-9702-261dc29eb5aa,e4dbff16-0df1-4084-942f-6a6726e560c3,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+520bc5a2-729f-4571-ba9a-9952f455348c,1957-12-01,,a1e05955-b51f-46a4-abed-793428c50840,e8d93d43-1473-483b-a593-3c19655c4b0f,698360004,Diabetes self management plan,15777000.0,Prediabetes
+1aef4f03-3e7b-4af2-a166-45bac6ce83ae,1980-08-05,,ab51d9cb-6f34-4a2e-b08d-a05f9c140178,6d484c9e-065e-4084-9a27-032d2b70699c,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d1f02306-f617-4c48-8d49-cba56bb774af,2019-10-04,,7ee77224-df05-4628-a39c-ebb0e73e035e,01a670e9-8d5c-4b11-a431-a30efef3d02a,698360004,Diabetes self management plan,15777000.0,Prediabetes
+6dc8d6fe-f28d-4756-a3b7-9718cc7c4dad,2002-06-15,,2ea23d31-4f79-4379-8f41-891aacb170c9,c6ae87e6-13c5-4be9-a3f9-4075ad01868b,384758001,Self-care interventions (procedure),,
+f8d56f36-784d-46de-8ad2-d68d2c95e244,1988-07-14,,2a48f8d4-55bd-4e98-a5e9-f17978108570,6eecb59d-c377-4efc-ba1d-ddabb762b18f,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c22d6903-cd08-40c4-a951-bab3d1f2f68f,1999-01-09,1999-08-14,8d6e72a6-07c8-41b1-9bef-a82c8d533c05,7ceaa4d9-5071-4896-855b-4f2f38b730ec,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+5c7dc585-01db-456e-8216-58cdaf0dcf45,2020-03-02,2020-03-02,96b2a95f-4c60-454a-aa6e-8b86d066f404,7e33d0b8-adaa-4d53-94c5-a78cf8c693ce,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+bf0d3438-3d8c-4fe9-bde0-1843da2103a2,2012-08-08,,0296d5c1-6571-44be-88db-9aa235181a73,48f92ce2-30cc-4d49-b09f-310ca1a88714,698360004,Diabetes self management plan,15777000.0,Prediabetes
+5f15ae79-c9c6-4b14-bd5a-c21834b21c0c,2017-09-07,,6b68c376-4e99-4e83-85bc-878f1b4621b3,7d197618-2782-4e3b-bded-0c7698b09860,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+99bcaa51-bb6f-44a0-a7d1-7f5017a51656,2020-03-01,2020-03-01,fe57f2b7-831c-434d-a55a-10eab54571e4,16ad2dc1-149e-4ab9-a6fb-e78d5f66b24f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+7c7f9fb7-18e2-45df-9b24-c02487f16e47,1981-06-12,1982-01-15,9220ef85-cbee-4b02-85ec-92b58ea4d8e5,e41a5c78-e2ab-47ca-adbf-c4aec5ee2369,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+6bd44195-6031-4cb6-a201-da5a8a9c7cc9,2020-03-10,2020-03-10,fd5a27d9-226b-466d-b5cf-c7ba11e4cded,98b8cd41-ca3d-4f57-ace6-65a657d7821e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f46462ae-9f5c-441a-9239-5e0ba597a6ba,2010-08-29,,ecf0ee0c-0d48-4605-b43c-953642983c4c,01e1e879-6ec7-41e1-a5eb-087ecc4bf424,698360004,Diabetes self management plan,44054006.0,Diabetes
+b0b11223-a560-4022-9944-8a4539142239,2018-12-23,2019-08-24,bf8c2f1f-3285-40fa-9d22-c0d879670bfb,e11a40dd-3d02-4081-a998-78223a9c57ab,711282006,Skin condition care,40275004.0,Contact dermatitis
+10cc7c27-5d00-4de1-baa5-b586886a9796,2012-01-08,2012-08-19,e8cc3cff-1e36-40f3-84c5-32cf21131f2e,20ad6c08-c4a6-4f3b-aafe-0ab458e70ed2,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+40a9380d-532f-4b77-8c78-aa7d84c016f0,2020-02-24,2020-02-24,8ee3eb25-3fcd-42b9-8a74-b8ebfb8c4ba1,dc651839-4563-4511-8b97-4da443f28f59,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+0d054a9b-c8f8-4b79-a705-f2fe21739ed4,2020-03-02,2020-03-02,407d4b8c-355c-41cf-ba9d-14152db18028,2f0fa99a-9069-4e08-847e-72935eb95291,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+bcd45783-97b0-4bad-b76b-053631ce3b05,1957-04-17,,1505bc4d-8843-425b-aaa3-0e431d9402fd,6b6ee090-2591-42ef-a176-4e61097e497a,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+a4a54ddf-20bf-4be7-b2e7-f6c8c6943857,1929-05-23,,f1ffed09-ae3e-4a7f-9ec8-9eb91f1614d5,9e70d0c6-3b38-4481-8e82-2b0634f9949a,384758001,Self-care interventions (procedure),,
+01a3d657-99d2-4526-90da-147f29a6b702,2012-04-17,,f0c68ccd-b70a-40a6-8686-152c49ba18e5,96204c69-88e4-4605-8d98-3cacdc5dcaff,698360004,Diabetes self management plan,15777000.0,Prediabetes
+ea7fec25-721a-4838-a9df-c9cfa28052fd,2020-03-04,2020-03-04,f4490518-82e2-464f-857b-865fa08547b5,8750859b-62a3-44d1-9ff7-9246faee4ec1,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+2b16da6c-0cd8-410b-9e06-741b62f34436,1934-01-14,,e57d23ca-c418-43a9-813a-e55960a61688,fd08b4ab-b637-43d6-a010-51205a6c864f,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+51dbd47b-a6df-4ddb-b03d-aa6b53ce5b66,2020-03-12,2020-03-12,f2ca44c9-c09f-47d1-b993-fce25a463c5b,3b0acbc7-6e72-4276-9c56-ead8be51de74,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f2d503fc-1478-44e1-bf38-3d54e2292f47,1976-08-25,,02665d30-0d6b-49c4-a0f3-29e31db23849,e37915b5-d82d-48f4-a720-d51ce648c704,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009.0,Chronic obstructive bronchitis (disorder)
+3a7b57cc-12a8-430c-8bf3-71cc1b391b83,1982-03-29,,db3096d6-46dc-436a-9ea3-215156b8a93b,6da618ec-f605-4e0c-b76f-de5dd264d072,384758001,Self-care interventions (procedure),,
+3a88a46c-133a-46a8-b535-1c8ee3bea5cb,2019-08-29,2019-09-26,d9f87d2c-00d6-4587-82d0-08f44bcf5f79,82371760-c900-4f08-b7c5-dfddfac6b36e,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+43c8f810-3ec9-4a48-ada6-5f495a75c0b1,2010-05-19,,db292efe-eb5b-4df6-bff3-11c036ce0097,6b8fb23b-f4a7-41fd-9fd7-172ad3d091e9,711282006,Skin condition care,24079001.0,Atopic dermatitis
+b14c0aa9-c212-4f03-9db2-80d71c68c464,1995-05-18,,483f2add-049f-4ca9-bda0-00ae8dc00e01,7dc8b96b-b671-4882-ad3e-2a174a4fbccf,698360004,Diabetes self management plan,15777000.0,Prediabetes
+d8436d03-ef9b-4dff-987f-78154ccb1cce,2020-03-07,2020-03-07,4c6c1d18-8358-437d-ba5f-2d252303eb1f,25a44877-89c7-42e8-a064-c4287386f6d9,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+cb2ed794-f435-4711-921f-e5696e6a877d,2012-12-11,,0eb4efa8-0fa4-4db0-beda-d02bcf3a3b7e,6e105134-c6de-4e69-b250-d0557261ed20,698360004,Diabetes self management plan,15777000.0,Prediabetes
+3ee2b385-163b-49e3-a288-79b7f507e63d,2009-01-07,,2ee80c69-bff0-4911-8f4e-a7c4b6c20377,b972bf57-ac4c-492a-93c5-7fbc36a11ea6,698360004,Diabetes self management plan,15777000.0,Prediabetes
+ae7bc613-c84d-4735-a3e4-a7027c59e3b6,2007-01-15,,b8e05589-271a-4fde-92e7-3314b2e69545,b7ec0ce6-aa7a-4b8a-ab30-3271765643e6,734163000,Care plan (record artifact),55680006.0,Drug overdose
+a305c436-5888-4044-b60d-ac2834b47d54,2002-12-06,,7dee6214-9c04-4eab-aac8-9eb1a499bb16,013b22b4-4866-4ba1-a0f3-a150db6f63ab,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+329ead13-3a19-4e99-a38e-c3c27ac2ba54,2003-03-10,,8c36e9f2-b137-4a2c-aa42-91500ffbcac1,49ace4f3-c020-45cf-931a-20e12eb2c205,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+2397a665-fa05-4951-a53c-a6510f8e5c4a,1952-08-12,1952-09-02,67879005-1794-444b-89f4-8750ee3fc798,653fbed2-c3ee-4602-adca-64a850602bdc,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+f5677bb2-c63d-489a-b362-190878109025,2020-01-06,,0130ea9e-6750-4371-8cd4-ac0359c6b355,c23fc46d-578d-4924-b805-6a96e28f5b42,408869004,Musculoskeletal care,201834006.0,Localized  primary osteoarthritis of the hand
+fd94756c-3cc8-4c3c-8d91-43117d88af2e,1992-05-13,,1187f2ea-1aca-42c4-9f45-5282a0624b38,4c5c5e21-e043-4122-928d-ed46974dba06,735984001,Heart failure self management plan,88805009.0,Chronic congestive heart failure (disorder)
+96540768-e989-41a7-bb91-9cde2fe10808,2020-03-08,2020-03-08,d8fa1c49-2c81-4605-994a-cee491f48802,3c485c76-f0bc-42b5-9a58-386005a1938c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+4ba52bd2-1c2a-45b7-87ad-9b2b7d1674bc,2018-03-16,,21e9c3a3-95f9-49ab-a075-368f069b86db,d6af8bf9-9e9a-46ae-a140-4330e88126bf,698360004,Diabetes self management plan,44054006.0,Diabetes
+4cc47d72-6b91-42c4-a399-ecfe47827d7c,1973-10-19,,6acd7836-ab48-4e3b-ad40-c240a85d1853,af86e09a-be5e-40da-bd86-0a687a81531b,698360004,Diabetes self management plan,15777000.0,Prediabetes
+db306dfd-3aa3-4015-ae94-1c18beaf5363,2020-02-29,2020-02-29,40475c40-3711-4f67-b80b-ea1571e781e5,074f4372-90c0-4a44-825e-54fb7362a44f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c8e32372-3a3c-431f-84ba-5067826a8a69,2020-02-28,2020-02-28,af18e410-0124-4d97-a0ba-cb85a87a1b83,0fdb4b60-efc8-4ad6-ae34-cbc1ed16f03e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+8ced4dad-ed86-4f46-aa0f-c500f92224ac,1934-01-14,,81fdb203-d817-4695-a13c-9d90a86d4527,fb6fa38a-9118-41df-8640-485874e7c4d3,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+668371cc-1d6f-4d87-9a68-d3b31ed01076,1969-06-25,,3cc06e5e-cc89-4287-ae27-5e0e00213057,7013ed09-48c7-4cf1-a753-134ffdf480af,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+44c9c865-33bf-4581-8749-32cfa8ea5d6c,2019-12-29,,10f4bb7f-fbce-4a1b-a7be-c82407bafe2b,8c9756d9-eb74-43c9-bbac-2c622102a9bd,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+aa60754e-a182-47db-b456-93127c4534fc,1930-03-15,,d29f7a14-29c2-4ef1-9daf-3b871a2affc2,4edefc61-45b2-4e6e-b9e8-69d70d407667,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+42bd0b34-2083-49cd-9140-06e6925080e9,2012-08-28,,5453de4e-cd2d-43e1-89ce-a37ec7379cf1,0357ab0b-8f6d-4d8a-b3fd-0593379ad038,734163000,Care plan (record artifact),55680006.0,Drug overdose
+1678e94b-fa72-4247-84f0-cb5704653bea,1996-12-28,,5a52534b-1eab-4dcf-ab54-987cd6e34ef7,83647d02-5b16-42a6-8deb-4723aa6efa13,384758001,Self-care interventions (procedure),,
+82a4d599-661e-42ff-875d-b9c44bd427a9,2020-03-07,2020-03-07,a64c4079-bc8e-42aa-a782-aaf1b834a946,8ccfd1e6-e757-4236-bb4c-aed0c33318f7,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+c2f8f0ce-dd0f-4442-a9be-da7e35a23894,2000-09-11,,89c17c88-58ea-495e-b81b-0eaa36d258e0,c0b272ca-82bf-42cf-9e1e-02f82d7b88e0,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+85f72caf-a995-433e-827d-218e76fcb621,2020-03-15,2020-03-15,aeb8807a-edd2-4e5a-aff9-9699acb44623,478db8e4-6e30-4d56-858c-3c96172c6469,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+9e1ef23c-0804-4572-bb46-071121b589c6,2010-02-20,,4fa209c0-a594-4bea-a8db-945264709d4e,fdfba967-eaea-4303-95e6-02699c467c5e,384758001,Self-care interventions (procedure),,
+e4716093-3616-4ff6-ba0f-4642410bb948,1932-05-23,,84fb9b31-807a-4e5c-a62b-b0435e0513a3,f476142c-8f37-4939-931b-d5b226b071f8,384758001,Self-care interventions (procedure),,
+1b480c34-6ee1-4e89-b353-639778d45a06,2010-05-14,,d0e419b2-7df7-410f-ba06-4ea4820dab87,a5030b13-9119-4259-8026-72391547a380,698360004,Diabetes self management plan,15777000.0,Prediabetes
+14e722a2-d6a0-4fe5-82db-010a3219b6f0,1993-03-21,,4a9b4367-094c-4828-ada1-fcbb9744cf62,d435f4c4-2966-4450-8b50-47bec8b2dbc3,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e06eae8a-3592-4bba-81aa-3f50b7759293,2020-03-09,2020-03-09,5d766c8b-b2d5-4fda-a3cf-d59e261b2bd2,9a3538d2-e52d-49df-b29d-cdf0ad07a403,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+9a5f41eb-ff13-4cac-8335-75c72da7b700,2019-09-29,,f6835eca-8435-47d5-bea6-7ad14d02e565,4bfbccf4-265b-42c3-bb57-bc2cdc5872e8,711282006,Skin condition care,24079001.0,Atopic dermatitis
+04ac40cc-78ff-45f4-81cb-9a5c3c3945a6,2020-02-27,2020-02-27,76003eda-9371-4226-a1da-b71b3f9cdca2,28261fa7-d3c6-48fa-a88a-46bbc1a11725,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ff501a30-db5e-4d2a-a40b-4612c3c30e1f,2019-10-27,2020-01-25,03751d56-478d-4548-877a-4653074cbf50,dd86a577-b52f-48fe-ab4c-e4e95ee436d3,385691007,Fracture care,16114001.0,Fracture of ankle
+22cccfee-d5ce-4901-a22e-d3d8213a6ccc,2003-09-11,,bc634b7c-acb3-4cce-b5a9-090c5f36fd16,e622d660-31c0-440c-9cfd-c41f9346ecaa,384758001,Self-care interventions (procedure),,
+9744c27c-bf24-4626-9e72-edd4f3c06c4b,2008-02-05,,17df88bc-25da-4450-b30f-14b65f167ec7,7332d5d3-32ea-4fa4-b7ae-eed49425e266,384758001,Self-care interventions (procedure),,
+1a1772dd-a039-450e-b870-155c8c9c32c8,1991-07-08,1991-08-12,73580d98-24ec-4ff0-8bfe-ae9835f9e49e,1324c8a1-000e-4f25-903d-e94c90ab0cb8,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+d877c931-8054-4371-a8a0-d850ae633892,2019-09-28,2019-12-11,e04436f9-a257-4159-acae-3cc4c300205d,81d35a85-d01a-41c1-b115-1849414bb322,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+69484d07-8b94-44a8-90bd-c76bac17abe2,1961-12-31,,f821049c-7ecd-45f1-ad29-019495285913,7bcbbe1a-411b-4240-ab12-143022eb5336,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+b8b19721-e419-4ed7-a421-8338237a17a9,1969-03-22,,9cb56eb3-5fcd-45a0-a47f-9c7b66f5f9bc,e14d5c56-69aa-4156-9a3a-1e8eea3de4ac,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+b2f1682c-b5cf-4a12-9e04-9f03fc25a5f4,1940-01-02,,bd7d51c9-db14-4570-85bd-56748c9ddc08,31f2f7ff-9442-45ce-8604-23f8dd218eb8,699728000,Asthma self management,233678006.0,Childhood asthma
+315b3283-624a-4a6f-84fb-8a03082e6f3d,1935-01-29,1935-04-03,10eea8a3-3e8d-4172-acab-072b75512c0e,3bd34159-9d57-4c95-9f43-e0d1a1f20567,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+6ee5f8fe-aebd-4df2-ba9a-341b6283d09f,2020-03-04,2020-03-24,55c255a9-43e1-4cde-a58e-825f1750a8ab,7f61d634-ef68-4bc3-9423-ed5421c8db87,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+fa43bb7e-fc88-4266-91e0-3eaad8b0fb76,2020-02-10,2020-02-10,3026491a-9fa4-4f85-8857-cd77dbade801,c04a93ec-8390-4a3c-8c51-74abbbccd042,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+905c8820-ed9c-4741-8b4f-db0bba6aaea5,1990-06-07,,4b8eaa78-1618-46d0-9c9d-7b19e2c338a1,383f1219-3294-4346-aed7-405ec1cead7e,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c03e5996-4e0e-4aeb-a302-97889a09f770,2020-03-09,2020-03-09,d06dfa9b-21ce-452d-b00c-f1edfc153ccf,dd8c8e9b-5319-4456-9c67-7f8c36d08690,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+da7e086a-ea55-4070-a2d6-0230cf6ca47d,2020-03-04,2020-03-04,c961f113-a9c3-4784-92ef-312602eda591,b708bab7-6c5b-4e82-b710-c76e4751a49d,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+84cb6c77-a16e-47e1-81ed-d7a5bdf06389,2020-02-15,2020-02-15,da1e7f78-9249-4be6-b837-ac125bd6664e,4ceafce6-f946-4b8e-87b9-64c790594e3d,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+cd412575-6e71-4f2d-83f8-9d3e1416bce2,2020-03-09,2020-03-09,cd5d594c-3be6-4d06-8e06-03c4ec1e7e2c,b89ca01d-f734-4704-8cb0-d87d5526a409,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+46564070-eab3-4df6-8c82-bfbb829d92f7,1982-01-03,,ec866e5a-deab-45d2-bca5-ba080a5566b3,eaeec691-bb22-44f0-a393-b6992b0466db,698360004,Diabetes self management plan,44054006.0,Diabetes
+f53b61df-d4e6-4929-964f-0c2a4b168734,2004-01-29,,6b82a873-796f-45fe-b8fc-47fa3a1a0677,01eff861-2311-46d8-8f8b-b9eed967930d,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+12a4fd1f-ccf7-41db-b367-aaf098a2a650,1953-05-30,,70e98119-cebc-4bcc-ac83-bd7e38bbe58d,2feb5174-6de5-4c36-8a56-17772797b53a,698360004,Diabetes self management plan,15777000.0,Prediabetes
+9bc80c1d-3c40-446e-8764-84641992d6a5,1955-06-29,,cac4619a-167b-4ec9-87fa-77d96ae2752b,722bcbf5-de0f-40ae-a577-31b966c2a2fc,734163000,Care Plan,,
+9e5b32dc-5b52-4d28-9510-ee75b6b4b6a0,1952-08-28,,840d7844-d2cc-47c2-823c-900fc117daf7,eb5e1006-c170-4862-9be9-f6cc22ad10d7,384758001,Self-care interventions (procedure),,
+980bf449-a7dc-408a-af3d-10a3ef692221,2020-02-25,2020-02-25,f947fae1-c3d5-4b29-bd71-2692c8d4dccd,447cdbe1-0db1-4c3b-8ffc-8fc76ef1cc98,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f406ad38-1a76-48ad-9e3e-0fbed471e6ff,2002-03-03,,3356aa2b-d001-4b16-ac8d-64da4e93d46a,d85ed39d-657e-40e3-985b-5bf99b8ffb1b,735984001,Heart failure self management plan,88805009.0,Chronic congestive heart failure (disorder)
+51608390-6a22-4bb9-8fbe-c2229b5e7696,2001-06-18,,67e115bf-1fd3-4cde-ac00-2eb30c21fb08,1e6ba3fc-2191-4f28-a311-96df9fa09703,384758001,Self-care interventions (procedure),,
+1a892f6b-11d2-4cc2-9adc-a9af0f7543d3,2018-04-04,,37daee4e-e0c4-4181-8124-b0fb8678c6d9,314970b3-94cc-4c7f-9d20-fc2213191f64,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+9c256bdc-fc99-4b03-8311-6ece9624fdd7,1950-01-19,,ef6a51c3-5dbc-4f95-a86a-351a0edb7aa2,7e4920fa-1d3b-4d49-baf1-bd69f79e65a5,384758001,Self-care interventions (procedure),,
+c4387b88-bc4c-4b9e-a0a1-bdeae1bf46fc,1956-12-05,,46815a2d-74c3-4546-b72a-cd5df8dedc07,2d0255b9-356f-4b6a-b8ef-64a69ee137f8,736254008,Psychiatry care plan,47505003.0,Posttraumatic stress disorder
+398a6950-1971-4d24-9f9e-deae905307f5,2001-01-31,,14653f94-37f9-42ae-9735-6e5e7a1b4378,37d1eb83-2b42-46ac-8d36-ac3206e7ef92,384758001,Self-care interventions (procedure),,
+5f8b5f46-c722-4b78-992a-8fdd3f2ebef5,1917-02-13,,0100f99a-1b5d-4a5b-a73f-559a920412e5,1d7fefc3-ad50-48cc-8473-dedc54f823c2,384758001,Self-care interventions (procedure),,
+81aee02e-b28f-4978-b69a-93942bbf75d2,1990-08-11,,d805499a-07d1-4a3c-9673-8fbc49995d9f,c0240e82-61bc-4445-b88a-9593060a5553,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+828212f8-783e-4d3b-bc18-bce4423e0409,2020-03-11,2020-03-11,f4fa3cc3-6325-436f-acbe-e34196d9169f,5a980b74-52f4-41cd-953d-5284915cb573,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+04d07f5e-bffe-4d1e-bf72-fbd7e372da05,2019-04-01,2019-09-14,c0d4214c-0625-440c-a570-859c2f047f9b,65c4d6f5-dbe4-4a2a-8156-e17880151544,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+80bdb1ad-5861-4984-8c22-2a4db2e3d226,1981-07-17,,d4b977ce-8d36-4651-a593-4e403b78947f,a07fd00b-bce2-4103-b139-1e02dfbb8a89,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+59922624-4919-4fc5-ab8c-939aa0e1755d,2020-02-11,2020-02-11,7c1a32e9-7b27-4cf5-8fb0-fbcbcb5d8a7f,b5602920-a8cb-4610-8f80-2805f0585ac8,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+4f528e14-763e-49a6-b872-8cd771048257,1954-01-30,,cc3a9db1-c280-4b3f-a969-b14c15d4ad60,73ec8288-c4ff-4da8-b473-8a1e9204c07d,698360004,Diabetes self management plan,44054006.0,Diabetes
+99e33464-152d-4af8-ac14-62973fa64656,2019-10-22,,217d15e7-9b54-4304-ac8e-026dc3ed98e3,a483337d-944a-47b0-9f89-b9ca790e7d3f,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+a8fe49d6-d515-4060-a2e3-3cb8cf1374bf,2013-02-28,,a50e8b6e-117a-4cfb-a49e-9c239f2b1605,eb81a63b-ad5f-4fca-afdd-f0a78cc876c3,735984001,Heart failure self management plan,88805009.0,Chronic congestive heart failure (disorder)
+e039d821-82c7-486b-a24a-1288ff6b1654,2013-06-07,,ed7351cd-ba0f-4f97-877b-6cd548a970ba,1af7a734-1e19-41ba-9429-7d57ad091297,698360004,Diabetes self management plan,44054006.0,Diabetes
+a3dea904-a7cb-4ad6-bc5a-f1af0008a95a,1991-10-13,,92fa6d7d-0f35-408c-a42d-5f3657040ffc,9006addd-8bc9-4926-b63e-e71ab0fb67cd,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+f7486ccb-f9b3-4b3b-857a-89fcfeaaa096,1964-03-20,,cd7c139e-67d2-4c3b-a957-af58fa623e68,ef3109c5-cce2-435c-9280-7c9558ae2355,384758001,Self-care interventions (procedure),,
+d18cfd90-57ec-4f8e-9bc6-c10d56d25d65,1990-05-27,,bdd254f0-d423-4791-aa0a-1992ac7456df,e78b1433-bf1d-4706-89fe-0944b13e4eff,386257007,Demential management,26929004.0,Alzheimer's disease (disorder)
+042d8922-4a48-4b9d-847e-0980d7afb0d6,1934-01-14,,9fef05e0-13c1-42a6-954b-9c0c1f53175e,20811dcf-4600-40d0-ba25-4a64e8eb69a1,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+17438a47-a334-427c-b133-ac3aa635b424,2000-10-10,,11a0701b-c162-45f5-b1a6-e13539807156,d0b3f91e-2e35-4515-b87f-fa7b5cf72257,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+4f4e30a8-aa88-4d85-9e90-be758fc6dd72,2020-03-12,2020-03-12,4bb24b0e-b273-43f9-a0a3-4e6320e7abef,05273895-b5f9-4e71-bddb-6604cb0dd37b,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+0b6b6f4d-0dda-48fb-ac07-7170aa3f2f50,1912-09-16,,a2742f89-e7ed-40f4-a0d5-9dade39e6b33,20b86bd2-4794-46a9-b4b7-770be83c678a,384758001,Self-care interventions (procedure),,
+66502bae-25fa-4a8f-9ff3-d295a904c0e8,1948-06-16,,7a51f54b-bf90-4319-a53f-76646e791e55,f7fd9e8d-9289-4538-80a9-451bb5d778ad,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+854ad1e4-7d32-4179-bb58-9701e58106b6,2013-06-27,2014-01-30,d3af1779-5938-4c1d-9de8-f1ec1c3bf563,abd19812-6785-4b6b-8c38-068a7d9c3e3f,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+9f3407c9-ad05-48b7-a257-92c509cddf42,2004-10-27,,04bebb25-d12a-445f-bab4-41999fbdcb4f,3cd27604-d263-4a93-ae5b-698ff25fba88,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+8fa5c040-3cff-407d-9a29-698b91091ccb,2015-08-17,,183b278e-c837-4fa4-a62b-4ee213c987f0,a6519155-bb7d-4fa4-8991-4289cb3f1115,384758001,Self-care interventions (procedure),,
+9e85eb44-0b8a-4226-8fbf-af5bb38b16bb,1980-03-05,,2065c150-a1a0-421b-9f2d-fea88945a50c,17292489-71f5-452a-93f2-f52f36607a14,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+2a7d6f8a-3842-45a7-8e8e-4219b33aa32d,1957-04-02,,4a7bf669-c266-49dd-950c-8048e8f63664,15c19a84-69e3-4b0d-b84a-fe1f5f61371b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+21a59a7d-57ea-478b-a072-294c254be3e1,2020-03-05,2020-03-05,d12230cd-a4fe-4465-b8c9-9911c0f8659a,f0cf91d9-3a26-495d-b67e-0ee1b7787f03,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ed4b7a45-43a2-440e-9c32-777fa07cd5f2,2020-03-10,2020-03-10,db9a8fcf-c920-43de-97e0-404069061526,126f0d3d-1b69-4970-a092-e78a82cf6ee9,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+dc566500-a789-4b19-9637-73fd4a62966b,1950-02-05,,1cd1abdb-e20c-411b-b0b8-baa6e867677b,8dbd49b2-f3e0-4d28-a1cb-e31e2454e7d1,698360004,Diabetes self management plan,15777000.0,Prediabetes
+933499ee-3188-491c-96c2-e8849d30e4f2,1991-06-02,,c80009d9-2cd1-4a31-b1fa-2d5ac1ada48c,d2533752-885c-44a7-bd56-fc68278504d7,386257007,Demential management,26929004.0,Alzheimer's disease (disorder)
+8ef135a4-86b0-454f-8a2a-3daf4ee63387,1982-04-10,,c8323a43-17be-4fb2-9a72-153611055a4c,d9e01739-bca7-45eb-af76-758d436b56a9,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+5dcd47e8-a21c-4aa4-a6bd-d12f70b743a8,1992-06-06,1992-06-20,ef8d798e-0e18-4b6c-b7d0-3303de79e9ae,045193a5-be0f-4ad8-a853-aa926dd98ca3,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+205c768f-5ec5-47cc-893c-8341bd0dad71,1967-09-30,1967-10-21,6aa585ca-aba3-48be-bfe1-b31918031e5a,e948522e-1564-4cb5-b111-06042ce28934,408869004,Musculoskeletal care,39848009.0,Whiplash injury to neck
+38c65c72-1021-4375-a20f-808fc6d4c289,1930-03-15,,ac2a16c7-6dd3-4cbd-b99c-dbb54be6cebd,d7f2a642-8e81-4328-945c-a4f4395258ec,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+3e697f9e-ab89-4369-9e87-87a71ec6f6bb,2020-03-02,2020-03-02,82134e44-cfef-434f-98d8-3525e353bf35,5c73f70a-2c96-4986-809b-734c48339384,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f4df4230-14c8-4466-bd9c-92bb26f59873,1993-09-07,,0d6bdf1f-2ee5-4d25-80b2-b53c16755cfa,a6d2109d-369f-4f37-bce3-b924c39eeea5,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d674b7ee-16d6-4d4c-8dda-f38a0f92cbc0,1930-02-09,,fe30a3c1-d320-483e-99a7-3609ececdb48,7902cbec-8970-47f6-a607-31c4079fbc52,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+289e9b91-3047-45d3-a53c-0206ae5c43d5,1971-08-12,,1eb38334-09fb-4d2a-bddd-105bdc5b4cd3,4e171a38-3c74-47ba-ac20-8a7f570185a6,698360004,Diabetes self management plan,15777000.0,Prediabetes
+698c13ab-feb4-40c2-a0ba-c5e4eaaf8d60,2020-03-13,2020-03-25,6c29645e-9ee9-4f39-9b99-c9967fc771cc,3d0ae632-9b6c-4980-abbb-538733c6445a,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d6a05bb1-ab42-4b98-b642-a31e207c5b44,2014-12-25,,f8e09fe7-0839-4e5c-aa25-9d1587baa3b4,bce7a210-b953-477f-bd10-39a0e5be36ad,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+a9aaa543-d622-4672-b996-e7bf347c5de9,1972-05-03,,3a916591-7427-4858-871a-5a7709075e62,f737c19f-e609-4e1b-882a-e31a36fac13a,698360004,Diabetes self management plan,15777000.0,Prediabetes
+90455d7a-a1a7-47b3-a7cb-cb9f73f5578d,1957-08-21,,4d716796-0d6f-44b9-98bc-d1867eb73822,3a175a3f-67bc-46ca-82a4-4b9d5e083d0a,384758001,Self-care interventions (procedure),,
+924c20e2-13da-4eca-942a-34028a52831c,1979-08-10,,70cec43d-0785-424f-ae90-53f98ae777a2,f86ade4a-dbf6-4862-b9b1-7bad75023d5a,182964004,Terminal care,424132000.0,Non-small cell carcinoma of lung  TNM stage 1 (disorder)
+94744c57-8b9d-422e-8878-0dfe7527fdc0,1954-01-17,,6d28f2c4-8e0b-4a12-8063-e0b76de86cea,3ed269a0-c7e4-4ccd-afc5-2d0c4b04b95b,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+9f5c5880-41f6-44bc-89ac-f6a7d9c7c395,1991-02-09,,ae7d8b5c-8cb5-4590-a489-2d8b3a8be109,28f89c83-ce19-4573-a8bd-3a104538b9dd,735984001,Heart failure self management plan,88805009.0,Chronic congestive heart failure (disorder)
+eb4fa479-1836-4a12-8cf9-318b7d9d1bed,1966-09-21,,f7051f71-c67b-4812-aba1-01af380a5b05,39339597-8ca9-46de-a120-0c5ed5b9ad2b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c81c1c2e-445f-4971-8eb2-26b941940b4a,2013-01-17,,baa1558c-e5a1-4297-a994-f90b46212153,b51cc0f1-3ef9-49b2-b8da-180b7e105c23,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+dad700fd-3b8f-4e3f-8557-e813e2230240,2019-04-15,,3661568b-8b83-4042-827d-15f274e0856d,6e0549a6-9906-4f36-a4a9-05b2da2ae14a,384758001,Self-care interventions (procedure),,
+5b8449e0-f4a9-470c-9ccc-ec5f4e22b890,1970-01-01,,12816c85-99c4-4e76-a6bd-baf9ec73f971,9c2bc73f-a91d-4452-93ae-b5230d248732,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+e27453bc-d1bf-4784-9231-eabdb51708f6,1998-06-18,,074292d9-f0c8-4e9c-a912-f0a1fee1acfa,e7231f71-d286-40db-a5fc-9defcdb5fd8a,734163000,Care plan (record artifact),55680006.0,Drug overdose
+d943a2dd-0bb0-4ef3-8898-40f3017d554a,2000-05-29,,31fbdf48-e449-4404-964c-6b689e0b2eff,c28f2468-f548-44c6-a15d-5f02ea5bccaa,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+0278fb58-1528-435c-bed9-96d307881ed5,2020-03-08,2020-03-25,ee06530f-5aad-491f-b49d-5f5a6c045030,e3090a25-ee4d-4b93-bb99-21a703909db3,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ec7f1854-86aa-4a65-aa0f-afb5aa762197,1998-10-27,,b85c1fbf-78ec-4ad5-ab5c-de8ca83f6e66,b211b2b9-0534-4112-af41-728170ef672e,408869004,Musculoskeletal care,201834006.0,Localized  primary osteoarthritis of the hand
+12568bcf-13a6-4f91-bfde-22206b4e3bb8,1962-04-17,,de5f8bb6-42dd-4aee-b7fd-988d2c6340ff,e49f3bf6-9dbf-4fbb-b75a-2460a7d61a6e,384758001,Self-care interventions (procedure),,
+ce88f681-e18d-4f5a-b327-dfd91773568b,1974-05-08,,78d06517-d48c-49ef-ada2-8b5290b113dc,40c14bc9-30df-4011-a229-aa0837ddc5e1,698360004,Diabetes self management plan,15777000.0,Prediabetes
+35ec7872-cd66-4e53-baa6-556034275097,2019-10-24,,a494a8fd-4b2a-4759-8a04-41b8193c9a11,c72a167e-304d-4cbf-8934-c03524db6b94,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+2158bcd8-aac6-4874-b1d2-c53b38a5852a,1930-02-09,,972c7a80-848d-491a-9855-340ef8c6a610,79f37abd-f2ce-4d48-a9bb-06001f7dbae7,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+a17de866-85fd-4ab3-817b-13fd42026314,1994-02-28,,67dc2ab2-fa12-4167-b191-d83638fce32b,663eadb1-fbfc-48da-a054-99187ce86392,698360004,Diabetes self management plan,44054006.0,Diabetes
+3df9bf3f-df10-488c-95f6-ce55dc2fbf4b,1945-09-20,,36f28e2f-6d26-4b2f-860b-853e62383a82,ed918ae5-1cb4-4cb7-885a-cfe7a86567e0,698360004,Diabetes self management plan,15777000.0,Prediabetes
+5e0d6d28-cbc8-4227-bb4a-e37ac51da765,1968-04-11,,4c058cde-5d63-4a02-8661-75fe3224ce17,79c7363d-d08b-4e92-96ae-b20c41af7135,384758001,Self-care interventions (procedure),,
+1d11e569-ca17-42e8-ba85-bf43857a9b4b,2001-09-11,,9660b8b4-2fe0-4646-aaf3-d7081280df40,26b2b202-44d5-42e5-9070-6a9b6afa8768,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+8de04851-4efa-41e4-9670-5a2fffe4a5a5,1969-07-23,,c9cb5ebe-7ac0-4202-a045-133b43b9b6b9,110f5791-a067-4316-9a1c-a697ed0cde70,698360004,Diabetes self management plan,15777000.0,Prediabetes
+83592324-af7c-45d3-a7f3-0256f03a5591,2020-02-14,2020-02-28,810d8f25-9652-4c6f-ad78-5b3926a40164,2a7557a3-3e54-456b-a13f-07c7a8e7f671,737471002,Minor surgery care management (procedure),,
+5449bd85-00ba-4d3d-aa2d-e2471bd3e47a,2020-03-09,2020-03-09,fc509823-8c5d-4b42-9613-4530cc4f239f,c9400a5a-9beb-4af5-95f9-760123a913b6,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d428bff3-ece8-4f48-a01b-c92694421a8f,2020-03-02,2020-03-02,0008a63c-c95c-46c2-9ef3-831d68892019,2637f12f-5cf1-4287-9e8d-b410a8b41451,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+90841f0c-2395-467d-9cc7-3b45c76b4bf5,1939-04-06,,af872c86-ef7a-4c6b-8f23-4ecf3b7e1df8,ccc43348-ef36-4ed4-8597-1dbfa0125590,384758001,Self-care interventions (procedure),,
+f41d4572-4ede-4ce3-a545-c3250b44a610,2015-08-19,,4e8863f1-da8e-4c23-9580-36ec6858b6fe,17ea71b8-6250-4a4d-a557-bd7589ec20e6,698360004,Diabetes self management plan,15777000.0,Prediabetes
+0ca3c3a6-b966-46a3-aff6-7032b7f79418,2020-02-27,2020-02-27,aae1693e-a418-4fdb-955f-a345a5af1466,d1a860b7-4488-4c5a-bb9b-fa14792f9bc2,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+3991077d-afaf-484c-85d0-c15ce425e044,1930-02-09,,d28288ab-82c0-464d-a30d-a8bc86f0e43b,bf1bbce0-c344-4903-8ad1-42cf2d01c313,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+b4a7fa34-28d6-406a-ba4b-ba24ae7728fb,1974-08-12,,8ff8bd7d-7fd2-42a7-8dc0-0b7069a00b77,0bbdd02d-8a46-4423-b299-3e9c7ba64bb7,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+c7060411-db53-451d-b7dd-7f9085e345fa,1971-07-17,,daad24be-f00a-4478-b610-653f345c933c,0bfd47f7-8063-44fa-a016-3332fcd604fb,408869004,Musculoskeletal care,90560007.0,Gout
+16eddc13-8df0-4789-9b8d-7a094f6de9bc,1982-11-02,,123d5426-5cf7-490b-ab1f-b2b87744dd32,e8de7b00-c95d-4c4c-a242-4a404db3e142,698360004,Diabetes self management plan,15777000.0,Prediabetes
+0c96a70e-a408-4668-bb9d-3727f0de0183,1948-06-16,,1c198833-04fc-426a-850f-bd1f5e68cf3b,8624d6ce-9056-4a87-a820-ed4b7203b996,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+59ff258c-72e4-4548-aadc-5f6a98d31de2,2020-03-03,2020-03-03,39fb396e-e07b-4dd4-8a45-4060f4d42b70,2454fa6f-dc7f-4050-b839-3b9e33e5d82f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+5669c1c8-393e-439a-88cd-da9842b7d6a7,2006-01-29,2006-09-10,dc6edb6a-0cb6-4abb-bec7-83938e5ff86f,1b7b2800-7dfb-4cff-aa21-ec1f1eb4555c,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+005c4dfa-5aa6-449e-a572-f4419e7c3839,1955-01-19,,7f5300d0-f805-4572-a946-a35308673e96,a90e0655-02bc-4c0a-8c86-dbf6b972137f,384758001,Self-care interventions (procedure),,
+ce3dd475-93ec-4c66-b981-46cd2d8c247a,1971-05-26,,991959ab-0188-4916-aa95-664845579bb0,e650d1f2-9737-4869-8cb6-def01f849201,698360004,Diabetes self management plan,44054006.0,Diabetes
+f166c455-fa22-4011-80f9-1788d8a09c4a,1912-06-14,,6d9da549-c560-42f5-adef-59c75d89bdee,3bdb58d3-2048-4a21-8cde-f13d32f812d3,384758001,Self-care interventions (procedure),,
+d9c9e07a-94af-418d-86e3-66f526e900aa,1958-07-02,,58addd9e-03e0-4569-acdc-8f0e95000165,d7d4b42f-8ac7-460c-be88-3308cc685329,698360004,Diabetes self management plan,15777000.0,Prediabetes
+fc8ff1eb-8efa-41c9-995c-51fa296946a3,1976-05-05,,4ef40577-0c47-42b9-a36b-1c849e0aadb9,95dae7d7-8860-49ec-89dd-ddb042c7a3e6,698360004,Diabetes self management plan,15777000.0,Prediabetes
+9bd260b1-ed05-41f1-bbf2-1017dab4746a,2016-02-26,,8acfcebd-de8c-4bbf-8dc5-4b61b9b66771,7d8973c2-8d68-4c6e-9c9f-847f26e5ea6a,384758001,Self-care interventions (procedure),,
+d8010bee-bdd3-4267-b6dd-9655669d4353,1954-01-30,,9d1553e9-f247-4334-bf1e-ba084867c263,34660b3f-466f-4f20-aa00-e14d0e1772cc,698360004,Diabetes self management plan,44054006.0,Diabetes
+3edbef80-df8d-430b-8436-783818d2662c,2020-03-10,2020-03-10,0f974a01-1a2a-4014-9ff1-8f2a12bb2f9e,79b3c58c-f78a-4c13-9274-011e81a7ade5,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+4a722738-b927-4a4c-9d5f-44afb961534c,2012-08-09,,3cdad66d-e301-4862-93ce-28209d616d86,c1652070-9935-469d-aae8-0bd3e31f1edc,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+3c5d0092-77ae-4fe0-9b1a-21ae3dd5168f,1942-04-14,1943-02-24,31bea1c7-03b9-4e17-9481-40c549a6cac3,854dd56f-f856-4776-92f8-37d2813445ad,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+b4cd572c-0b8a-49b6-913b-0237389d390a,1969-02-18,,2c7dc577-a563-40ef-b45e-94054ecc4073,db208406-e399-402d-8558-7a4a3cbda37e,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+8f747c18-8b1e-4423-b3a1-463d38ce6ee5,2018-11-13,2019-06-11,2ed9433e-e173-48ba-88de-81fb3d7ecbe5,5c0462b8-5607-4b7d-a168-028de42e121d,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+920a9de3-7e7c-4205-8edc-6d0630c3f07a,2020-03-05,2020-03-05,7edacce0-4f4c-4d77-b86b-c64c6d6dd7b0,74b9f4b4-f597-4f7f-b7da-523be7650311,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+32caeb88-1f61-4ee4-a381-bd6cc73df9bf,1930-02-09,,ce98308f-3e87-40dc-9acb-b902b3cdfa1a,c65441be-579b-4d72-86e8-1eb41cd63d4e,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+6def9105-ebde-473f-9fc3-70a3c42b64cc,2020-03-05,2020-03-05,477e44cc-8416-43fa-bcdd-908af4cfaa1f,b637505f-0bf8-4a98-944d-9e9b7ac01a82,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+8051668c-3a23-41b6-a719-f987c00a93b5,2017-12-22,,d1996c49-a4c5-4f0e-b3c1-5e96e2139f02,5246fc4e-0775-432f-b80b-e488dac1d8bd,698360004,Diabetes self management plan,15777000.0,Prediabetes
+17a7fa03-7605-43a6-8714-221ec2780c1e,1967-07-12,,0474a216-baff-4d08-861d-5d153173fa3d,92df5254-2e79-4d54-8e3d-c85d08bbb43e,698360004,Diabetes self management plan,15777000.0,Prediabetes
+6f45659f-f9ce-4689-9d22-da34a3a62d3e,1971-07-17,,f0bbed34-c79c-4bef-9c00-7f7d959a07d9,81d7ee9c-5520-44cd-a854-96baa37e2273,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+de798420-bd1d-494d-8ab2-7dc46af23cd3,1930-02-09,,bdeb3e80-f4a2-436c-8ab8-47b7189f38c2,fb5acc51-26f4-454f-ae6f-e36be442a9c5,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+baf5d15b-27bf-4cbf-8e76-e0b4dba92a11,2002-09-06,,cf1f3d74-8ad9-49c7-b7fe-8752f172d7a9,efedb380-9063-45de-9fcb-3a58a2cb5499,698360004,Diabetes self management plan,15777000.0,Prediabetes
+8c757cad-6dda-439a-8295-d9bff3fe85f2,2020-03-11,2020-03-11,58ff12a8-0378-43a3-8b72-3fb5fe70b16f,4e0c667d-c884-4a4a-9d12-f209d2eecd28,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+91a5b75d-f5b1-4860-81db-08c3acf7dd95,1942-04-05,,f027fbab-a153-4aad-b162-a0bbdee43f87,01f8c2d3-5efa-49b4-ac8e-151b35212ae3,384758001,Self-care interventions (procedure),,
+b07a998f-02bc-4ad5-ae35-7953f12861ad,2011-01-13,,a44d265f-1cf1-477e-bce7-f64837aa0321,7e09a6ce-a6aa-402b-ae19-3e84dc8a16d8,698360004,Diabetes self management plan,15777000.0,Prediabetes
+da095349-ac68-4661-a0f0-9883e135f40b,2009-08-27,,0ec467e9-225f-4d97-b407-371ab2c30413,c16ae5ac-9808-4695-a973-a0cc00501778,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+00812c12-bfd7-419c-9dd9-663db01189ca,2003-10-05,,0fc00979-4ea7-4dcb-a4d7-45d1792f2f33,41b284da-52bb-4b4f-8744-b939a3ad25f9,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+6ed93ca7-708f-446c-b326-31c7e101b682,1997-06-23,,28e3be11-666b-4631-b8b5-f1449f9dc377,4f84d3f2-6b62-496f-82d8-5a62f0aad315,734163000,Care plan (record artifact),55680006.0,Drug overdose
+db718982-8ff1-4f6a-9fba-b261c7a21ede,2014-08-07,,b6097e25-6323-4791-affc-f3a4c0163d14,d91ea6c4-e677-40b3-a8fd-9f29b33be3c6,699728000,Asthma self management,233678006.0,Childhood asthma
+2484a9d2-63c1-42d3-aa6a-93ce05bcb514,2020-03-11,2020-03-11,34ac552c-9a6a-4d19-a116-768307d79769,7cfa9a50-4140-4bac-b23b-8658a98307df,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+fed66c66-815d-446d-b158-2092d2d7b517,2013-08-25,,d2dbfcd6-a7f8-401e-a500-86a04cbcb7d3,bc296f94-8a21-4263-9330-6382e7a43e10,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d7b32293-63dd-4b09-b66a-9964eaeb4428,1961-12-17,,f38514a5-5a2a-4852-8cb6-f792953ba772,79149e0d-d3f6-4e80-b895-6c624751b74f,698360004,Diabetes self management plan,15777000.0,Prediabetes
+8b27e9b5-41cc-4a8d-bb67-1a1964a92d82,1978-07-22,,f514d5f2-48fb-466e-9ce3-ac847988e230,9830136b-3e72-44e3-895c-ee8f1fab2105,735984001,Heart failure self management plan,88805009.0,Chronic congestive heart failure (disorder)
+22881813-134c-4631-8bb0-5366b880fbca,1955-05-04,,41fa5f14-d33d-4be6-a8e2-51ea8a322057,afc30c9f-cd1e-4767-87ba-137e3cc37b3a,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+e56199aa-2ea4-4c2d-9d73-499f53f513fc,2006-10-17,,e72e0132-2fc9-495a-8585-05e8c673b4a0,be947a94-0028-44e4-b676-e060a513199b,698360004,Diabetes self management plan,15777000.0,Prediabetes
+0bafb2e9-b859-49ab-8142-8a890fb9610e,1955-10-06,,aeadc7d7-a0b5-41ec-9b3f-f49cbe4806fe,db0287a3-881f-4cb4-b2ac-708211d5271a,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e1df8d75-1d3f-4eee-8065-b5c4cf12d915,1958-06-20,,fcc110bc-3db4-410c-81a8-c714bd0e6a9e,576f9640-d563-44ac-87ba-80d3617e2b71,384758001,Self-care interventions (procedure),,
+76f450eb-ac64-4eef-bd56-f5a1b97a1a01,1988-08-13,,51d02f7d-6a65-4d6c-aa5f-ef43f1e372cb,daa5497c-a920-4164-acca-d20788acbc59,698360004,Diabetes self management plan,15777000.0,Prediabetes
+4cfa41d4-e9e4-4c9e-8a9a-faa626226891,1991-07-27,,fe6a4adb-c96e-4c8a-b5e5-6bded4b6c008,e9d39ec8-8e41-4dea-adef-0886bcfb3624,734163000,Care plan (record artifact),55680006.0,Drug overdose
+3dbae813-ecf3-425b-b6a9-7b243e6c9f50,1997-06-27,,0bb4d615-991a-49e2-b129-f1aea8d81450,2ea15100-1702-4e5c-8b14-3da7d6949638,698360004,Diabetes self management plan,15777000.0,Prediabetes
+9c01ef4e-4d53-4a6d-9649-4d33e16fc636,1960-10-28,,b2060c24-8f89-4008-954f-98b98d278fb4,b503a5e3-a631-4a84-8de9-2ca2a38111f2,711282006,Skin condition care,24079001.0,Atopic dermatitis
+67ef850e-5f66-4e13-a09c-faa0abc595e1,2020-03-09,2020-03-09,a9c3d8d2-a11d-4b38-9adb-57afef7bff10,08537930-e60d-4b5d-80fb-0ec13bfdc4b2,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+b5652fb5-c646-43be-abab-c2697c94fd30,2004-05-11,,f5983e1f-6fa9-46ee-ac7e-0e809aef10ae,0a682b75-bf61-4f36-a16f-f269f1b3ce3a,384758001,Self-care interventions (procedure),,
+c96e3463-e0c9-48a4-b9be-5df39a0923f2,1953-05-08,,05fdcc72-b031-4947-a364-b29027807d53,3837c193-0167-4da1-b154-243c58907da1,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+19e8c0e9-fbb9-46a2-ba32-871f464a9c67,1935-08-21,,7e119148-c4d9-468b-ad0b-cf825e075bb8,ab609e9c-a9f2-4087-a417-52ad5ffd92aa,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+cc7f0a67-0712-4f52-b61d-1c5c63f04723,2019-11-12,2020-04-27,27a11f19-9c1d-476c-bf0b-1d6f18c6d9de,248a6bf5-dbf0-4a96-85f8-3e6aa742774b,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+83d51204-a141-4619-bf4d-c1ad751d005f,1988-08-13,,8974399a-355c-4738-b737-abb6450e5938,09ebc15c-0ca1-4fe0-a01d-166af1af6445,698360004,Diabetes self management plan,15777000.0,Prediabetes
+345d93d5-9022-4efb-9ab3-613ac08bca28,2020-03-08,2020-03-08,88256f26-5cd6-4e5f-a302-507b7288e1a8,60882cfa-51e0-4b94-85ed-a55fbc407e0f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+45d6bcb8-89b3-433e-a400-155d339a1cfc,1984-09-12,,31eab608-496e-4922-8f44-1619201eaa76,b62a5969-ab83-46de-8a77-a991298b47cb,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+9b972c9f-1826-46a3-af01-c0b220d31bdb,2020-03-06,2020-03-06,efab953b-96c2-4a1b-90cd-5a3b9d393222,fe31128e-be23-4c87-aedb-d337488efe2a,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d2b2b287-ecf7-4dc4-a16b-e8cd5743753c,2020-02-03,,18f007e6-35a2-492f-be28-4376ccf73647,95644807-6850-4c67-a0a1-9402076578a4,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+ea76374b-94d1-4818-9302-2e6eaa503059,2020-03-16,2020-03-16,0efffcd1-c480-436d-a726-913d1bdcb992,0fbef37a-d6a9-403b-a57e-808b9b2d52a3,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+4eeeb8e3-5c01-46ef-896b-b4659aed0387,2019-10-10,,92ce346e-3327-4ec4-ae58-a6a416951c87,bae23a64-0808-406e-bbbc-ea70723f818f,386522008,Overactivity/inattention behavior management,192127007.0,Child attention deficit disorder
+4cc432dd-ffd5-427b-85b6-e243e869c36b,2016-10-02,,476a6e61-3cd7-4fd0-9f4c-a70f02ee5aef,d179e28a-957d-4b7c-baa7-31591dc0f349,734163000,Care plan (record artifact),55680006.0,Drug overdose
+160ab9fc-6e78-4284-ba6d-33c2355946ea,1935-08-21,,f3eef009-fafc-4955-952c-cd4edbc6e53e,ab983687-92f4-4362-97f7-9335f1ecaefa,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+52d1066c-3da2-46a1-9bf9-d3cf90306409,2012-09-27,,44f02a90-b5ac-4d7e-a942-4be88eaab838,69635a2a-b23d-44db-9d86-877346b22ee4,734163000,Care plan (record artifact),55680006.0,Drug overdose
+eb5c678f-696d-47fc-a936-d2844072b29d,1961-05-12,,c40a3d7b-7832-42eb-a6a7-9d6b33d9470a,df9e2241-904e-435f-a00c-949eece89718,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+f6260f98-bf48-406d-b053-09b567129c88,1955-10-01,,49d09b10-cb99-49ad-b0e4-9c4bec466fab,ea9a76ab-e964-47d2-8713-07161efc4032,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+11a56e8a-3ae1-4fe1-a80a-b64defa2c5a9,1957-03-08,,f9b1dd1c-b34f-46f6-a46e-ff996a8048a6,81b2d661-5da1-4bd3-be81-6c4343445cb5,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e9ddc2d2-090f-45cf-92f8-9e159ef8bd14,1980-09-30,,3f82ade9-dd3f-49b2-9765-770177a8ee04,03da5fe7-71a3-47e3-b0f0-bbf92dd1ab2f,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+a62e8bb2-0fea-4c80-a09f-111e7131e9d0,1990-07-10,,8590862f-21b2-4aae-acdd-66ae000661cc,e5ba82c5-8dbd-4f7f-b840-69771785caa8,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+a2ced98d-1114-482a-9be5-030ea822a17a,1947-09-06,,e197a71d-5459-4d7f-a33d-e76b6825fc64,ffe2c5fb-0ca0-4a1e-816c-cfd2fb8e8191,384758001,Self-care interventions (procedure),,
+1dfe73c9-78a8-4be8-9ce0-7dc8276a6c43,2020-02-27,2020-02-27,21ae0b8d-675a-438e-a363-1fc9b42818ec,c732f79f-9839-45d0-b183-3c36a0c0c4b2,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+741f0882-0ebb-4ef0-af42-7b56db603fd0,2020-02-26,2020-03-11,8384d6b5-c69f-444f-a781-ffc043922dbe,7cdbcb90-0c17-4178-9da1-dcec62ccebd5,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+95ef69de-ed89-4fb8-a9fd-3ff560e76305,2020-03-10,2020-03-10,cd64b7e2-53a2-4fdb-b981-0374e4663452,5cd30a0a-04ec-4446-9cb6-b81a83ee069e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+bf15cbc6-6252-4efb-90fc-7cd2d2d2d1ce,2019-10-27,2020-05-24,95d808c2-64a1-4fb8-a83f-d6d41eb5d84d,8547fdda-1a91-4366-89e4-11905cbee22d,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+40837086-5815-4b02-9ff6-2e2c5ce1079a,1959-08-13,,a8d252be-3224-4f0c-b372-6a4f66638564,e934fd4b-ce52-48a1-8186-4885431173d1,384758001,Self-care interventions (procedure),,
+17266779-ead8-491d-83d3-ae21e538338c,1995-06-25,,52fd185e-4d6a-4e47-90bb-739308709f74,bbea6d8c-fd20-477f-bab1-a5ad7a56c92f,384758001,Self-care interventions (procedure),,
+694752be-25e7-4ade-ae66-59e7d3eeb56d,2016-01-06,,5ce452c3-5c53-4c27-a558-c5b8615de0c6,959b9d56-326c-4efa-9189-2a07e172dd87,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+3f4c7ca3-5e45-465f-b501-9aa8ad3d3507,1995-12-15,,3b688a46-feca-4fc5-8331-9589ea2c58d1,52702559-50e6-4726-865d-ea6f15b6c70b,698360004,Diabetes self management plan,44054006.0,Diabetes
+9467f77d-7873-4ef3-8636-64d0aea59d6c,2020-02-24,2020-02-24,8621f24e-f507-4c8f-8885-09d106d1aaa9,1d3441ac-1fa3-4fe9-ba81-1958366de726,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+33e3a8eb-3e62-4fb8-a7ae-a75abe3558e5,1995-02-19,,a84abed1-c5a0-4293-a160-e519cf5dcf1c,15edff77-a29d-445e-bb38-e44dc143d899,384758001,Self-care interventions (procedure),,
+12af3beb-90bb-419f-b690-89b585fe6862,1951-08-11,,8eeebf11-bb86-47aa-8aa3-958f226d8467,45096e45-1152-4697-9f3f-5a213e46cfc9,698360004,Diabetes self management plan,44054006.0,Diabetes
+34783c51-dd90-4d84-9b4a-9dfa231f52a7,1946-11-20,,9e810611-c130-4f93-8d1d-8230a0799eec,373cfd01-36c7-42d7-a056-36c57082c048,384758001,Self-care interventions (procedure),,
+26ce4b09-5b1d-4459-9d17-2203fa3f2d54,1939-08-14,,ac6d9aa2-40a2-4ab6-a189-05c7a2db0607,de542e23-9b07-4914-9d3f-4fe03ab145f6,699728000,Asthma self management,233678006.0,Childhood asthma
+ffa22271-3aba-49da-8176-6074e3b23251,1993-11-25,,f3643dcb-6f1d-4dbc-b508-da1d6bcee3ae,2d1c4c10-a57c-4f09-b104-8be52d97c85d,408869004,Musculoskeletal care,239872002.0,Osteoarthritis of hip
+5efb5228-0777-48f0-8d69-50a6643f3476,2020-03-15,2020-03-15,b0cb0465-a38b-447d-8d45-a9ddbec93542,91f0fa28-f54f-45c4-8e19-5e51d3d8676e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a9196f7e-1480-471b-a0aa-11078120f579,1935-08-21,,c4dce500-17b1-4167-b7f4-b301cdbadb62,c671b329-fa98-4489-b7a7-5e20a56a20b4,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+931bc162-dde8-4650-baca-fdc236f2f6d3,1919-06-24,1919-09-22,f15d55d1-215d-4ae1-865a-a6428d435708,ba68f978-79ad-41d1-8232-0529767cd34d,385691007,Fracture care,16114001.0,Fracture of ankle
+1fe8a3bf-3157-4957-a8b4-4e18af0d406f,2020-03-12,2020-03-12,834d27c6-922d-4255-933d-421848a480fd,ee9bbe9d-3002-497e-863e-c2958665ecd5,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+463f7a2a-cec5-43f7-b3e6-dd227777a564,1975-04-15,,6fb97c70-8db7-494c-baed-bf5157c12533,395d826e-ac9f-4eca-be4e-9a825ec85485,384758001,Self-care interventions (procedure),,
+4be49a44-8a88-4abb-a1ae-c24bb463fc68,1964-03-19,,861db50c-4b54-4401-95e0-d4c3ef4b5437,4278f43e-98ea-42ca-9004-ed9591c43805,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+12ebc33b-8b76-4a66-aaee-a7f759322f7f,1944-05-23,,215c9fee-f11e-4731-8133-794ec03d5ac7,1dedd685-fb8d-4013-9a79-958f084b86d5,736254008,Psychiatry care plan,47505003.0,Posttraumatic stress disorder
+aafde871-bf78-4fc3-a238-9e5ef9df83b7,2009-10-30,,6c238e4a-462e-44f8-a787-0f7363de865e,8c133476-160c-4f5b-8c31-82ef89ab99c0,698360004,Diabetes self management plan,15777000.0,Prediabetes
+f106029b-e824-4623-b17f-c1b4b74f42fb,1996-04-16,,879171ba-faa8-496d-9dc3-cd873bb22d0b,2b29ff5e-1cf7-4045-90d1-1780c1f3a837,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+2c50ed18-0baf-4edc-a59f-03cd58429ba2,1970-05-22,,f657ee20-9f55-4c28-8f05-a2daa4bf5aee,b785bd65-0110-4498-8e4f-104f8384d723,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+5868904f-e4da-4e86-8331-44e820b60dbc,2020-03-08,2020-03-08,3f2f7e57-f353-4310-9b84-7e3150833c3b,5ebb06e7-3eda-4df0-8fbe-af5698dedcc2,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+7ef698ce-845e-4a83-a4f6-db672253602d,1973-04-05,,7d1f3ef8-65e0-4545-a578-7a0947a2864e,33740800-7d69-4f07-8823-e618b20706c0,384758001,Self-care interventions (procedure),,
+49cfbe0f-5273-4e48-969a-01d0b0dfade3,2020-03-12,2020-03-12,6bcc5be3-3f72-440b-aed4-7fa2d721957b,5dffba4f-3d05-4c9b-a69e-1605ca7ccf22,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+4582fc36-6bf1-4161-9663-303923309f34,2020-03-07,2020-03-07,93a464c2-6e9a-4173-8686-c8676c2b676c,abf1b4c8-cc01-4604-9295-e7a1a6a6d01d,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+51f959d1-f3cf-4c2f-acb2-9a237d1031ee,1945-01-28,,9cd159bb-f711-45b3-a353-1e354587b488,bb6a7711-6045-4e3a-9a50-85304578c747,698360004,Diabetes self management plan,44054006.0,Diabetes
+4fb2815e-32df-4e1b-8b8a-9444470d16f9,2014-08-22,,c381fd89-c861-4dc8-9ca3-24f30cb6f8a2,4e14c43c-1648-4d69-8c4f-e61546215ed2,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+09c4d5dd-ed4c-4be9-bc41-fa47fb78d314,1983-05-10,,1ff645f5-2b0f-4e97-8384-34ff89b67abf,825d8205-06f9-4abb-92c1-8654763211a5,698360004,Diabetes self management plan,44054006.0,Diabetes
+5bc5bd6b-51dc-44ef-901d-0659e0992510,1992-02-10,,f9551d4a-0811-4d86-b907-2d341e21d067,aa1a22a0-0082-40c5-91d9-d945e7b72889,698360004,Diabetes self management plan,15777000.0,Prediabetes
+42477992-6e23-48e6-b007-d94b8bfcac57,2015-09-20,,e57fe5cb-0f2c-4c6f-8090-9ec5011d593c,a8bd27a9-6a61-4dd0-91f0-8630bbdf020a,408869004,Musculoskeletal care,95417003.0,Primary fibromyalgia syndrome
+ebc9d75a-a8e4-40f4-b423-f12f9fea132c,1985-01-27,1985-03-28,92a3a0ea-c851-43c3-8b50-49ddbe8d4434,67459654-7797-47be-a3ee-ca4d2985449f,385691007,Fracture care,58150001.0,Fracture of clavicle
+43360ec0-8b38-48c0-8127-3d85c716d0b5,2002-06-11,2003-06-24,c1ff7486-b0d3-4e32-8184-4f6ea8785552,eecc9f24-360a-4e8a-b56e-f44e0ec56b80,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+3aba7cd4-0251-4cdd-a3a9-2a5e5971cbe5,2019-06-09,,9f53e3c8-deb5-48ce-9dce-26de0da2d5a3,cef6fdc1-bd4c-4994-bf02-0f389fb16135,698360004,Diabetes self management plan,44054006.0,Diabetes
+d84f6820-3614-4662-ad6d-05ea468162b5,2020-03-07,2020-03-07,4b36474d-4a9b-4f9a-bbac-77e1fd24314e,0b8729fa-1ff3-43d2-96b1-cf337159cab2,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e352dedb-fef0-4d83-b586-06ad95f0e1dd,1921-11-04,1922-06-07,9a1e1152-7566-4afd-b3f9-b0a7fd90b0eb,bf88d6ad-a0e6-4df4-877b-e7bc86c3eaa1,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+7c81fdc2-b13e-47a9-ac45-f13046d4179b,2019-11-19,2019-12-24,f302fd56-6b21-446a-8c1e-785d15077616,2b0e9013-9cd4-46db-b963-e2e220273a3f,91251008,Physical therapy procedure,44465007.0,Sprain of ankle
+f73262d2-6fb1-4d0d-9757-7ecd4dcb1562,1986-01-03,,899371ea-a5c2-4a13-b24f-65a1c1135e72,1597df44-d297-49e8-b778-8fe5d6f60bd5,408869004,Musculoskeletal care,239872002.0,Osteoarthritis of hip
+c1a9f85c-c116-47da-ab91-fff2a0025cbe,2017-11-06,,27aac398-74ff-4614-b4e6-04f87d0b20d6,1cdd71f2-671b-4db9-83bf-07293856c862,384758001,Self-care interventions (procedure),,
+f2bac058-013d-4edb-a833-ad68f464aa6d,2020-02-28,2020-02-28,999c6244-42a0-43ea-88a6-1488c5d3ea13,3da76038-c2fc-49eb-a90c-fd959b587b9c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+18e0ba3a-e52a-426e-9afa-758bcee65a51,1962-03-12,,ce1a2e43-b59d-4c87-be60-c370b534a9ca,ffa8f111-c094-4df3-9765-35b31c30f8eb,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+97854c98-c4b5-4797-91ea-d602a907aad2,1952-04-03,,fa67248c-63e0-4ec9-9492-03af9844a522,512dd81d-88ce-4fbb-88a0-15fb7f6cc39e,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+0c1d10ef-0ab5-451e-a3d9-2da84180db09,2020-03-08,2020-03-08,7e96b7fb-de68-44d3-974f-2ae4d846fcb2,7e0a7a2e-3a90-4d5c-8173-231719dded41,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+ad48e63a-046c-4dc1-a2b0-e9c39a03dd6d,1932-11-27,,98887031-8b34-4179-8967-c727f0d433a1,cb299918-d3be-4e36-a9fa-8c9ee920e21b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+92e3f028-3b49-4d90-93c2-0222da78aab0,2020-02-25,2020-02-25,f1a18f80-6f2b-4a6f-b49e-f05b6034ac8d,ab577718-4173-4199-9dbe-2a1f6a2609c3,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+32116b92-aa30-4587-8b1a-f804c801031b,2020-03-08,2020-03-08,edc0c859-d422-4603-94bc-d9a72379980d,08557b35-6e4e-468e-b47d-64390135c2e6,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d86e8df6-0089-467c-9f6d-eb5d1ae139c2,2020-01-22,2020-03-16,f0420f37-f855-4220-a95d-ff3679570b8e,caab43fd-19e1-47e5-a10d-bd4dfd8506f0,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+e275a23e-ce53-488d-ab7c-ccbbaf8586f5,1968-09-24,,27123495-71f1-4c01-aeb2-9176fc6b352c,19ffb146-2d2c-4e86-8cb6-473637938878,699728000,Asthma self management,233678006.0,Childhood asthma
+b78b3ec5-0743-4448-894f-e5502ffc47cb,2020-03-08,2020-03-08,ff987a90-00f6-49b0-9c6e-8125357c96ee,b32dbc69-7641-43b6-bdab-90a65b2674ad,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+3aee7a70-033b-4d55-94bb-71c3f081d3c1,2020-02-25,2020-02-25,72073aee-b308-41f5-9240-c993c6f102d7,da2b18e6-b712-4cb2-b85d-5704dc37f270,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+56523307-32f8-4e34-b2c4-2ef459a12a37,1976-12-05,,1487a0cf-d13d-4a1a-a52d-36f57c63cb6d,d0add809-4ed5-4845-88df-9cae13bedb8b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+731161e4-0a11-4e3b-a7a2-3476dffe304f,1965-08-11,,99b19f65-d7db-4aaf-a6af-9ce972808b08,eabbf99d-106d-4308-a2aa-e06282978248,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+c31a55ff-4964-442a-bf9e-9cbbdd665910,1991-12-02,,bce3772a-62b7-4aa0-9121-c1c9b4f8cfc8,46a684ec-3c81-466c-a847-c4a80684493f,412776001,Chronic obstructive pulmonary disease clinical management plan,185086009.0,Chronic obstructive bronchitis (disorder)
+b4e429c2-1016-4f8b-bfc4-e8760a0cfa89,2020-03-04,2020-03-04,e76e8e51-65e0-479d-b89c-cc3c085b389e,a88fbddb-8d9e-497d-8c33-99dd109ee750,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d14106d9-9d34-4c6f-b9b1-001316ad42cf,1974-07-14,,7399ba91-21c7-46cd-bcec-f38f0ff4a049,b024679f-7181-438e-ae6a-6a4118bda33e,384758001,Self-care interventions (procedure),,
+0a24afa1-811b-4459-8ff4-6f6139f24dac,2015-07-24,,c97406fe-f55a-44ed-ac4b-50f1ee0941d4,594e3727-c026-421a-a9cf-02c1834faddf,698360004,Diabetes self management plan,15777000.0,Prediabetes
+45b0fbfb-3046-4029-9348-46cf92aae0e3,1984-12-05,,3a51907b-d572-4ebb-bf73-b158b9c67b01,d27e12d1-6687-4f14-9b6b-f5a50ecc313b,386522008,Overactivity/inattention behavior management,192127007.0,Child attention deficit disorder
+35d54a53-dd79-48c0-96d7-47eb4f2e43a0,1972-01-17,,ae736d6c-0b94-457d-82d9-b280b3ff421e,7741d02a-75bd-45aa-85e4-392804dc2232,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+f6775240-d6bb-4552-a30e-caead95e6528,2020-03-02,2020-03-02,5c39708b-fb65-4107-8599-1fbb787e24a3,18226140-44fb-4935-b26c-9b3f9e60146e,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+d1dc7cf1-b7de-4f40-8552-11b4722d1e1c,1960-12-22,,f8123642-7ae8-4921-a30a-514478c661a3,1744fb55-8ca8-4808-ba4b-55be450eb6a7,384758001,Self-care interventions (procedure),,
+94278005-b3b2-4434-81ff-de3bf405b280,2015-12-06,,3a7f100d-068d-4660-8a03-2b6f31a1bc5b,c3d53d57-1d07-4472-94c3-19d2fdbb4acf,698360004,Diabetes self management plan,15777000.0,Prediabetes
+61309daf-212c-4328-a776-890b7de8088f,2004-05-28,,2917d4a8-2548-4e6e-ade9-4c68c90639e6,d5ed0120-a8c1-459e-a522-3768e03129ff,384758001,Self-care interventions (procedure),,
+4a680028-7b01-4d31-a50b-3a3cff81b922,2020-03-12,2020-03-12,ce5d8091-eca2-4ff7-90b1-b72f2c1c8886,6444b5e9-d087-46d5-bae3-aab821a30b14,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+eddc2798-4418-417e-8c09-8e3309dd4062,2020-03-13,2020-03-13,19fa58d1-2d04-48ed-9fe5-5bb326547c35,c570ea18-c72b-4840-a39e-168d94816d09,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+25620106-127c-4616-828a-c473cf9bbf78,2020-03-05,2020-03-21,1ca31c55-1bc4-4986-8319-6d8056d01e38,e8d1dcd6-5358-4da0-83b4-8147290393db,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+1ca210c1-0662-4609-8cdb-6ef68ffa24d4,2019-08-10,2019-09-09,b65a8bed-7874-48c6-a8a8-2f8e9dcaa285,24b1d2b1-9ab7-48cc-866a-b619e3c115bd,385691007,Fracture care,58150001.0,Fracture of clavicle
+791b5848-2938-4352-8535-e616c99aa6e8,1972-06-13,,808d9b0f-8a83-4752-bc49-5bb3f52b3052,5c0a8fc6-acee-40f5-9cc5-68e4dcc9be5d,408869004,Musculoskeletal care,201834006.0,Localized  primary osteoarthritis of the hand
+a1fc2dab-a8b0-427d-ada1-3425bd8b3db5,1959-06-15,,1f976df4-3126-42f3-a59c-4ce7f4acff94,af5b01fa-8601-42c9-852e-1570dc130c0b,698360004,Diabetes self management plan,15777000.0,Prediabetes
+4d062813-c8ea-452a-8701-3076c587b316,1932-11-27,,2b48d267-56a4-4f6c-afb8-587457338e16,9f280430-d387-4a97-b971-6b2a1de97882,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+7bca2fee-00c9-4c0d-8b91-e67402fc418f,2018-04-16,,14420ad7-bf72-46d1-b77c-5d56743c9130,994a8aa2-1362-4cef-aca6-a8900fcbad06,698360004,Diabetes self management plan,15777000.0,Prediabetes
+1fad85bd-c50e-434a-992b-93069437244b,1999-11-09,,6b37ce65-fd76-410e-a56a-bc899c85e574,197820ff-eb24-4d55-9ea5-385ba7b31b66,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+d3a0e1af-abea-4941-ba0f-2ee5f579e8da,1944-12-24,,6632933d-6cc7-4b4c-9169-47b89c52595a,2e2663ed-bd02-473e-84ce-0f1b573be1f2,698360004,Diabetes self management plan,15777000.0,Prediabetes
+15f9840f-aeda-4886-80d3-7adf2d91c480,1976-11-29,,f8a6c7ec-9003-4b2d-ac81-afdc685fb80c,e0ae735f-7d85-4e08-9a4e-2cf09291b169,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+544133b3-2bd9-4c5f-b952-b8cdac13b4cf,2020-02-16,2020-02-29,0b869100-7cf4-4793-8e02-8a2deb0ffca9,f1d28ed7-6796-4bfa-bd6e-ab972d1f2f65,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+9bc9a22e-8d27-4908-a8f2-001d5098321b,1993-04-24,,7a96561b-4be8-4730-ab1a-a5cb7aa1e63e,1db72c1c-68f0-4073-8236-39358e1dd499,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+b81bf34b-94c8-42e4-8df4-a7c4de45e871,2020-02-09,2020-02-09,7fa7ed07-101e-489b-a71e-8f621f5f6f90,e5905b44-361f-4251-b947-2d6404f46f52,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+38a0e5dc-d343-449e-a4b3-879f607846c4,1965-11-19,,7ba82bfd-ef13-4132-98b8-bfadf2e48044,c94d538a-e5bf-4e68-a94c-fda4454655ed,698360004,Diabetes self management plan,44054006.0,Diabetes
+875ffa97-8d2d-4162-887f-96d49d2979b6,1989-05-25,,c9d62c92-822b-45e0-9865-78a18348a179,cfa9fcd7-2b71-4adf-954a-a05f58960cbb,384758001,Self-care interventions (procedure),,
+8b601f24-0029-44ed-b559-797c3679b1b9,1968-05-21,,3b066005-3c3d-407e-b81f-6c402f7255d7,52535834-0544-4fda-b4ed-27ef08f720df,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+81d557aa-9b7c-483b-b390-f4eea428a724,2015-12-04,,eb70358c-4a0b-40b5-aa80-e5a1a9c50150,98b31b21-240d-4e89-8247-b126051763d9,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+2c2cd5b9-30d5-4075-8cbf-fcb7d6342d0f,2004-10-25,,e14ab2b2-bf05-43ec-869b-7fcdd54335b0,a152fba2-0cf0-4e3d-8453-cff703c86d49,698360004,Diabetes self management plan,15777000.0,Prediabetes
+0467d9f6-2c18-4851-825d-894ce3bbd82e,2020-02-28,2020-02-28,2fd0463b-cbe5-4454-a262-bbf6aa89da79,02fc19ef-ed99-4212-afc3-ed36cb65dc12,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+a603d935-065c-4e65-982e-10b98c585a4f,2018-03-06,,e0416d8c-1cb1-4fbc-bdb6-f6e00de84782,d3f38ba6-73a4-4360-8496-d0e49d4a99de,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+bdf015d7-b645-4350-9cd2-ee1cbf31674d,2010-12-18,,c2203465-fb62-4151-8768-9ae57590be28,98b22745-04cd-40c5-b60f-2047e08a341d,711282006,Skin condition care,24079001.0,Atopic dermatitis
+4b6ce2e2-55fb-42db-ab43-a9fecc8290db,1971-08-14,,9194a6db-4891-4ece-88ba-dd74d25ea820,99c881fb-b29c-47be-89e5-816f662e1905,698360004,Diabetes self management plan,15777000.0,Prediabetes
+6ef88fd3-c69f-4fca-94ae-e5876de94e51,1988-04-10,,da51d80d-f9ac-4c50-801a-0af7494bb3fe,fe6fab4f-3556-4e87-ba60-74a0510d34cf,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+65c82019-bf5c-4735-8dcf-720e0512a2b3,2020-03-08,2020-03-08,e734e24b-481c-45d2-83ef-ac97a05ab4cc,177ee24e-9830-4e77-87f7-48d730f6c285,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+75579327-7323-403a-9033-87dff3b1d728,2015-05-28,,738939f1-6d86-4bc0-a203-826eb63e4e75,31ee61e9-6a31-495b-90fd-ef8f02c24ca6,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+48926167-47cf-4f7c-b0e3-902d9f1ed63e,1952-01-20,,2ada891f-0f8c-4c27-b1ec-138f14ba0a22,b9812f96-aaee-4bc7-bac5-f0b62f7aa810,384758001,Self-care interventions (procedure),,
+1f74f69d-ab62-469e-a315-efb54bd21178,1932-11-27,,c91012f5-485c-4ee9-8def-6dcc5c63c8a4,380fd228-0017-400f-b5b5-352c90d556b8,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+2f12a2fe-193e-4751-a87e-4e6a7a21e5b5,1970-05-09,,96c0be41-2776-4c2f-ac57-2412f3be5646,a140df5d-f327-444a-821c-9b21c0784ad6,384758001,Self-care interventions (procedure),,
+d240eca7-e7fb-43bd-9e6a-39d91d8c4f6b,1941-11-14,,2c5f0a75-a38e-4834-b951-57c69b7997d8,56bfdc1f-2875-4822-974f-3daa2af30827,384758001,Self-care interventions (procedure),,
+0404cfaf-541e-4c1a-bf97-9193b3747ccc,1961-08-02,,631a0b42-c7c2-458f-b8b2-837ead0471de,4a70cac9-467b-4902-b51b-f14b339b22c4,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+0cef52fc-efcd-4efe-b3d1-a68c48b00e69,2020-03-18,2020-03-18,0ee414c2-021b-4500-98d9-856d72c92fec,fdbcdf43-7f0c-4236-9e1a-8345649c2134,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+0dff53c9-9f65-40cf-8462-a1abbda3f196,1958-11-07,,1834b9da-59bc-4af8-b9f5-f8f6e7b58a0a,a515c464-6304-406b-a43d-433453ddad09,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+9749d8e7-687a-4a5c-84f9-4cc01e32b464,1966-06-24,,e18e146c-1035-4a70-b478-8dc46e3f2f5e,98bc254f-3099-4047-bfe2-a3017985eecd,384758001,Self-care interventions (procedure),,
+dc5c494f-c2da-427b-b23a-e898924b682e,2019-08-05,,9b9605af-ecd1-42eb-a92b-4592ca4a5a4f,69da0af3-377e-4c4c-b688-9a85aea78c73,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+09870c92-a274-4470-9186-349802e943fc,2009-02-09,,70a2919c-802e-4273-8c1e-64f802ba7a7a,b7be51e3-a52f-4d24-a33c-684a08fd61e9,384758001,Self-care interventions (procedure),,
+d9fd42de-ef8d-46d1-b32a-c58c4a1f7841,2019-04-21,2019-07-20,232abde5-194d-4d8b-9af5-74a9047514a6,cd555c7b-3e05-4b83-af22-0b7156709869,385691007,Fracture care,58150001.0,Fracture of clavicle
+5befe324-c271-4765-a9f4-307521c13d76,2017-03-21,,97f705fb-6a43-4eb9-a25a-64c04ac5b9ee,ea46b98d-938b-40fb-b4cb-af7d837e1022,384758001,Self-care interventions (procedure),,
+ab89a693-ab3a-4974-979e-d2fb85d7a6f6,2003-08-28,,90559e09-7a0e-43dd-8e55-83bccfdfc7dc,9587c8bf-076b-4c12-83f0-7cc5e76d6aca,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+8e207c56-ee81-4a37-b1bb-8436e325e601,2020-03-11,2020-03-11,3c353e14-36d8-4621-af3f-82be95f1b0b3,d4196428-328a-499a-900d-10095f7f5748,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+27632c0a-a393-4b74-b919-cac62d3c3046,1947-09-06,,c1122148-b1bc-4112-b8b0-73e6581ebf40,da361d90-efea-45df-b88a-252c16930f2c,384758001,Self-care interventions (procedure),,
+fd03eff4-43e8-420b-8180-e6fc20a71427,2009-05-05,,7785286a-cd6a-45cd-9b0f-7443b6666e1b,cfd6d8ef-b86a-4523-8a57-72eda353545c,384758001,Self-care interventions (procedure),,
+1550ae41-dd06-4a65-8dd1-a31acc109fd8,1987-11-08,,68a1977b-a726-4cf1-bbce-badb7b8bcb24,a2fce695-cad7-4484-baf7-f7d0cf6db290,698360004,Diabetes self management plan,44054006.0,Diabetes
+84ee889f-c329-4d97-86f4-5e2d7c7e7a1b,2020-03-10,2020-03-10,4e707f41-2f33-4c51-8861-0154a2a9e2f9,d540fb0c-0232-4275-9e52-b5d68f04bf56,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+1db91d3f-1bd4-4f99-a38c-a9f3b9301d89,1979-09-01,,12963fe8-6a8f-4048-9b41-93c959ec28ba,7635f350-8188-4c2d-a987-11f73836d96a,384758001,Self-care interventions (procedure),,
+0e739216-dc7b-4638-a7df-9e3dd6c9f095,2007-04-04,,7d23ce3b-f183-4c63-8f33-5c953b212851,6e7c383e-f5bd-49f7-bfd5-62ba09f97a52,734163000,Care plan (record artifact),55680006.0,Drug overdose
+817eb04f-990f-485e-9ea0-99c2bec6e977,1958-11-07,,60ce208e-eb6f-4c88-b02c-469aad51cda6,e1a0486a-93e0-4716-b0e4-ea32f4695471,698360004,Diabetes self management plan,15777000.0,Prediabetes
+3ecfc6a3-66e8-45c8-bd2d-a1669daa425b,1982-05-11,,a7e05be2-913a-4205-8db0-697568cd4d05,99ac43d6-f7fb-4527-8106-32d87f031793,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+eef50a94-2017-4921-b90f-41db8ae6d752,1989-03-16,,060a498d-dbe7-49fd-b786-6d199508df23,fbe06ac7-05bf-4e8b-b3d5-b80b592afb25,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+ad46ade0-45a2-49b6-996a-16f4647c33b7,1947-06-09,1947-06-23,2f1f23ed-9ce7-42ff-b16f-5652eeaa491a,54ec191b-f6cb-45d9-b06b-48f950a00992,225358003,Wound care,370247008.0,Facial laceration
+f3166fd3-5567-4c8e-a0ec-53d7cc0e597d,1987-05-08,,7c18ce30-1c36-4012-91ad-a72886408e46,6b1cc921-fe4b-4640-bfc6-f3736d888cc0,698360004,Diabetes self management plan,15777000.0,Prediabetes
+a9a84af6-dc5b-4e63-ac80-476c1822bb11,2006-12-04,,777a7d7a-0b8a-4ce8-89e8-e78eda204589,44015219-8bfb-4fbb-b239-671d85663d4e,698360004,Diabetes self management plan,15777000.0,Prediabetes
+dcc8f675-7028-4c72-aa94-fb221c6e7791,1932-11-27,,15da9bf9-23d7-4d69-bbb2-4a838a1f3547,f01975a2-5d91-4971-be9a-d5be61916b43,698360004,Diabetes self management plan,15777000.0,Prediabetes
+e67e2ba0-4470-4f5b-8341-f6a32e16a94f,1978-02-13,,c73b5ec7-959b-4f55-b830-9c42fc7b7fcd,a038e01a-dc55-408d-a320-b11df4ba3957,384758001,Self-care interventions (procedure),,
+aa1bb6cc-3f42-4afe-93c8-9fd26f43e150,1963-03-19,,de0ceadc-9962-4d30-998d-9097de201af6,25134a0d-37ac-4724-8070-9ca1d72a6f6e,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+62effb12-0d18-4fae-88a3-c15cb7761ae6,2020-02-16,2020-03-07,7680e875-a59a-4178-9de6-c95e197829b2,443f118a-dbe9-4920-80ad-0a32bc41aea5,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+0df962df-1e29-45bd-ade3-2e8bec3b67dd,1971-11-26,,5c0e4b4a-6589-4860-a2fb-7ab2e1587304,411b4bb0-897f-448d-864b-e5761ce6c8bf,698360004,Diabetes self management plan,15777000.0,Prediabetes
+efcb5301-3922-4975-bdd9-4c0da5d1806c,1951-08-29,,64f6b871-f3c6-44c6-b6cb-a1660258c559,8c8f85ff-a988-4c2a-81cb-6610a1d12d4d,384758001,Self-care interventions (procedure),,
+6916c1ce-0432-44f7-9643-9a1ab841fc9b,1970-02-25,,2d8ec90a-447c-4397-83ca-4a57a54a04ff,4014b133-58cf-4175-bd33-29cf512c1d6b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+1fcf1712-f163-4a5a-8604-e6cf57ed846e,2016-12-12,,26b094b6-2c16-49fb-aa6f-2e155f565542,7019de0b-9ba5-400e-808d-76eb8f7e5e79,698360004,Diabetes self management plan,15777000.0,Prediabetes
+8405d8ba-9441-4c15-8a2c-30301a018c5b,2015-10-17,,b59d42c0-cc07-4ae1-aa9b-8031a39cd8f5,58688203-8327-40bf-96fe-4d69f58c24b4,386522008,Overactivity/inattention behavior management,192127007.0,Child attention deficit disorder
+9e401eab-d875-436f-844c-babf28d137f1,2017-09-14,,3c5a5704-cf50-4bee-81c0-4dcbd68d1f95,e462ba8f-5e40-4415-ba64-c41778070c53,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+e1b6887a-d387-4f50-b7ee-a8e2f80e7b6b,1981-01-04,,617b2f94-ac2f-4352-b0bf-267c0726511a,a59a01ea-1804-421e-931d-6c0ff7aa1d35,736252007,Cancer care plan,126906006.0,Neoplasm of prostate
+110eea68-fc1a-4abb-9ed3-d9972062d7a7,2019-05-12,,74b8c926-5af9-461b-bc63-56755a5ae264,647fb7b5-d506-4195-8b2b-89da08972513,698360004,Diabetes self management plan,15777000.0,Prediabetes
+df893de9-b134-40a6-8f39-f4191b81370d,1963-03-19,,eb8c9a4e-f476-409a-8511-dec9a043d0e1,fbbd11f7-d8ac-42ae-949c-bf48186445b1,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+6099ca9f-e6d3-4252-ab49-aaaec70b8777,1966-08-23,,e1ae4f78-fb56-4734-9578-4e17136273f4,992c8849-7d52-4aa5-b37d-74c66b8d793b,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+cd212ae3-a8d2-460c-9eb8-c3b6a308bab7,2013-11-01,,3403e338-c9bd-4087-97b7-dfeb1d97cbfd,fe94e3ce-aad0-449f-8657-975ff8716911,384758001,Self-care interventions (procedure),,
+aee96e3d-3601-4073-9b3b-46cb1fbe1a4c,1967-05-21,,87a953c6-2588-44e1-a389-b37260bc7c8c,2853907c-c234-41fd-8699-360c331269f2,699728000,Asthma self management,233678006.0,Childhood asthma
+0235eced-0015-4e04-8af9-bd6eb58eb9b1,2014-01-24,,da336eed-c868-49b9-9b77-6c03302f8db6,f6ece526-389b-405f-a7ff-b3f45c799d2b,386257007,Demential management,26929004.0,Alzheimer's disease (disorder)
+9d344b19-960b-4135-9d59-3eb3153d70d0,2020-02-14,2020-02-14,1de1588c-13c4-4abd-a6d1-97208b5057e1,18b0bd42-b1d2-45ad-b234-819945803899,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+26520d32-7ce5-436f-9642-a7a34228cf6a,2020-03-04,2020-03-04,926e19fc-91c5-4509-abf8-a43d1812d00c,089137c3-d757-4b96-bca7-155bb7e15f9a,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+08bb2d88-3b03-49ac-b03f-79a25127c957,2020-03-10,2020-03-10,508be4ab-12a4-412f-8e3a-fb999f02926a,4975db8d-88d5-4aa3-8d6d-909c303c73dc,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e4228a0b-a9bb-4319-a2de-098255eaa535,2020-02-28,2020-02-28,70f8e0be-bf40-463b-aba8-9775037335ad,5315c10f-c277-4d21-b485-c31ab1ced5de,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+120e7b0e-98c3-4e99-a194-ae56af505ca5,2020-03-05,2020-03-23,a7a40f50-8d41-4ee8-af84-26980486d663,41fd7468-7ec5-4f1f-b511-e078939ce1df,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+085c60e1-8253-4eee-bd94-d41f02de3620,2020-03-11,2020-03-11,f5ca6edd-ab97-4854-b81f-5639b7f6e539,18483fb1-9663-42d5-b6ca-a055b7818f47,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+e614e720-b3ae-4030-834f-502aa1b0d7c6,1938-11-05,,def9fdca-810a-40de-8487-aed49de9e09e,2585ecfa-1512-491b-8b3b-25170d7a8e5b,384758001,Self-care interventions (procedure),,
+dca039a6-6be6-4812-92d6-85f572e5faba,2020-03-03,2020-03-04,abfe7f17-59b7-4573-84a3-2ab244d4a1f5,4de17b6b-1661-4815-82c4-afc16f9d2d42,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+f9746e44-01d9-4113-a999-deb66d162adf,1964-09-10,,04933b57-6ccf-4dc4-8eb0-a82151eb9d4e,5031ca46-8c8f-485a-8c5f-a30cddc2624a,384758001,Self-care interventions (procedure),,
+d876b1e5-c4b9-4885-91e1-21074bc73187,2020-03-03,2020-03-03,b4a3c93e-c587-47d3-808e-ba874b001439,198fb013-89ab-49c7-9ac5-7d29194eac4f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+93543ac6-6166-45e3-b444-f671ab8773e5,1993-11-22,,b2f6f259-b853-4649-b7a1-77f402486e51,55b4b052-7b64-4f24-a3d9-6e28dd7b876f,699728000,Asthma self management,233678006.0,Childhood asthma
+47b07dd9-2dc0-43fc-9bb8-a830850b48a1,2020-03-09,2020-03-09,1346c4db-d78f-41b2-a59f-f2004103eba7,d90c8af6-9075-4862-a86a-fe1f3e58d20c,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+74c8e386-1173-4110-be9c-b549368358da,1999-05-26,,c2c0bfdf-f05d-4cec-85e0-5837ada3a0fa,457ebcd3-1592-4242-97cf-ea0c429c7057,736285004,Hyperlipidemia clinical management plan,55822004.0,Hyperlipidemia
+a147d06c-0418-413b-8089-2d0b7fd6f441,2020-02-26,2020-02-26,360ceb1f-8de7-43fc-b411-fb1abdf91d3f,8682f964-4fb3-4c55-b233-1d43037c3652,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+1e4d4088-bc4e-4a1d-a9f8-ae0a5f79bc9e,2020-02-25,2020-02-25,32bd7054-bae0-405a-843c-f92b3d1906f4,04b72821-6bc6-4dae-92c3-554bebdc0764,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+3b6900ec-bf31-46a7-8fec-8f390b975c25,2020-03-03,2020-03-24,5f8218b7-678e-4617-98c8-096c8b43435d,e1365b22-da87-479a-a932-6c25a94f6fe0,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+434f3014-581a-4c18-95cd-f429c3288f49,2020-03-12,2020-03-12,cedff703-5e90-4471-9f3f-098bc680ed26,89134f66-77f7-4d60-b4d5-ea7501cb9199,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+13d75727-3459-4635-bf0c-81130026a826,2019-08-30,2020-04-10,ffd86fda-ebb9-400e-9fe3-ea1a1037dbad,20eb5136-9003-49b9-86c9-ead8257c7750,134435003,Routine antenatal care,72892002.0,Normal pregnancy
+81443818-509e-4063-a262-beafa6c403f6,1989-07-15,,8759bfd3-afc2-48c9-a397-038577c1ea28,9717127a-46e0-4b6e-a4e4-2d184a75d51b,384758001,Self-care interventions (procedure),,
+c0bf0b0e-c621-44d7-892d-7d99e5cfa2b6,1981-01-14,1981-04-01,0ac7d7f8-e47c-450a-a4a0-5b878855ada4,f7787485-cf47-44a1-af2d-1a5db9f1b1ce,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+e7e72c16-a490-407d-a549-0b060a353887,2013-12-26,,302e3adc-cae1-4b6f-8364-936051755d7d,1ec3a4c2-20f4-40f1-9c07-e17898ac2504,698360004,Diabetes self management plan,15777000.0,Prediabetes
+a35d3bb5-e647-4c85-9592-ba2e5fd893e2,2020-03-07,2020-03-07,8466c90f-a3da-4712-8a7b-a31b40fd6aa1,158e5c2a-2358-44c9-af38-878d38d12a83,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+5d827075-f7b5-43ec-ae71-8c9c27394c06,2020-03-04,2020-03-04,865d5097-6555-43b4-9cb6-a8663dfd21a9,3eccb4b3-fe67-42ae-8ef0-880a56e8e3b8,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+dceed243-f4c4-4f0c-90e4-81ff4c264504,2020-02-24,2020-02-24,d626eb3f-4662-45c6-8b53-ab815bef0df0,6e6a8e46-2f96-4900-873a-b5811f08ad41,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+4d830159-64ec-4e99-a534-37563481dbf7,1995-02-08,,b1db283c-027f-43ff-bd2f-0177a1ddb1f9,e4536fdf-4373-4afa-b130-9f941d788929,698360004,Diabetes self management plan,15777000.0,Prediabetes
+80b633d1-e837-48fa-b5a5-2658e5c51991,2020-03-05,2020-03-21,2dac1e2a-4e77-4bb0-b23c-d7426bc07088,d711a626-3b23-4fdd-ae92-a1c54fa3246f,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+43438ebb-e708-4d26-97d2-9775b7bc224b,2013-04-27,,59af8070-732e-4822-ae43-5fdd69fe2b7a,79a37e27-b2bd-4935-b1f0-45609ce92abc,408869004,Musculoskeletal care,239873007.0,Osteoarthritis of knee
+0b19fbde-8819-457a-93d6-307f9107dafc,2014-05-30,,0052832b-bbb5-4dfd-85a6-4867f05a5a89,7c33bd62-3a4a-4d88-a8af-8e43dd2385fe,384758001,Self-care interventions (procedure),,
+aa501e43-ad07-4b2d-8b61-dc060ccaa05a,1987-05-22,,197665f6-2fdd-45c1-bd90-e19e5f66e56e,9a727edc-f1f5-431d-8248-6c94d2c50889,443402002,Lifestyle education regarding hypertension,59621000.0,Hypertension
+33c0517e-5883-4bd8-8a5b-69cb294ad929,2020-03-09,2020-03-09,990c59eb-4ecc-4f83-820c-cc28176d0e40,6fc59790-4f8a-41d1-ae93-d5215ea87356,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+2e4c02bb-6288-4819-b5af-cd3b7d0df648,1998-03-25,,661d0042-94a3-4260-8ea0-30cceeb9ab43,2b946096-58d8-4288-a7cf-c4ca717612bb,384758001,Self-care interventions (procedure),,
+b7ccdb48-df4c-4859-868f-219288ccbd79,2020-02-22,2020-02-22,c3d787ca-5f31-4e96-b061-328268fdb22c,832f41f8-69a8-41d5-bc91-86137a42a6a1,736376001,Infectious disease care plan (record artifact),840544004.0,Suspected COVID-19
+b814b1d7-cc4e-4ccb-bc81-d84e54a2fa03,1996-06-22,,f06ae82e-30ff-4c05-9d70-848843dc6ca9,4b3155d7-de8b-4170-b92c-b5ca09d41c29,384758001,Self-care interventions (procedure),,
+badbf138-b555-4f28-9fac-9b69dc2eecf5,2018-11-13,2020-03-14,6ee12582-18b7-4e6f-9abe-3f5b1869039b,4025c072-0855-424d-978c-9511faf5cc76,53950000,Respiratory therapy,10509002.0,Acute bronchitis (disorder)
+9628629f-6de4-4acf-9858-7f64d6b91b9c,2011-05-19,,a365f74b-7717-4e27-b018-ac7cb5adfd00,5574e178-d491-42a1-855a-ef7584b1e600,698360004,Diabetes self management plan,15777000.0,Prediabetes
+138971fd-7e7d-4471-9360-a511a4d8bedc,2019-06-03,2019-08-02,931b4923-3ccd-4f0a-a001-c338b64e46ec,1b9a02c2-3f28-4fa5-b9d3-ee33dd5ac3bf,47387005,Head injury rehabilitation,62106007.0,Concussion with no loss of consciousness
