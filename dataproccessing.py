@@ -45,8 +45,9 @@ def merge_csv(file_path, prefix):
 
 careplans_df = merge_csv('10k_synthea_covid19_csv/careplans.csv', 'careplans')
 merged_df = dd.merge(allergies_df, careplans_df, on="PATIENT", how="outer")
-
 print("HERE1")
+
+
 conditions_df = merge_csv('10k_synthea_covid19_csv/conditions.csv', 'conditions')
 merged_df = dd.merge(merged_df, conditions_df, on="PATIENT", how="outer")
 print("HERE2")
