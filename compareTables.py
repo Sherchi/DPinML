@@ -35,8 +35,8 @@ def compare_tables(file1, file2):
 
 # Example Usage
 # Compare two CSV files
-file1 = "Processed/noisy_allergies.csv"
-file2 = "Processed/processed_allergies.csv"
+file1 = "Processed/noisy_conditions.csv"
+file2 = "Processed/processed_conditions.csv"
 
 percentage_match = compare_tables(file1, file2)
 print(f"Percentage of matching values: {percentage_match:.2f}%")
