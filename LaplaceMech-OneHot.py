@@ -32,23 +32,25 @@ def laplace_mechanism(df, epsilon, sensitivity=1, one_hot_columns=None):
 # Example usage:
 if __name__ == "__main__":
     df_allergies = dd.read_csv('Processed/processed_allergies.csv')
-    df_careplans = dd.read_csv('Processed/processed_careplans.csv')
     df_conditions = dd.read_csv('Processed/processed_conditions.csv')
     df_immunizations = dd.read_csv('Processed/processed_immunizations.csv')
-    df_medications = dd.read_csv('Processed/processed_medications.csv')
-    df_observations = dd.read_csv('Processed/processed_observations.csv')
 
+
+# UNCOMMENT WHICHEVER ONE YOU WANT TO MODIFY
     df_list = {
         #"allergies": df_allergies,
-        "conditions": df_conditions,
+        #"conditions": df_conditions,
         #"immunizations": df_immunizations,
     }
 
     for name, df in df_list.items():
         # Remove ID value
         df_splice = df.iloc[:, 1:]
+#=================================================================================
 
         epsilon = 5
+
+#=================================================================================
 
         if name == "careplans":
             one_hot_columns = list(df_splice.columns)  # Change based on what columns you want to be one-hot

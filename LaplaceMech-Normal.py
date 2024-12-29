@@ -24,9 +24,11 @@ def apply_laplace_randomization(file_path, epsilon, sensitivity=1):
 
     return df
 
-# Example usage
+#=================================================================================
 file_path = 'Processed/processed_medications.csv'
 epsilon = 0.5  # Adjust the epsilon value as needed
+#=================================================================================
+
 
 randomized_df = apply_laplace_randomization(file_path, epsilon)
 

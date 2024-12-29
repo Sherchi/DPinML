@@ -52,10 +52,12 @@ def process_csv(file_path, epsilon_laplace, epsilon_exponential, sensitivity=1):
 
     return df
 
-# Example usage
 file_path = 'Processed/processed_observations.csv'
+
+#=================================================================================
 epsilon_laplace = 0.5  # Adjust the Laplace epsilon value
 epsilon_exponential = 1.0  # Adjust the Exponential Mechanism epsilon value
+#=================================================================================
 
 processed_df = process_csv(file_path, epsilon_laplace, epsilon_exponential)
 
