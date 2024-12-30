@@ -1,0 +1,439 @@
+Column,Original Value,Encoded Value
+RACE,white,1
+RACE,native,2
+RACE,asian,3
+RACE,black,4
+RACE,other,5
+MARITAL,S,1
+MARITAL,M,2
+ETHNICITY,nonhispanic,1
+ETHNICITY,hispanic,2
+GENDER,M,1
+GENDER,F,2
+BIRTHPLACE,Beverly  Massachusetts  US,1
+BIRTHPLACE,Boston  Massachusetts  US,2
+BIRTHPLACE,Springfield  Massachusetts  US,3
+BIRTHPLACE,Worcester  Massachusetts  US,4
+BIRTHPLACE,Patras  Achaea  GR,5
+BIRTHPLACE,New Bedford  Massachusetts  US,6
+BIRTHPLACE,Danvers  Massachusetts  US,7
+BIRTHPLACE,Marigot  Saint Andrew Parish  DM,8
+BIRTHPLACE,Belmont  Massachusetts  US,9
+BIRTHPLACE,Plymouth  Massachusetts  US,10
+BIRTHPLACE,Yarmouth  Massachusetts  US,11
+BIRTHPLACE,Santiago  Santiago Province  CL,12
+BIRTHPLACE,Fall River  Massachusetts  US,13
+BIRTHPLACE,Bellingham  Massachusetts  US,14
+BIRTHPLACE,Agawam  Massachusetts  US,15
+BIRTHPLACE,Lee  Massachusetts  US,16
+BIRTHPLACE,Arlington  Massachusetts  US,17
+BIRTHPLACE,Watertown  Massachusetts  US,18
+BIRTHPLACE,Hopkinton  Massachusetts  US,19
+BIRTHPLACE,Portsmouth  Saint John Parish  DM,20
+BIRTHPLACE,San Jose  San Jose  CR,21
+BIRTHPLACE,Pembroke  Massachusetts  US,22
+BIRTHPLACE,Holyoke  Massachusetts  US,23
+BIRTHPLACE,Lynn  Massachusetts  US,24
+BIRTHPLACE,Somerville  Massachusetts  US,25
+BIRTHPLACE,Dedham  Massachusetts  US,26
+BIRTHPLACE,Billerica  Massachusetts  US,27
+BIRTHPLACE,Beijing  Beijing Municipality  CN,28
+BIRTHPLACE,Waltham  Massachusetts  US,29
+BIRTHPLACE,Quincy  Massachusetts  US,30
+BIRTHPLACE,Dighton  Massachusetts  US,31
+BIRTHPLACE,Wilbraham  Massachusetts  US,32
+BIRTHPLACE,Chicopee  Massachusetts  US,33
+BIRTHPLACE,Winthrop  Massachusetts  US,34
+BIRTHPLACE,Granby  Massachusetts  US,35
+BIRTHPLACE,Woburn  Massachusetts  US,36
+BIRTHPLACE,Cambridge  Massachusetts  US,37
+BIRTHPLACE,Rochester  Massachusetts  US,38
+BIRTHPLACE,Lawrence  Massachusetts  US,39
+BIRTHPLACE,Framingham  Massachusetts  US,40
+BIRTHPLACE,Leominster  Massachusetts  US,41
+BIRTHPLACE,Barnstable  Massachusetts  US,42
+BIRTHPLACE,Medford  Massachusetts  US,43
+BIRTHPLACE,Pittsfield  Massachusetts  US,44
+BIRTHPLACE,Granville  Massachusetts  US,45
+BIRTHPLACE,Sandwich  Massachusetts  US,46
+BIRTHPLACE,Puebla  Puebla  MX,47
+BIRTHPLACE,Winchester  Massachusetts  US,48
+BIRTHPLACE,Stoneham  Massachusetts  US,49
+BIRTHPLACE,Norwell  Massachusetts  US,50
+BIRTHPLACE,Natick  Massachusetts  US,51
+BIRTHPLACE,Hopedale  Massachusetts  US,52
+BIRTHPLACE,Ipswich  Massachusetts  US,53
+BIRTHPLACE,Easthampton  Massachusetts  US,54
+BIRTHPLACE,Merrimac  Massachusetts  US,55
+BIRTHPLACE,Amherst  Massachusetts  US,56
+BIRTHPLACE,Brockton  Massachusetts  US,57
+BIRTHPLACE,Rockport  Massachusetts  US,58
+BIRTHPLACE,Chelsea  Massachusetts  US,59
+BIRTHPLACE,Swansea  Massachusetts  US,60
+BIRTHPLACE,Marshfield  Massachusetts  US,61
+BIRTHPLACE,Andover  Massachusetts  US,62
+BIRTHPLACE,Falmouth  Massachusetts  US,63
+BIRTHPLACE,Santiago de los Caballeros  Santiago  DO,64
+BIRTHPLACE,Stow  Massachusetts  US,65
+BIRTHPLACE,Groton  Massachusetts  US,66
+BIRTHPLACE,Marblehead  Massachusetts  US,67
+BIRTHPLACE,Auburn  Massachusetts  US,68
+BIRTHPLACE,Maynard  Massachusetts  US,69
+BIRTHPLACE,Hong Kong  Hong Kong Special Administrative Region  CN,70
+BIRTHPLACE,Greenfield  Massachusetts  US,71
+BIRTHPLACE,Lowell  Massachusetts  US,72
+BIRTHPLACE,Abington  Massachusetts  US,73
+BIRTHPLACE,La Paz  Baja California  MX,74
+BIRTHPLACE,Duxbury  Massachusetts  US,75
+BIRTHPLACE,Hamilton  Massachusetts  US,76
+BIRTHPLACE,Charlton  Massachusetts  US,77
+BIRTHPLACE,Taunton  Massachusetts  US,78
+BIRTHPLACE,Gardner  Massachusetts  US,79
+BIRTHPLACE,Ashland  Massachusetts  US,80
+BIRTHPLACE,Westport  Massachusetts  US,81
+BIRTHPLACE,Saugus  Massachusetts  US,82
+BIRTHPLACE,Blackstone  Massachusetts  US,83
+BIRTHPLACE,Hanoi  Hà Đông  VN,84
+BIRTHPLACE,Chelmsford  Massachusetts  US,85
+BIRTHPLACE,Oxford  Massachusetts  US,86
+BIRTHPLACE,Harvard  Massachusetts  US,87
+BIRTHPLACE,Spencer  Massachusetts  US,88
+BIRTHPLACE,Whitman  Massachusetts  US,89
+BIRTHPLACE,Hingham  Massachusetts  US,90
+BIRTHPLACE,Everett  Massachusetts  US,91
+BIRTHPLACE,North Reading  Massachusetts  US,92
+BIRTHPLACE,Attleboro  Massachusetts  US,93
+BIRTHPLACE,Northampton  Massachusetts  US,94
+BIRTHPLACE,Dracut  Massachusetts  US,95
+BIRTHPLACE,Newburyport  Massachusetts  US,96
+BIRTHPLACE,Fitchburg  Massachusetts  US,97
+BIRTHPLACE,Concord  Massachusetts  US,98
+BIRTHPLACE,Sharon  Massachusetts  US,99
+BIRTHPLACE,Barre  Massachusetts  US,100
+BIRTHPLACE,Carver  Massachusetts  US,101
+BIRTHPLACE,Holbrook  Massachusetts  US,102
+BIRTHPLACE,St Petersburg  St Petersburg  RU,103
+BIRTHPLACE,Milton  Massachusetts  US,104
+BIRTHPLACE,Newton  Massachusetts  US,105
+BIRTHPLACE,Revere  Massachusetts  US,106
+BIRTHPLACE,West Springfield  Massachusetts  US,107
+BIRTHPLACE,Westfield  Massachusetts  US,108
+BIRTHPLACE,Melrose  Massachusetts  US,109
+BIRTHPLACE,Belchertown  Massachusetts  US,110
+BIRTHPLACE,Cohasset  Massachusetts  US,111
+BIRTHPLACE,Salisbury  Massachusetts  US,112
+BIRTHPLACE,Holliston  Massachusetts  US,113
+BIRTHPLACE,Westford  Massachusetts  US,114
+BIRTHPLACE,Malden  Massachusetts  US,115
+BIRTHPLACE,Mansfield  Massachusetts  US,116
+BIRTHPLACE,Weymouth  Massachusetts  US,117
+BIRTHPLACE,Wilmington  Massachusetts  US,118
+BIRTHPLACE,Brookline  Massachusetts  US,119
+BIRTHPLACE,Swampscott  Massachusetts  US,120
+BIRTHPLACE,Needham  Massachusetts  US,121
+BIRTHPLACE,Sturbridge  Massachusetts  US,122
+BIRTHPLACE,Peabody  Massachusetts  US,123
+BIRTHPLACE,Haverhill  Massachusetts  US,124
+BIRTHPLACE,Ashby  Massachusetts  US,125
+BIRTHPLACE,Milford  Massachusetts  US,126
+BIRTHPLACE,Wakefield  Massachusetts  US,127
+BIRTHPLACE,Carlisle  Massachusetts  US,128
+BIRTHPLACE,Shanghai  Shanghai Municipality  CN,129
+BIRTHPLACE,Reading  Massachusetts  US,130
+BIRTHPLACE,Dartmouth  Massachusetts  US,131
+BIRTHPLACE,Templeton  Massachusetts  US,132
+BIRTHPLACE,Clinton  Massachusetts  US,133
+BIRTHPLACE,Walpole  Massachusetts  US,134
+BIRTHPLACE,Toulouse  Occitanie  FR,135
+BIRTHPLACE,Raynham  Massachusetts  US,136
+BIRTHPLACE,Ware  Massachusetts  US,137
+BIRTHPLACE,Mexico City  Mexico City  MX,138
+BIRTHPLACE,Ahmedabad  Gujarat  IN,139
+BIRTHPLACE,Rehoboth  Massachusetts  US,140
+BIRTHPLACE,Grafton  Massachusetts  US,141
+BIRTHPLACE,Bangalore  Karnataka  IN,142
+BIRTHPLACE,Mashpee  Massachusetts  US,143
+BIRTHPLACE,Athol  Massachusetts  US,144
+BIRTHPLACE,Guatemala City  Guatemala  GT,145
+BIRTHPLACE,Caracas  Capital District  VE,146
+BIRTHPLACE,Turin  Piedmont  IT,147
+BIRTHPLACE,Ponce  Puerto Rico  PR,148
+BIRTHPLACE,Northbridge  Massachusetts  US,149
+BIRTHPLACE,East Longmeadow  Massachusetts  US,150
+BIRTHPLACE,Orange  Massachusetts  US,151
+BIRTHPLACE,South Hadley  Massachusetts  US,152
+BIRTHPLACE,Wrentham  Massachusetts  US,153
+BIRTHPLACE,San Salvador  El Salvador  SV,154
+BIRTHPLACE,Webster  Massachusetts  US,155
+BIRTHPLACE,Easton  Massachusetts  US,156
+BIRTHPLACE,Delhi  Delhi  IN,157
+BIRTHPLACE,Boxford  Massachusetts  US,158
+BIRTHPLACE,Seoul  Seoul  KR,159
+BIRTHPLACE,Burlington  Massachusetts  US,160
+BIRTHPLACE,Dennis  Massachusetts  US,161
+BIRTHPLACE,Westwood  Massachusetts  US,162
+BIRTHPLACE,Mumbai  Maharashtra  IN,163
+BIRTHPLACE,Pepperell  Massachusetts  US,164
+BIRTHPLACE,Montague  Massachusetts  US,165
+BIRTHPLACE,Seekonk  Massachusetts  US,166
+BIRTHPLACE,Upton  Massachusetts  US,167
+BIRTHPLACE,Stoughton  Massachusetts  US,168
+BIRTHPLACE,Oakham  Massachusetts  US,169
+BIRTHPLACE,Medfield  Massachusetts  US,170
+BIRTHPLACE,North Attleborough  Massachusetts  US,171
+BIRTHPLACE,Somerset  Massachusetts  US,172
+BIRTHPLACE,Hyderabad  Andhra Pradesh  IN,173
+BIRTHPLACE,Palmer  Massachusetts  US,174
+BIRTHPLACE,Sterling  Massachusetts  US,175
+BIRTHPLACE,North Brookfield  Massachusetts  US,176
+BIRTHPLACE,Harwich  Massachusetts  US,177
+BIRTHPLACE,Braintree  Massachusetts  US,178
+BIRTHPLACE,Great Barrington  Massachusetts  US,179
+BIRTHPLACE,Lexington  Massachusetts  US,180
+BIRTHPLACE,Sudbury  Massachusetts  US,181
+BIRTHPLACE,Rutland  Massachusetts  US,182
+BIRTHPLACE,Kingston  Massachusetts  US,183
+BIRTHPLACE,San Juan  Puerto Rico  PR,184
+BIRTHPLACE,Haiphong  Kiến An  VN,185
+BIRTHPLACE,Dudley  Massachusetts  US,186
+BIRTHPLACE,Leverett  Massachusetts  US,187
+BIRTHPLACE,Wellesley  Massachusetts  US,188
+BIRTHPLACE,Williamstown  Massachusetts  US,189
+BIRTHPLACE,Southwick  Massachusetts  US,190
+BIRTHPLACE,Ludlow  Massachusetts  US,191
+BIRTHPLACE,Otis  Massachusetts  US,192
+BIRTHPLACE,Middleborough  Massachusetts  US,193
+BIRTHPLACE,Boylston  Massachusetts  US,194
+BIRTHPLACE,Littleton  Massachusetts  US,195
+BIRTHPLACE,Foxborough  Massachusetts  US,196
+BIRTHPLACE,Hudson  Massachusetts  US,197
+BIRTHPLACE,Lynnfield  Massachusetts  US,198
+BIRTHPLACE,Phillipston  Massachusetts  US,199
+BIRTHPLACE,Tyngsborough  Massachusetts  US,200
+BIRTHPLACE,Northborough  Massachusetts  US,201
+BIRTHPLACE,Busan  Busan  KR,202
+BIRTHPLACE,Shrewsbury  Massachusetts  US,203
+BIRTHPLACE,Wesley  Saint Andrew Parish  DM,204
+BIRTHPLACE,Medway  Massachusetts  US,205
+BIRTHPLACE,Millis  Massachusetts  US,206
+BIRTHPLACE,Sutton  Massachusetts  US,207
+BIRTHPLACE,Canton  Massachusetts  US,208
+BIRTHPLACE,Juarez  Chihuahua  MX,209
+BIRTHPLACE,Brookfield  Massachusetts  US,210
+BIRTHPLACE,Montgomery  Massachusetts  US,211
+BIRTHPLACE,Carolina  Puerto Rico  PR,212
+BIRTHPLACE,Santo Domingo  National District  DO,213
+BIRTHPLACE,Avon  Massachusetts  US,214
+BIRTHPLACE,Leicester  Massachusetts  US,215
+BIRTHPLACE,Southborough  Massachusetts  US,216
+BIRTHPLACE,Mattapoisett  Massachusetts  US,217
+BIRTHPLACE,Westborough  Massachusetts  US,218
+BIRTHPLACE,Kingston  Kingston  JM,219
+BIRTHPLACE,North Adams  Massachusetts  US,220
+BIRTHPLACE,Salem  Massachusetts  US,221
+BIRTHPLACE,Panama City  Panama  PA,222
+BIRTHPLACE,Southbridge  Massachusetts  US,223
+BIRTHPLACE,Franklin  Massachusetts  US,224
+BIRTHPLACE,Norwood  Massachusetts  US,225
+BIRTHPLACE,Acton  Massachusetts  US,226
+BIRTHPLACE,Fairhaven  Massachusetts  US,227
+BIRTHPLACE,Tewksbury  Massachusetts  US,228
+BIRTHPLACE,Lancaster  Massachusetts  US,229
+BIRTHPLACE,Chongqing  Chongqing Municipality  CN,230
+BIRTHPLACE,Scituate  Massachusetts  US,231
+BIRTHPLACE,Rockland  Massachusetts  US,232
+BIRTHPLACE,Caguas  Puerto Rico  PR,233
+BIRTHPLACE,Holden  Massachusetts  US,234
+BIRTHPLACE,Marion  Massachusetts  US,235
+BIRTHPLACE,North Andover  Massachusetts  US,236
+BIRTHPLACE,Hanson  Massachusetts  US,237
+BIRTHPLACE,Gloucester  Massachusetts  US,238
+BIRTHPLACE,Lincoln  Massachusetts  US,239
+BIRTHPLACE,Palermo  Sicily  IT,240
+BIRTHPLACE,Wareham  Massachusetts  US,241
+BIRTHPLACE,Berkley  Massachusetts  US,242
+BIRTHPLACE,Plainville  Massachusetts  US,243
+BIRTHPLACE,Methuen  Massachusetts  US,244
+BIRTHPLACE,Norton  Massachusetts  US,245
+BIRTHPLACE,Lima  Lima Province  PE,246
+BIRTHPLACE,Frankfurt  Hesse  DE,247
+BIRTHPLACE,Lunenburg  Massachusetts  US,248
+BIRTHPLACE,Dover  Massachusetts  US,249
+BIRTHPLACE,Acushnet  Massachusetts  US,250
+BIRTHPLACE,Freetown  Massachusetts  US,251
+BIRTHPLACE,Chatham  Massachusetts  US,252
+BIRTHPLACE,Newbury  Massachusetts  US,253
+BIRTHPLACE,Marlborough  Massachusetts  US,254
+BIRTHPLACE,Uxbridge  Massachusetts  US,255
+BIRTHPLACE,West Stockbridge  Massachusetts  US,256
+BIRTHPLACE,Amesbury  Massachusetts  US,257
+BIRTHPLACE,Winchendon  Massachusetts  US,258
+BIRTHPLACE,Boxborough  Massachusetts  US,259
+BIRTHPLACE,Marseille  Provence-Alpes-Cote d'Azur  FR,260
+BIRTHPLACE,Warren  Massachusetts  US,261
+BIRTHPLACE,Millbury  Massachusetts  US,262
+BIRTHPLACE,Eastham  Massachusetts  US,263
+BIRTHPLACE,Milan  Lombardy  IT,264
+BIRTHPLACE,Tokyo  Tokyo  JP,265
+BIRTHPLACE,Bayamon  Puerto Rico  PR,266
+BIRTHPLACE,Tegucigalpa  Francisco Morazán  HN,267
+BIRTHPLACE,Monson  Massachusetts  US,268
+BIRTHPLACE,Longmeadow  Massachusetts  US,269
+BIRTHPLACE,Adams  Massachusetts  US,270
+BIRTHPLACE,West Boylston  Massachusetts  US,271
+BIRTHPLACE,Munich  Bavaria  DE,272
+BIRTHPLACE,Macau  Macao Special Administrative Region of the People's Republic of China  CN,273
+BIRTHPLACE,Rome  Lazio  IT,274
+BIRTHPLACE,Tisbury  Massachusetts  US,275
+BIRTHPLACE,Roseau  Saint George  DM,276
+BIRTHPLACE,Essex  Massachusetts  US,277
+BIRTHPLACE,Wayland  Massachusetts  US,278
+BIRTHPLACE,Bridgewater  Massachusetts  US,279
+BIRTHPLACE,Douglas  Massachusetts  US,280
+BIRTHPLACE,Nizhny Novgorod  Nizhny Novgorod Oblast  RU,281
+BIRTHPLACE,Bogota  Bogota  CO,282
+BIRTHPLACE,Conway  Massachusetts  US,283
+BIRTHPLACE,Bourne  Massachusetts  US,284
+BIRTHPLACE,Nantucket  Massachusetts  US,285
+BIRTHPLACE,Brewster  Massachusetts  US,286
+BIRTHPLACE,Gaudalajara  Jalisco  MX,287
+BIRTHPLACE,Chester  Massachusetts  US,288
+BIRTHPLACE,West Tisbury  Massachusetts  US,289
+BIRTHPLACE,Hanover  Massachusetts  US,290
+BIRTHPLACE,Charlemont  Massachusetts  US,291
+BIRTHPLACE,Georgetown  Massachusetts  US,292
+BIRTHPLACE,Weston  Massachusetts  US,293
+BIRTHPLACE,Ho Chi Minh City  Gia Định  VN,294
+BIRTHPLACE,Buckland  Massachusetts  US,295
+BIRTHPLACE,Plympton  Massachusetts  US,296
+BIRTHPLACE,Townsend  Massachusetts  US,297
+BIRTHPLACE,Bolton  Massachusetts  US,298
+BIRTHPLACE,New Salem  Massachusetts  US,299
+BIRTHPLACE,Oak Bluffs  Massachusetts  US,300
+BIRTHPLACE,Westhampton  Massachusetts  US,301
+BIRTHPLACE,Monterey  Massachusetts  US,302
+BIRTHPLACE,Dalton  Massachusetts  US,303
+BIRTHPLACE,Lakeville  Massachusetts  US,304
+BIRTHPLACE,Sheffield  Massachusetts  US,305
+BIRTHPLACE,Clarksburg  Massachusetts  US,306
+BIRTHPLACE,Hull  Massachusetts  US,307
+BIRTHPLACE,Daegu  Daegu  KR,308
+BIRTHPLACE,Russell  Massachusetts  US,309
+BIRTHPLACE,Southampton  Massachusetts  US,310
+BIRTHPLACE,Randolph  Massachusetts  US,311
+BIRTHPLACE,Edgartown  Massachusetts  US,312
+BIRTHPLACE,Cantho  Cần Thơ  VN,313
+BIRTHPLACE,Middleton  Massachusetts  US,314
+BIRTHPLACE,Wenham  Massachusetts  US,315
+BIRTHPLACE,Manchester-by-the-Sea  Massachusetts  US,316
+BIRTHPLACE,Thessaloniki  Thessaloniki Prefecture  GR,317
+BIRTHPLACE,Norfolk  Massachusetts  US,318
+BIRTHPLACE,Yekaterinburg  Sverdlovsk Oblast  RU,319
+BIRTHPLACE,Wellfleet  Massachusetts  US,320
+BIRTHPLACE,Halifax  Massachusetts  US,321
+BIRTHPLACE,Paris  Ile-de-France  FR,322
+BIRTHPLACE,Groveland  Massachusetts  US,323
+BIRTHPLACE,Whately  Massachusetts  US,324
+BIRTHPLACE,Hatfield  Massachusetts  US,325
+BIRTHPLACE,Havana  Havana  CU,326
+BIRTHPLACE,Richmond  Massachusetts  US,327
+BIRTHPLACE,Nagoya   Aichi  JP,328
+BIRTHPLACE,Bedford  Massachusetts  US,329
+BIRTHPLACE,Moscow  Moscow  RU,330
+BIRTHPLACE,Mendon  Massachusetts  US,331
+BIRTHPLACE,Warwick  Massachusetts  US,332
+BIRTHPLACE,Deerfield  Massachusetts  US,333
+BIRTHPLACE,Buenos Aires  Ciudad de Buenos Aires  AR,334
+BIRTHPLACE,Lyon  Auvergne-Rhone-Alpes  FR,335
+BIRTHPLACE,Ayer  Massachusetts  US,336
+BIRTHPLACE,West Brookfield  Massachusetts  US,337
+BIRTHPLACE,Ashburnham  Massachusetts  US,338
+BIRTHPLACE,Princeton  Massachusetts  US,339
+BIRTHPLACE,Hampden  Massachusetts  US,340
+BIRTHPLACE,Brimfield  Massachusetts  US,341
+BIRTHPLACE,Hancock  Massachusetts  US,342
+BIRTHPLACE,Novosibirsk  Novosibirsk Oblast  RU,343
+BIRTHPLACE,Gill  Massachusetts  US,344
+BIRTHPLACE,Erving  Massachusetts  US,345
+BIRTHPLACE,Egremont  Massachusetts  US,346
+BIRTHPLACE,Lanesborough  Massachusetts  US,347
+BIRTHPLACE,East Bridgewater  Massachusetts  US,348
+BIRTHPLACE,Warsaw  Masovian  PL,349
+BIRTHPLACE,Yokohama  Kanagawa  JP,350
+BIRTHPLACE,Salisbury  Saint Joseph Parish  DM,351
+BIRTHPLACE,Orleans  Massachusetts  US,352
+BIRTHPLACE,Shirley  Massachusetts  US,353
+BIRTHPLACE,Shelburne  Massachusetts  US,354
+BIRTHPLACE,Petersham  Massachusetts  US,355
+BIRTHPLACE,Westminster  Massachusetts  US,356
+BIRTHPLACE,Millville  Massachusetts  US,357
+BIRTHPLACE,Provincetown  Massachusetts  US,358
+BIRTHPLACE,Hubbardston  Massachusetts  US,359
+BIRTHPLACE,Lenox  Massachusetts  US,360
+BIRTHPLACE,Northfield  Massachusetts  US,361
+BIRTHPLACE,Rowley  Massachusetts  US,362
+BIRTHPLACE,Sherborn  Massachusetts  US,363
+BIRTHPLACE,Washington  Massachusetts  US,364
+BIRTHPLACE,Hinsdale  Massachusetts  US,365
+BIRTHPLACE,Nice  Provence-Alpes-Cote d'Azur  FR,366
+BIRTHPLACE,West Bridgewater  Massachusetts  US,367
+BIRTHPLACE,Topsfield  Massachusetts  US,368
+BIRTHPLACE,Shutesbury  Massachusetts  US,369
+BIRTHPLACE,Paxton  Massachusetts  US,370
+BIRTHPLACE,East Brookfield  Massachusetts  US,371
+BIRTHPLACE,Nahant  Massachusetts  US,372
+BIRTHPLACE,Royalston  Massachusetts  US,373
+BIRTHPLACE,Bernardston  Massachusetts  US,374
+BIRTHPLACE,Hadley  Massachusetts  US,375
+BIRTHPLACE,Port-au-Prince  Haiti  HT,376
+BIRTHPLACE,New Marlborough  Massachusetts  US,377
+BIRTHPLACE,Osaka  Osaka  JP,378
+BIRTHPLACE,Larissa  Larissa Prefecture  GR,379
+BIRTHPLACE,Dunstable  Massachusetts  US,380
+BIRTHPLACE,Becket  Massachusetts  US,381
+BIRTHPLACE,Cheshire  Massachusetts  US,382
+BIRTHPLACE,Williamsburg  Massachusetts  US,383
+BIRTHPLACE,Cologne  North Rhine-Westphalia  DE,384
+BIRTHPLACE,Kraków  Lesser Poland  PL,385
+BIRTHPLACE,Wales  Massachusetts  US,386
+BIRTHPLACE,Berlin  Berlin  DE,387
+BIRTHPLACE,Tyringham  Massachusetts  US,388
+BIRTHPLACE,Windsor  Massachusetts  US,389
+BIRTHPLACE,Middlefield  Massachusetts  US,390
+BIRTHPLACE,Incheon  Incheon  KR,391
+BIRTHPLACE,Worthington  Massachusetts  US,392
+BIRTHPLACE,West Newbury  Massachusetts  US,393
+BIRTHPLACE,Salvador  Bahia  BR,394
+BIRTHPLACE,Funchal  Madeira  PT,395
+BIRTHPLACE,Tolland  Massachusetts  US,396
+BIRTHPLACE,Sunderland  Massachusetts  US,397
+BIRTHPLACE,Ashfield  Massachusetts  US,398
+BIRTHPLACE,Pelham  Massachusetts  US,399
+BIRTHPLACE,Athens  Athens Prefecture  GR,400
+BIRTHPLACE,Hamburg  Hamburg  DE,401
+BIRTHPLACE,Cummington  Massachusetts  US,402
+BIRTHPLACE,Jeddah  Tihamah  SA,403
+BIRTHPLACE,Colrain  Massachusetts  US,404
+BIRTHPLACE,Hardwick  Massachusetts  US,405
+BIRTHPLACE,Peru  Massachusetts  US,406
+BIRTHPLACE,Chesterfield  Massachusetts  US,407
+BIRTHPLACE,Aquinnah  Massachusetts  US,408
+BIRTHPLACE,Rio de Janerio  Rio de Janerio  BR,409
+BIRTHPLACE,Brasilia  Federal District  BR,410
+BIRTHPLACE,Wendell  Massachusetts  US,411
+BIRTHPLACE,Faro  Algarve  PT,412
+BIRTHPLACE,Stockbridge  Massachusetts  US,413
+BIRTHPLACE,Heraklion  Heraklion Prefecture  GR,414
+BIRTHPLACE,Wrocław  Lower Silesian  PL,415
+BIRTHPLACE,Holland  Massachusetts  US,416
+BIRTHPLACE,Huntington  Massachusetts  US,417
+BIRTHPLACE,Łódź  Łódź  PL,418
+BIRTHPLACE,Sandisfield  Massachusetts  US,419
+BIRTHPLACE,Blandford  Massachusetts  US,420
+BIRTHPLACE,Berlin  Massachusetts  US,421
+BIRTHPLACE,Sao Paulo  Sao Paulo  BR,422
+BIRTHPLACE,Truro  Massachusetts  US,423
+BIRTHPLACE,New Braintree  Massachusetts  US,424
+BIRTHPLACE,Chilmark  Massachusetts  US,425
+BIRTHPLACE,Alford  Massachusetts  US,426
+BIRTHPLACE,Monroe  Massachusetts  US,427
